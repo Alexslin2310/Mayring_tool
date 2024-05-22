@@ -24,13 +24,13 @@ function Load-And-Analyze-JSON {
         foreach ($item in $jsonContent) {
             # Convert the item to a PowerShell object and add the JsonFile property
             $item = [PSCustomObject]@{
-                ID               = $item.ID
-                Nummer           = $item.Nummer
+                ID               = [int]$item.ID
+                Nummer           = [int]$item.Nummer
                 Textausschnitt   = $item.Textausschnitt
-                Paraphrase       = $item.Paraphrase
-                Generalisierung  = $item.Generalisierung
-                Kategorie        = $item.Kategorie
-                Subkategorie     = $item.Subkategorie
+                Paraphrase       = if ($item.Paraphrase) { $item.Paraphrase } else { "" }
+                Generalisierung  = if ($item.Generalisierung) { $item.Generalisierung } else { "" }
+                Kategorie        = if ($item.Kategorie) { $item.Kategorie } else { "" }
+                Subkategorie     = if ($item.Subkategorie) { $item.Subkategorie } else { "" }
                 JsonFile         = $file.FullName
             }
 
@@ -39,12 +39,16 @@ function Load-And-Analyze-JSON {
 
             if (-not $categories.ContainsKey($category)) {
                 $categories[$category] = @{}
-                $globalCategories += $category
+                if ($category -ne $null -and $category -ne "") {
+                    $globalCategories += $category
+                }
             }
 
             if (-not $categories[$category].ContainsKey($subCategory)) {
                 $categories[$category][$subCategory] = @()
-                $globalSubCategories += $subCategory
+                if ($subCategory -ne $null -and $subCategory -ne "") {
+                    $globalSubCategories += $subCategory
+                }
             }
 
             $categories[$category][$subCategory] += $item
@@ -89,6 +93,9 @@ function Populate-TreeView {
             $categoryItems += $subItems
         }
 
+        # Sort category items by ID and Nummer
+        $categoryItems = $categoryItems | Sort-Object -Property ID, Nummer
+
         $categoryNode = New-Object System.Windows.Controls.TreeViewItem
         $categoryNode.Header = "$category (Count: $($categoryItems.Count))"
         $categoryNode.Tag = @{"Type"="Category"; "Items"=$categoryItems}
@@ -99,6 +106,10 @@ function Populate-TreeView {
         foreach ($subCategoryEntry in $sortedSubCategories) {
             $subCategory = $subCategoryEntry.Key
             $subCategoryItems = $categories[$category][$subCategory]
+
+            # Sort subcategory items by ID and Nummer
+            $subCategoryItems = $subCategoryItems | Sort-Object -Property ID, Nummer
+
             $subCategoryNode = New-Object System.Windows.Controls.TreeViewItem
             $subCategoryNode.Header = "$subCategory (Count: $($subCategoryItems.Count))"
             $subCategoryNode.Tag = @{"Type"="SubCategory"; "Items"=$subCategoryItems}
@@ -128,21 +139,25 @@ function Save-Items {
 
         foreach ($item in $fileItems) {
             $jsonItem = $jsonContent | Where-Object { $_.ID -eq $item.ID -and $_.Nummer -eq $item.Nummer }
-            $jsonItem.Textausschnitt = $item.Textausschnitt
-            $jsonItem.Paraphrase = $item.Paraphrase
-            $jsonItem.Generalisierung = $item.Generalisierung
-            $jsonItem.Kategorie = $item.Kategorie
-            $jsonItem.Subkategorie = $item.Subkategorie
+            if ($jsonItem -ne $null) {
+                $jsonItem.Textausschnitt = $item.Textausschnitt
+                $jsonItem.Paraphrase = $item.Paraphrase
+                $jsonItem.Generalisierung = $item.Generalisierung
+                $jsonItem.Kategorie = $item.Kategorie
+                $jsonItem.Subkategorie = $item.Subkategorie
+            }
         }
 
         $jsonContent | ConvertTo-Json -Depth 3 | Set-Content -Path $filePath -Encoding UTF8
     }
 
-    # Reload categories and refresh TreeView
-    $folderPath = Split-Path -Parent $groupedByFile[0].Name
-    $progressBar = New-Object System.Windows.Controls.ProgressBar
-    $categories = Load-And-Analyze-JSON -folderPath $folderPath -progressBar ([ref]$progressBar)
-    Populate-TreeView -treeView $treeView -categories $categories
+    # Reload categories and refresh TreeView only if treeView is not null
+    if ($treeView -ne $null) {
+        $folderPath = Split-Path -Parent $groupedByFile[0].Name
+        $progressBar = New-Object System.Windows.Controls.ProgressBar
+        $categories = Load-And-Analyze-JSON -folderPath $folderPath -progressBar ([ref]$progressBar)
+        Populate-TreeView -treeView $treeView -categories $categories
+    }
 }
 
 # Function to export the current items to a CSV file
@@ -278,14 +293,14 @@ function Show-DetailsWindow {
     $kategorieColumn = New-Object System.Windows.Controls.DataGridComboBoxColumn
     $kategorieColumn.Header = "Kategorie"
     $kategorieColumn.SelectedItemBinding = New-Object System.Windows.Data.Binding("Kategorie")
-    $kategorieColumn.ItemsSource = $globalCategories
+    $kategorieColumn.ItemsSource = $categoryData.Kategorien
     $kategorieColumn.Width = 200
     $dataGrid.Columns.Add($kategorieColumn)
 
     $subkategorieColumn = New-Object System.Windows.Controls.DataGridComboBoxColumn
     $subkategorieColumn.Header = "Subkategorie"
     $subkategorieColumn.SelectedItemBinding = New-Object System.Windows.Data.Binding("Subkategorie")
-    $subkategorieColumn.ItemsSource = $globalSubCategories
+    $subkategorieColumn.ItemsSource = $categoryData.Subkategorien
     $subkategorieColumn.Width = 200
     $dataGrid.Columns.Add($subkategorieColumn)
 
@@ -343,13 +358,25 @@ function Show-DetailsWindow {
     [System.Windows.Controls.Grid]::SetRow($buttonPanel, 2)
 
     $detailsWindow.Content = $grid
+
+    # Add event handler to update TreeView when details window is closed
+    $detailsWindow.add_Closed({
+        $folderPath = Split-Path -Parent $items[0].JsonFile
+        $progressBar = New-Object System.Windows.Controls.ProgressBar
+        $categories = Load-And-Analyze-JSON -folderPath $folderPath -progressBar ([ref]$progressBar)
+        Populate-TreeView -treeView $treeView -categories $categories
+    })
+
     $detailsWindow.ShowDialog()
 }
 
 # Function to show details of a specific JSON file
 function Show-JsonDetails {
     param (
-        [string]$filePath
+        [string]$filePath,
+        [hashtable]$categories,
+        [System.Windows.Controls.TreeView]$treeView,
+        [hashtable]$categoryData
     )
 
     $jsonContent = Get-Content -Path $filePath -Raw -Encoding UTF8 | ConvertFrom-Json
@@ -357,8 +384,8 @@ function Show-JsonDetails {
 
     foreach ($item in $jsonContent) {
         $items += [PSCustomObject]@{
-            ID               = $item.ID
-            Nummer           = $item.Nummer
+            ID               = [int]$item.ID
+            Nummer           = [int]$item.Nummer
             Textausschnitt   = $item.Textausschnitt
             Paraphrase       = $item.Paraphrase
             Generalisierung  = $item.Generalisierung
@@ -368,7 +395,7 @@ function Show-JsonDetails {
         }
     }
 
-    Show-DetailsWindow -header "Details for $filePath" -items $items -categories $null -treeView $null -categoryData @{}
+    Show-DetailsWindow -header "Details for $filePath" -items $items -categories $categories -treeView $treeView -categoryData $categoryData
 }
 
 # Function to create the enhanced GUI using WPF
@@ -445,7 +472,8 @@ function Create-GUI {
         if ($selectedItem -and $selectedItem.Tag) {
             $header = $selectedItem.Header.ToString()
             $items = $selectedItem.Tag["Items"]
-            Show-DetailsWindow -header $header -items $items -categories $categories -treeView $treeView -categoryData @{}
+            $categoryData = Load-CategoryData -filePath "$PSScriptRoot\Config\Config.Kategorie.json"
+            Show-DetailsWindow -header $header -items $items -categories $categories -treeView $treeView -categoryData $categoryData
         }
     })
 
@@ -473,7 +501,8 @@ function Create-GUI {
         $openFileDialog.Title = "Select a JSON File"
         if ($openFileDialog.ShowDialog() -eq [System.Windows.Forms.DialogResult]::OK) {
             $filePath = $openFileDialog.FileName
-            Show-JsonDetails -filePath $filePath
+            $categoryData = Load-CategoryData -filePath "$PSScriptRoot\Config\Config.Kategorie.json"
+            Show-JsonDetails -filePath $filePath -categories $categories -treeView $treeView -categoryData $categoryData
         }
     })
 

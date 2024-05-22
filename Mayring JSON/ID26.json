@@ -1,93 +1,92 @@
 ﻿[
     {
-      "ID": "26",
-      "Nummer": "1",
-      "Textausschnitt": "Zu Beginn war es notwendig, sich genauer mit der Funktionsweise auseinanderzusetzen. Hierzu habe ich mir einige YouTube-Videos angesehen, welche detailliert Aufschluss darüber geben konnten, wie eine Chat-Bot-KI arbeitet. Besonders wichtig war es, zu verstehen, was sogenannte Prompts sind und wie man sie richtig einsetzt.",
-      "Paraphrase": "Zu Beginn war es notwendig, die Funktionsweise zu verstehen. YouTube-Videos halfen mir zu lernen, wie eine Chat-Bot-KI arbeitet und was Prompts sind.",
-      "Generalisierung": "Notwendigkeit, die Funktionsweise und den Einsatz von Prompts zu verstehen.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "26",
+        "Nummer":  "1",
+        "Textausschnitt":  "Zu Beginn war es notwendig, sich genauer mit der Funktionsweise auseinanderzusetzen. Hierzu habe ich mir einige YouTube-Videos angesehen, welche detailliert Aufschluss darüber geben konnten, wie eine Chat-Bot-KI arbeitet. Besonders wichtig war es, zu verstehen, was sogenannte Prompts sind und wie man sie richtig einsetzt.",
+        "Paraphrase":  "Zu Beginn war es notwendig, die Funktionsweise zu verstehen. YouTube-Videos halfen mir zu lernen, wie eine Chat-Bot-KI arbeitet und was Prompts sind.",
+        "Generalisierung":  "Notwendigkeit, die Funktionsweise und den Einsatz von Prompts zu verstehen.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "26",
-      "Nummer": "2",
-      "Textausschnitt": "So ist es nicht möglich, aktuelle Informationen über ChatGPT zu erhalten, da die KI nur mit Datensätzen bis September 2021 versorgt wurde.",
-      "Paraphrase": "ChatGPT kann keine aktuellen Informationen liefern, da es nur Daten bis September 2021 hat.",
-      "Generalisierung": "Keine aktuellen Informationen von ChatGPT wegen Datenbegrenzung bis September 2021.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "26",
+        "Nummer":  "2",
+        "Textausschnitt":  "So ist es nicht möglich, aktuelle Informationen über ChatGPT zu erhalten, da die KI nur mit Datensätzen bis September 2021 versorgt wurde.",
+        "Paraphrase":  "ChatGPT kann keine aktuellen Informationen liefern, da es nur Daten bis September 2021 hat.",
+        "Generalisierung":  "Keine aktuellen Informationen von ChatGPT wegen Datenbegrenzung bis September 2021.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "26",
-      "Nummer": "3",
-      "Textausschnitt": "Außerdem hat ChatGPT auch nicht alle verfügbaren Informationen, welche vor September 2021 im Internet veröffentlicht wurden. Teilweise ist es aber möglich, auf (mehrmalige) Nachfrage genauere Informationen zu erhalten. Diese entsprechen allerdings nicht immer der Wahrheit.",
-      "Paraphrase": "ChatGPT hat nicht alle Informationen vor September 2021 und liefert auf mehrmalige Nachfrage manchmal genauere, aber nicht immer korrekte Informationen.",
-      "Generalisierung": "Nicht alle Informationen vor September 2021 und manchmal ungenaue Informationen von ChatGPT.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "26",
+        "Nummer":  "3",
+        "Textausschnitt":  "Außerdem hat ChatGPT auch nicht alle verfügbaren Informationen, welche vor September 2021 im Internet veröffentlicht wurden. Teilweise ist es aber möglich, auf (mehrmalige) Nachfrage genauere Informationen zu erhalten. Diese entsprechen allerdings nicht immer der Wahrheit.",
+        "Paraphrase":  "ChatGPT hat nicht alle Informationen vor September 2021 und liefert auf mehrmalige Nachfrage manchmal genauere, aber nicht immer korrekte Informationen.",
+        "Generalisierung":  "Nicht alle Informationen vor September 2021 und manchmal ungenaue Informationen von ChatGPT.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "26",
-      "Nummer": "4",
-      "Textausschnitt": "Die von ChatGPT gegebenen Antworten sind fast immer – zumindest bei längeren Fließtexten – erkennbar, da sie eine Vielzahl von Füllwörtern und Wiederholungen beinhalten.",
-      "Paraphrase": "Die Antworten von ChatGPT sind bei längeren Texten erkennbar, da sie viele Füllwörter und Wiederholungen enthalten.",
-      "Generalisierung": "Längere Texte von ChatGPT enthalten viele Füllwörter und Wiederholungen.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "26",
+        "Nummer":  "4",
+        "Textausschnitt":  "Die von ChatGPT gegebenen Antworten sind fast immer – zumindest bei längeren Fließtexten – erkennbar, da sie eine Vielzahl von Füllwörtern und Wiederholungen beinhalten.",
+        "Paraphrase":  "Die Antworten von ChatGPT sind bei längeren Texten erkennbar, da sie viele Füllwörter und Wiederholungen enthalten.",
+        "Generalisierung":  "Längere Texte von ChatGPT enthalten viele Füllwörter und Wiederholungen.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "26",
-      "Nummer": "5",
-      "Textausschnitt": "Des Weiteren haben Studenten, welche Zugriff auf die kostenpflichtige Version haben (z. B. durch Werkstudentenstellen) einen großen Vorteil.",
-      "Paraphrase": "Studenten mit Zugang zur kostenpflichtigen Version haben einen großen Vorteil.",
-      "Generalisierung": "Zugang zur kostenpflichtigen Version bietet einen großen Vorteil.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "26",
+        "Nummer":  "5",
+        "Textausschnitt":  "Des Weiteren haben Studenten, welche Zugriff auf die kostenpflichtige Version haben (z. B. durch Werkstudentenstellen) einen großen Vorteil.",
+        "Paraphrase":  "Studenten mit Zugang zur kostenpflichtigen Version haben einen großen Vorteil.",
+        "Generalisierung":  "Zugang zur kostenpflichtigen Version bietet einen großen Vorteil.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "26",
-      "Nummer": "6",
-      "Textausschnitt": "Auch ist auch anzumerken, dass der Lerneffekt durch den Einsatz von ChatGPT deutlich geschmälert wurde. Einzelne Folien waren zwar hilfreich, um die Aufgabenstellung besser zu verstehen, ein Großteil der Inhalte war jedoch für die Bearbeitung der Aufgaben nicht relevant.",
-      "Paraphrase": "Der Lerneffekt wurde durch ChatGPT deutlich geschmälert. Einige Folien halfen beim Verständnis, aber viele Inhalte waren für die Aufgabenbearbeitung nicht relevant.",
-      "Generalisierung": "ChatGPT schmälert den Lerneffekt, einige Inhalte sind nicht relevant.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "26",
+        "Nummer":  "6",
+        "Textausschnitt":  "Auch ist auch anzumerken, dass der Lerneffekt durch den Einsatz von ChatGPT deutlich geschmälert wurde. Einzelne Folien waren zwar hilfreich, um die Aufgabenstellung besser zu verstehen, ein Großteil der Inhalte war jedoch für die Bearbeitung der Aufgaben nicht relevant.",
+        "Paraphrase":  "Der Lerneffekt wurde durch ChatGPT deutlich geschmälert. Einige Folien halfen beim Verständnis, aber viele Inhalte waren für die Aufgabenbearbeitung nicht relevant.",
+        "Generalisierung":  "ChatGPT schmälert den Lerneffekt, einige Inhalte sind nicht relevant.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "26",
-      "Nummer": "7",
-      "Textausschnitt": "Allgemein hätte ich mir gewünscht, dass wir das Thema künstliche Intelligenz etwas intensiver behandeln, wenn es denn als zentrales Mittel zur Bearbeitung der Hausarbeit vorgesehen ist.",
-      "Paraphrase": "Ich hätte mir gewünscht, dass das Thema künstliche Intelligenz intensiver behandelt wird, wenn es zentral für die Hausarbeit ist.",
-      "Generalisierung": "Intensivere Behandlung des Themas künstliche Intelligenz gewünscht.",
-      "Kategorie": "Sonstiges",
-      "Subkategorie": ""
+        "ID":  "26",
+        "Nummer":  "7",
+        "Textausschnitt":  "Allgemein hätte ich mir gewünscht, dass wir das Thema künstliche Intelligenz etwas intensiver behandeln, wenn es denn als zentrales Mittel zur Bearbeitung der Hausarbeit vorgesehen ist.",
+        "Paraphrase":  "Ich hätte mir gewünscht, dass das Thema künstliche Intelligenz intensiver behandelt wird, wenn es zentral für die Hausarbeit ist.",
+        "Generalisierung":  "Intensivere Behandlung des Themas künstliche Intelligenz gewünscht.",
+        "Kategorie":  "Sonstiges",
+        "Subkategorie":  ""
     },
     {
-      "ID": "26",
-      "Nummer": "8",
-      "Textausschnitt": "Ich bin der Meinung, dass es sehr wichtig ist, bis zu einem gewissen Grad zu verstehen, was KI überhaupt ist und wie sie funktioniert (Stichworte: Machine Learning, Deep Learning, überwachtes/ nicht überwachtes Lernen, Klassifikation, Regression, Test- und Trainingsdaten, exemplarisch ein bis zwei Algorithmen oberflächlich behandeln). Dies könnte z. B. im Rahmen von ein bis zwei Vorlesungen geschehen.",
-      "Paraphrase": "Es ist wichtig zu verstehen, was KI ist und wie sie funktioniert. Dies könnte in ein bis zwei Vorlesungen geschehen.",
-      "Generalisierung": "Verständnis der KI und ihrer Funktionsweise ist wichtig und könnte in Vorlesungen vermittelt werden.",
-      "Kategorie": "Sonstiges",
-      "Subkategorie": ""
+        "ID":  "26",
+        "Nummer":  "8",
+        "Textausschnitt":  "Ich bin der Meinung, dass es sehr wichtig ist, bis zu einem gewissen Grad zu verstehen, was KI überhaupt ist und wie sie funktioniert (Stichworte: Machine Learning, Deep Learning, überwachtes/ nicht überwachtes Lernen, Klassifikation, Regression, Test- und Trainingsdaten, exemplarisch ein bis zwei Algorithmen oberflächlich behandeln). Dies könnte z. B. im Rahmen von ein bis zwei Vorlesungen geschehen.",
+        "Paraphrase":  "Es ist wichtig zu verstehen, was KI ist und wie sie funktioniert. Dies könnte in ein bis zwei Vorlesungen geschehen.",
+        "Generalisierung":  "Verständnis der KI und ihrer Funktionsweise ist wichtig und könnte in Vorlesungen vermittelt werden.",
+        "Kategorie":  "Sonstiges",
+        "Subkategorie":  ""
     },
     {
-      "ID": "26",
-      "Nummer": "9",
-      "Textausschnitt": "Durch die gemachten Erfahrungen bin ich zu der Meinung gekommen, dass sich ChatGPT momentan noch nicht für längere Fließtexte eignet.",
-      "Paraphrase": "Ich denke, dass sich ChatGPT momentan nicht für längere Fließtexte eignet.",
-      "Generalisierung": "ChatGPT eignet sich momentan nicht für längere Fließtexte.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "26",
+        "Nummer":  "9",
+        "Textausschnitt":  "Durch die gemachten Erfahrungen bin ich zu der Meinung gekommen, dass sich ChatGPT momentan noch nicht für längere Fließtexte eignet.",
+        "Paraphrase":  "Ich denke, dass sich ChatGPT momentan nicht für längere Fließtexte eignet.",
+        "Generalisierung":  "ChatGPT eignet sich momentan nicht für längere Fließtexte.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "26",
-      "Nummer": "10",
-      "Textausschnitt": "Viel mehr eignet es sich aber als Ideengeber oder als Informationslieferant auf kurze und sehr präzise gestellte Fragen.",
-      "Paraphrase": "ChatGPT eignet sich als Ideengeber oder Informationslieferant für kurze und präzise Fragen.",
-      "Generalisierung": "Eignet sich als Ideengeber oder Informationslieferant für kurze und präzise Fragen.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "26",
+        "Nummer":  "10",
+        "Textausschnitt":  "Viel mehr eignet es sich aber als Ideengeber oder als Informationslieferant auf kurze und sehr präzise gestellte Fragen.",
+        "Paraphrase":  "ChatGPT eignet sich als Ideengeber oder Informationslieferant für kurze und präzise Fragen.",
+        "Generalisierung":  "Eignet sich als Ideengeber oder Informationslieferant für kurze und präzise Fragen.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     }
-  ]
-  
+]

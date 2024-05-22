@@ -1,165 +1,164 @@
 ﻿[
     {
-      "ID": "22",
-      "Nummer": "1",
-      "Textausschnitt": "Einer der offensichtlichsten Vorteile besteht darin, dass Rechtschreibfehler und Zeichensetzungsfehler kaum auftreten. ChatGPT ist darauf trainiert, korrekte Grammatik und Interpunktion zu verwenden, was zu einem insgesamt qualitativ hochwertigeren Text führt.",
-      "Paraphrase": "Ein offensichtlicher Vorteil ist, dass ChatGPT kaum Rechtschreib- und Zeichensetzungsfehler macht, was zu qualitativ hochwertigeren Texten führt.",
-      "Generalisierung": "Kaum Rechtschreib- und Zeichensetzungsfehler durch ChatGPT führen zu hochwertigen Texten.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "22",
+        "Nummer":  "1",
+        "Textausschnitt":  "Einer der offensichtlichsten Vorteile besteht darin, dass Rechtschreibfehler und Zeichensetzungsfehler kaum auftreten. ChatGPT ist darauf trainiert, korrekte Grammatik und Interpunktion zu verwenden, was zu einem insgesamt qualitativ hochwertigeren Text führt.",
+        "Paraphrase":  "Ein offensichtlicher Vorteil ist, dass ChatGPT kaum Rechtschreib- und Zeichensetzungsfehler macht, was zu qualitativ hochwertigeren Texten führt.",
+        "Generalisierung":  "Kaum Rechtschreib- und Zeichensetzungsfehler durch ChatGPT führen zu hochwertigen Texten.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "22",
-      "Nummer": "2",
-      "Textausschnitt": "Diese automatische Korrekturfunktion spart dem Studenten Zeit und Mühe, da er sich nicht mit mühsamen Korrekturen befassen muss.",
-      "Paraphrase": "Die automatische Korrekturfunktion spart dem Studenten Zeit und Mühe.",
-      "Generalisierung": "Automatische Korrekturfunktion spart Zeit und Mühe.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "22",
+        "Nummer":  "2",
+        "Textausschnitt":  "Diese automatische Korrekturfunktion spart dem Studenten Zeit und Mühe, da er sich nicht mit mühsamen Korrekturen befassen muss.",
+        "Paraphrase":  "Die automatische Korrekturfunktion spart dem Studenten Zeit und Mühe.",
+        "Generalisierung":  "Automatische Korrekturfunktion spart Zeit und Mühe.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "22",
-      "Nummer": "3",
-      "Textausschnitt": "Ein weiterer Vorteil ist, dass ChatGPT die Tipparbeit erheblich reduziert. Anstatt den gesamten Text manuell eingeben zu müssen, kann der Student dem Chatbot seine Gedanken und Informationen mitteilen, und ChatGPT erstellt den Text in Echtzeit.",
-      "Paraphrase": "ChatGPT reduziert die Tipparbeit erheblich, indem es den Text in Echtzeit basierend auf den Gedanken und Informationen des Studenten erstellt.",
-      "Generalisierung": "Reduzierung der Tipparbeit durch Echtzeiterstellung von Texten basierend auf Gedanken und Informationen.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "22",
+        "Nummer":  "3",
+        "Textausschnitt":  "Ein weiterer Vorteil ist, dass ChatGPT die Tipparbeit erheblich reduziert. Anstatt den gesamten Text manuell eingeben zu müssen, kann der Student dem Chatbot seine Gedanken und Informationen mitteilen, und ChatGPT erstellt den Text in Echtzeit.",
+        "Paraphrase":  "ChatGPT reduziert die Tipparbeit erheblich, indem es den Text in Echtzeit basierend auf den Gedanken und Informationen des Studenten erstellt.",
+        "Generalisierung":  "Reduzierung der Tipparbeit durch Echtzeiterstellung von Texten basierend auf Gedanken und Informationen.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "22",
-      "Nummer": "4",
-      "Textausschnitt": "Dies ermöglicht eine schnellere Arbeitsweise und mehr Zeit für die eigentliche Recherche und das Studium des Themas.",
-      "Paraphrase": "Dies ermöglicht eine schnellere Arbeitsweise und mehr Zeit für die Recherche und das Studium des Themas.",
-      "Generalisierung": "Schnellere Arbeitsweise und mehr Zeit für Recherche und Studium.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "22",
+        "Nummer":  "4",
+        "Textausschnitt":  "Dies ermöglicht eine schnellere Arbeitsweise und mehr Zeit für die eigentliche Recherche und das Studium des Themas.",
+        "Paraphrase":  "Dies ermöglicht eine schnellere Arbeitsweise und mehr Zeit für die Recherche und das Studium des Themas.",
+        "Generalisierung":  "Schnellere Arbeitsweise und mehr Zeit für Recherche und Studium.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "22",
-      "Nummer": "5",
-      "Textausschnitt": "Ein interessanter Aspekt der Verwendung von ChatGPT ist die Möglichkeit, kreative Anreize zu erhalten. Der Chatbot kann bei der Entwicklung von Titeln oder Themen für die Hausarbeit unterstützen, indem er Vorschläge macht oder Ideen generiert.",
-      "Paraphrase": "Ein interessanter Aspekt ist, dass ChatGPT kreative Anreize bietet, indem es Vorschläge für Titel oder Themen macht.",
-      "Generalisierung": "ChatGPT bietet kreative Anreize durch Vorschläge für Titel oder Themen.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "22",
+        "Nummer":  "5",
+        "Textausschnitt":  "Ein interessanter Aspekt der Verwendung von ChatGPT ist die Möglichkeit, kreative Anreize zu erhalten. Der Chatbot kann bei der Entwicklung von Titeln oder Themen für die Hausarbeit unterstützen, indem er Vorschläge macht oder Ideen generiert.",
+        "Paraphrase":  "Ein interessanter Aspekt ist, dass ChatGPT kreative Anreize bietet, indem es Vorschläge für Titel oder Themen macht.",
+        "Generalisierung":  "ChatGPT bietet kreative Anreize durch Vorschläge für Titel oder Themen.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "22",
-      "Nummer": "6",
-      "Textausschnitt": "Dies kann besonders hilfreich sein, wenn der Student Schwierigkeiten hat, einen geeigneten Fokus für seine Arbeit zu finden.",
-      "Paraphrase": "Das ist besonders hilfreich, wenn der Student Schwierigkeiten hat, einen Fokus für seine Arbeit zu finden.",
-      "Generalisierung": "Hilfreich bei Schwierigkeiten, einen Fokus für die Arbeit zu finden.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "22",
+        "Nummer":  "6",
+        "Textausschnitt":  "Dies kann besonders hilfreich sein, wenn der Student Schwierigkeiten hat, einen geeigneten Fokus für seine Arbeit zu finden.",
+        "Paraphrase":  "Das ist besonders hilfreich, wenn der Student Schwierigkeiten hat, einen Fokus für seine Arbeit zu finden.",
+        "Generalisierung":  "Hilfreich bei Schwierigkeiten, einen Fokus für die Arbeit zu finden.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "22",
-      "Nummer": "7",
-      "Textausschnitt": "Darüber hinaus bietet ChatGPT die Möglichkeit, Texte schnell zusammenzufassen oder Lernzettel zu erstellen. Dies kann besonders praktisch sein, wenn es darum geht, komplexe Informationen auf den Punkt zu bringen oder eine Übersicht für das Lernen zu erstellen.",
-      "Paraphrase": "ChatGPT kann Texte schnell zusammenfassen oder Lernzettel erstellen, was praktisch ist, um komplexe Informationen auf den Punkt zu bringen oder eine Lernübersicht zu erstellen.",
-      "Generalisierung": "Schnelles Zusammenfassen von Texten oder Erstellen von Lernzetteln durch ChatGPT.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "22",
+        "Nummer":  "7",
+        "Textausschnitt":  "Darüber hinaus bietet ChatGPT die Möglichkeit, Texte schnell zusammenzufassen oder Lernzettel zu erstellen. Dies kann besonders praktisch sein, wenn es darum geht, komplexe Informationen auf den Punkt zu bringen oder eine Übersicht für das Lernen zu erstellen.",
+        "Paraphrase":  "ChatGPT kann Texte schnell zusammenfassen oder Lernzettel erstellen, was praktisch ist, um komplexe Informationen auf den Punkt zu bringen oder eine Lernübersicht zu erstellen.",
+        "Generalisierung":  "Schnelles Zusammenfassen von Texten oder Erstellen von Lernzetteln durch ChatGPT.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "22",
-      "Nummer": "8",
-      "Textausschnitt": "Ein häufig auftretendes Problem ist die Wiederholung des Inhalts in der Erstellung einzelner Absätze. ChatGPT kann dazu neigen, ähnliche Informationen wiederholt zu präsentieren, was zu Redundanzen im Text führen kann. Dies kann den Lesefluss beeinträchtigen und die Qualität des fertigen Werkes beeinflussen.",
-      "Paraphrase": "Ein häufiges Problem ist die Wiederholung von Inhalten. ChatGPT neigt dazu, ähnliche Informationen zu wiederholen, was den Lesefluss beeinträchtigen kann.",
-      "Generalisierung": "Wiederholung von Inhalten beeinträchtigt den Lesefluss.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "22",
+        "Nummer":  "8",
+        "Textausschnitt":  "Ein häufig auftretendes Problem ist die Wiederholung des Inhalts in der Erstellung einzelner Absätze. ChatGPT kann dazu neigen, ähnliche Informationen wiederholt zu präsentieren, was zu Redundanzen im Text führen kann. Dies kann den Lesefluss beeinträchtigen und die Qualität des fertigen Werkes beeinflussen.",
+        "Paraphrase":  "Ein häufiges Problem ist die Wiederholung von Inhalten. ChatGPT neigt dazu, ähnliche Informationen zu wiederholen, was den Lesefluss beeinträchtigen kann.",
+        "Generalisierung":  "Wiederholung von Inhalten beeinträchtigt den Lesefluss.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "22",
-      "Nummer": "9",
-      "Textausschnitt": "Ein weiterer Nachteil ist, dass der Datenzugriff von ChatGPT auf Informationen bis September 2021 beschränkt ist. Dies bedeutet, dass der Chatbot keine Informationen über aktuelle Ereignisse oder Entwicklungen hat. Wenn aktuelle Informationen in der Hausarbeit erforderlich sind, muss der Student auf andere Quellen zugreifen.",
-      "Paraphrase": "Ein Nachteil ist, dass ChatGPT nur Informationen bis September 2021 hat. Für aktuelle Informationen muss der Student andere Quellen nutzen.",
-      "Generalisierung": "Beschränkung auf Informationen bis September 2021 erfordert Nutzung anderer Quellen für aktuelle Informationen.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "22",
+        "Nummer":  "9",
+        "Textausschnitt":  "Ein weiterer Nachteil ist, dass der Datenzugriff von ChatGPT auf Informationen bis September 2021 beschränkt ist. Dies bedeutet, dass der Chatbot keine Informationen über aktuelle Ereignisse oder Entwicklungen hat. Wenn aktuelle Informationen in der Hausarbeit erforderlich sind, muss der Student auf andere Quellen zugreifen.",
+        "Paraphrase":  "Ein Nachteil ist, dass ChatGPT nur Informationen bis September 2021 hat. Für aktuelle Informationen muss der Student andere Quellen nutzen.",
+        "Generalisierung":  "Beschränkung auf Informationen bis September 2021 erfordert Nutzung anderer Quellen für aktuelle Informationen.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "22",
-      "Nummer": "10",
-      "Textausschnitt": "Ein wichtiger Aspekt, der bei der Verwendung von ChatGPT beachtet werden sollte, ist die Datensicherheit. Es besteht die Möglichkeit, dass eingegebene Informationen in falsche Hände geraten und möglicherweise im Internet veröffentlicht werden. Dies kann besonders problematisch sein, wenn es sich um sensible oder vertrauliche Informationen handelt.",
-      "Paraphrase": "Ein wichtiger Aspekt ist die Datensicherheit. Eingegebene Informationen könnten in falsche Hände geraten und im Internet veröffentlicht werden.",
-      "Generalisierung": "Datensicherheit ist wichtig, da Informationen in falsche Hände geraten und veröffentlicht werden könnten.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "22",
+        "Nummer":  "10",
+        "Textausschnitt":  "Ein wichtiger Aspekt, der bei der Verwendung von ChatGPT beachtet werden sollte, ist die Datensicherheit. Es besteht die Möglichkeit, dass eingegebene Informationen in falsche Hände geraten und möglicherweise im Internet veröffentlicht werden. Dies kann besonders problematisch sein, wenn es sich um sensible oder vertrauliche Informationen handelt.",
+        "Paraphrase":  "Ein wichtiger Aspekt ist die Datensicherheit. Eingegebene Informationen könnten in falsche Hände geraten und im Internet veröffentlicht werden.",
+        "Generalisierung":  "Datensicherheit ist wichtig, da Informationen in falsche Hände geraten und veröffentlicht werden könnten.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "22",
-      "Nummer": "11",
-      "Textausschnitt": "Es ist wichtig, dass Unternehmen und Nutzer entsprechende Sicherheitsvorkehrungen treffen und den Chatbot verantwortungsvoll einsetzen.",
-      "Paraphrase": "Unternehmen und Nutzer sollten Sicherheitsvorkehrungen treffen und den Chatbot verantwortungsvoll einsetzen.",
-      "Generalisierung": "Sicherheitsvorkehrungen und verantwortungsvoller Einsatz des Chatbots sind wichtig.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "22",
+        "Nummer":  "11",
+        "Textausschnitt":  "Es ist wichtig, dass Unternehmen und Nutzer entsprechende Sicherheitsvorkehrungen treffen und den Chatbot verantwortungsvoll einsetzen.",
+        "Paraphrase":  "Unternehmen und Nutzer sollten Sicherheitsvorkehrungen treffen und den Chatbot verantwortungsvoll einsetzen.",
+        "Generalisierung":  "Sicherheitsvorkehrungen und verantwortungsvoller Einsatz des Chatbots sind wichtig.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "22",
-      "Nummer": "12",
-      "Textausschnitt": "Insbesondere bei der Ideenfindung für Haus-, Projekt- oder Bachelorarbeiten kann der Chatbot unterstützend eingesetzt werden.",
-      "Paraphrase": "Der Chatbot kann bei der Ideenfindung für Haus-, Projekt- oder Bachelorarbeiten unterstützen.",
-      "Generalisierung": "Unterstützung bei der Ideenfindung für Haus-, Projekt- oder Bachelorarbeiten durch ChatGPT.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "22",
+        "Nummer":  "12",
+        "Textausschnitt":  "Insbesondere bei der Ideenfindung für Haus-, Projekt- oder Bachelorarbeiten kann der Chatbot unterstützend eingesetzt werden.",
+        "Paraphrase":  "Der Chatbot kann bei der Ideenfindung für Haus-, Projekt- oder Bachelorarbeiten unterstützen.",
+        "Generalisierung":  "Unterstützung bei der Ideenfindung für Haus-, Projekt- oder Bachelorarbeiten durch ChatGPT.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "22",
-      "Nummer": "13",
-      "Textausschnitt": "ChatGPT kann auch bei der Erstellung von E-Mails oder anderen Texten hilfreich sein, indem er Texte generiert oder Formulierungsvorschläge macht.",
-      "Paraphrase": "ChatGPT kann bei der Erstellung von E-Mails oder anderen Texten helfen, indem es Texte generiert oder Formulierungsvorschläge macht.",
-      "Generalisierung": "Hilfe bei der Erstellung von E-Mails oder anderen Texten durch Textgenerierung und Formulierungsvorschläge.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "22",
+        "Nummer":  "13",
+        "Textausschnitt":  "ChatGPT kann auch bei der Erstellung von E-Mails oder anderen Texten hilfreich sein, indem er Texte generiert oder Formulierungsvorschläge macht.",
+        "Paraphrase":  "ChatGPT kann bei der Erstellung von E-Mails oder anderen Texten helfen, indem es Texte generiert oder Formulierungsvorschläge macht.",
+        "Generalisierung":  "Hilfe bei der Erstellung von E-Mails oder anderen Texten durch Textgenerierung und Formulierungsvorschläge.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "22",
-      "Nummer": "14",
-      "Textausschnitt": "Ein aktuelles Beispiel für den Einsatz von ChatGPT in der Praxis ist die Idee eines interaktiven Chatbots bei Firma, der Ideen generiert und Gefahrenmeldungen anhand eines 7-Stufen-Plans erstellt.",
-      "Paraphrase": "Ein Beispiel für den Einsatz von ChatGPT in der Praxis ist ein interaktiver Chatbot bei Firma, der Ideen generiert und Gefahrenmeldungen erstellt.",
-      "Generalisierung": "Beispiel für praktischen Einsatz: Interaktiver Chatbot bei Firma zur Ideen- und Gefahrenmeldungserstellung.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "22",
+        "Nummer":  "14",
+        "Textausschnitt":  "Ein aktuelles Beispiel für den Einsatz von ChatGPT in der Praxis ist die Idee eines interaktiven Chatbots bei Firma, der Ideen generiert und Gefahrenmeldungen anhand eines 7-Stufen-Plans erstellt.",
+        "Paraphrase":  "Ein Beispiel für den Einsatz von ChatGPT in der Praxis ist ein interaktiver Chatbot bei Firma, der Ideen generiert und Gefahrenmeldungen erstellt.",
+        "Generalisierung":  "Beispiel für praktischen Einsatz: Interaktiver Chatbot bei Firma zur Ideen- und Gefahrenmeldungserstellung.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "22",
-      "Nummer": "15",
-      "Textausschnitt": "Ein weiteres Beispiel ist die Verwendung von ChatGPT zur Erstellung von Auditberichten, bei der der Chatbot den Mitarbeitern Arbeit abnimmt und Berichte automatisch generiert.",
-      "Paraphrase": "Ein weiteres Beispiel ist die Verwendung von ChatGPT zur Erstellung von Auditberichten, wobei der Chatbot Berichte automatisch generiert.",
-      "Generalisierung": "Verwendung von ChatGPT zur automatischen Erstellung von Auditberichten.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "22",
+        "Nummer":  "15",
+        "Textausschnitt":  "Ein weiteres Beispiel ist die Verwendung von ChatGPT zur Erstellung von Auditberichten, bei der der Chatbot den Mitarbeitern Arbeit abnimmt und Berichte automatisch generiert.",
+        "Paraphrase":  "Ein weiteres Beispiel ist die Verwendung von ChatGPT zur Erstellung von Auditberichten, wobei der Chatbot Berichte automatisch generiert.",
+        "Generalisierung":  "Verwendung von ChatGPT zur automatischen Erstellung von Auditberichten.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "22",
-      "Nummer": "16",
-      "Textausschnitt": "Informationen können schnell zusammengefasst und in benutzbare Texte konvertiert werden. Dadurch spart der Student Zeit beim Schreiben der Hausarbeit. Gleichzeitig trägt dies dazu bei, dass das Thema besser verstanden wird, da sich der Fokus weniger auf das Schreiben des Textes, sondern mehr auf die Seminarunterlagen und die inhaltliche Auseinandersetzung mit dem Thema richtet.",
-      "Paraphrase": "Informationen können schnell zusammengefasst und in benutzbare Texte konvertiert werden, was Zeit spart und das Verständnis des Themas verbessert.",
-      "Generalisierung": "Schnelles Zusammenfassen und Konvertieren von Informationen spart Zeit und verbessert das Verständnis des Themas.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "22",
+        "Nummer":  "16",
+        "Textausschnitt":  "Informationen können schnell zusammengefasst und in benutzbare Texte konvertiert werden. Dadurch spart der Student Zeit beim Schreiben der Hausarbeit. Gleichzeitig trägt dies dazu bei, dass das Thema besser verstanden wird, da sich der Fokus weniger auf das Schreiben des Textes, sondern mehr auf die Seminarunterlagen und die inhaltliche Auseinandersetzung mit dem Thema richtet.",
+        "Paraphrase":  "Informationen können schnell zusammengefasst und in benutzbare Texte konvertiert werden, was Zeit spart und das Verständnis des Themas verbessert.",
+        "Generalisierung":  "Schnelles Zusammenfassen und Konvertieren von Informationen spart Zeit und verbessert das Verständnis des Themas.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "22",
-      "Nummer": "17",
-      "Textausschnitt": "Es ist jedoch wichtig anzumerken, dass der Chatbot sich gelegentlich inhaltlich wiederholen kann, was zu Redundanzen führt.",
-      "Paraphrase": "Der Chatbot kann sich gelegentlich inhaltlich wiederholen, was zu Redundanzen führt.",
-      "Generalisierung": "Gelegentliche inhaltliche Wiederholungen führen zu Redundanzen.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "22",
+        "Nummer":  "17",
+        "Textausschnitt":  "Es ist jedoch wichtig anzumerken, dass der Chatbot sich gelegentlich inhaltlich wiederholen kann, was zu Redundanzen führt.",
+        "Paraphrase":  "Der Chatbot kann sich gelegentlich inhaltlich wiederholen, was zu Redundanzen führt.",
+        "Generalisierung":  "Gelegentliche inhaltliche Wiederholungen führen zu Redundanzen.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "22",
-      "Nummer": "18",
-      "Textausschnitt": "Daher ist es ratsam, den Text nach der Generierung noch einmal zu überprüfen und gegebenenfalls Anpassungen vorzunehmen.",
-      "Paraphrase": "Es ist ratsam, den Text nach der Generierung zu überprüfen und Anpassungen vorzunehmen.",
-      "Generalisierung": "Überprüfung und Anpassung des generierten Textes ist ratsam.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "22",
+        "Nummer":  "18",
+        "Textausschnitt":  "Daher ist es ratsam, den Text nach der Generierung noch einmal zu überprüfen und gegebenenfalls Anpassungen vorzunehmen.",
+        "Paraphrase":  "Es ist ratsam, den Text nach der Generierung zu überprüfen und Anpassungen vorzunehmen.",
+        "Generalisierung":  "Überprüfung und Anpassung des generierten Textes ist ratsam.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     }
-  ]
-  
+]

@@ -1,84 +1,83 @@
 ﻿[
     {
-      "ID": "15",
-      "Nummer": "1",
-      "Textausschnitt": "Die Anwendung von ChatGPT kann sowohl einfach als auch komplex sein, je nachdem, wie spezifisch und detailliert die Fragen und Anforderungen sind.",
-      "Paraphrase": "Die Nutzung von ChatGPT kann einfach oder komplex sein, abhängig von der Spezifität und Detailliertheit der Fragen und Anforderungen.",
-      "Generalisierung": "Nutzung von ChatGPT variiert je nach Spezifität und Detailliertheit der Fragen.",
-      "Kategorie": "Eingabedetaillierung",
-      "Subkategorie": ""
+        "ID":  "15",
+        "Nummer":  "1",
+        "Textausschnitt":  "Die Anwendung von ChatGPT kann sowohl einfach als auch komplex sein, je nachdem, wie spezifisch und detailliert die Fragen und Anforderungen sind.",
+        "Paraphrase":  "Die Nutzung von ChatGPT kann einfach oder komplex sein, abhängig von der Spezifität und Detailliertheit der Fragen und Anforderungen.",
+        "Generalisierung":  "Nutzung von ChatGPT variiert je nach Spezifität und Detailliertheit der Fragen.",
+        "Kategorie":  "Eingabedetaillierung",
+        "Subkategorie":  ""
     },
     {
-      "ID": "15",
-      "Nummer": "2",
-      "Textausschnitt": "Für allgemeine und breit gefasste Fragen ist die Nutzung von ChatGPT in der Regel recht einfach.",
-      "Paraphrase": "Für allgemeine und breit gefasste Fragen ist die Nutzung von ChatGPT einfach.",
-      "Generalisierung": "Einfache Nutzung von ChatGPT für allgemeine und breit gefasste Fragen.",
-      "Kategorie": "Benutzerfreundlichkeit",
-      "Subkategorie": ""
+        "ID":  "15",
+        "Nummer":  "2",
+        "Textausschnitt":  "Für allgemeine und breit gefasste Fragen ist die Nutzung von ChatGPT in der Regel recht einfach.",
+        "Paraphrase":  "Für allgemeine und breit gefasste Fragen ist die Nutzung von ChatGPT einfach.",
+        "Generalisierung":  "Einfache Nutzung von ChatGPT für allgemeine und breit gefasste Fragen.",
+        "Kategorie":  "Benutzerfreundlichkeit",
+        "Subkategorie":  ""
     },
     {
-      "ID": "15",
-      "Nummer": "3",
-      "Textausschnitt": "Meine Eingaben war stark von der Art der Frage und den spezifischen Anforderungen abhängig.",
-      "Paraphrase": "Meine Eingaben hingen stark von der Art der Frage und den spezifischen Anforderungen ab.",
-      "Generalisierung": "Eingaben hängen stark von der Art der Frage und spezifischen Anforderungen ab.",
-      "Kategorie": "Eingabedetaillierung",
-      "Subkategorie": ""
+        "ID":  "15",
+        "Nummer":  "3",
+        "Textausschnitt":  "Meine Eingaben war stark von der Art der Frage und den spezifischen Anforderungen abhängig.",
+        "Paraphrase":  "Meine Eingaben hingen stark von der Art der Frage und den spezifischen Anforderungen ab.",
+        "Generalisierung":  "Eingaben hängen stark von der Art der Frage und spezifischen Anforderungen ab.",
+        "Kategorie":  "Eingabedetaillierung",
+        "Subkategorie":  ""
     },
     {
-      "ID": "15",
-      "Nummer": "4",
-      "Textausschnitt": "ChatGPT hatte keine Informationen oder Ereignisse ab 2021, und deswegen musste man selbst nochmal auf der Webseite recherchieren.",
-      "Paraphrase": "ChatGPT hatte keine Informationen ab 2021, weshalb man selbst auf der Webseite recherchieren musste.",
-      "Generalisierung": "Fehlende Informationen ab 2021 bei ChatGPT erfordern eigene Recherche.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "15",
+        "Nummer":  "4",
+        "Textausschnitt":  "ChatGPT hatte keine Informationen oder Ereignisse ab 2021, und deswegen musste man selbst nochmal auf der Webseite recherchieren.",
+        "Paraphrase":  "ChatGPT hatte keine Informationen ab 2021, weshalb man selbst auf der Webseite recherchieren musste.",
+        "Generalisierung":  "Fehlende Informationen ab 2021 bei ChatGPT erfordern eigene Recherche.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "15",
-      "Nummer": "5",
-      "Textausschnitt": "Hat mir bei fast allen Fragen weiterhelfen können.",
-      "Paraphrase": "ChatGPT konnte mir bei fast allen Fragen weiterhelfen.",
-      "Generalisierung": "ChatGPT hilft bei fast allen Fragen weiter.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "15",
+        "Nummer":  "5",
+        "Textausschnitt":  "Hat mir bei fast allen Fragen weiterhelfen können.",
+        "Paraphrase":  "ChatGPT konnte mir bei fast allen Fragen weiterhelfen.",
+        "Generalisierung":  "ChatGPT hilft bei fast allen Fragen weiter.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "15",
-      "Nummer": "6",
-      "Textausschnitt": "Ja, ChatGPT kann bei einer Hausarbeit durchaus nützlich sein, insbesondere wenn es darum geht, allgemeine Informationen zu erhalten oder eine breitere Perspektive zu einem Thema zu erhalten.",
-      "Paraphrase": "ChatGPT kann bei Hausarbeiten nützlich sein, besonders um allgemeine Informationen oder eine breitere Perspektive zu erhalten.",
-      "Generalisierung": "Nützlichkeit von ChatGPT bei Hausarbeiten für allgemeine Informationen und breitere Perspektiven.",
-      "Kategorie": "Nützlichkeit für akademische Arbeiten",
-      "Subkategorie": ""
+        "ID":  "15",
+        "Nummer":  "6",
+        "Textausschnitt":  "Ja, ChatGPT kann bei einer Hausarbeit durchaus nützlich sein, insbesondere wenn es darum geht, allgemeine Informationen zu erhalten oder eine breitere Perspektive zu einem Thema zu erhalten.",
+        "Paraphrase":  "ChatGPT kann bei Hausarbeiten nützlich sein, besonders um allgemeine Informationen oder eine breitere Perspektive zu erhalten.",
+        "Generalisierung":  "Nützlichkeit von ChatGPT bei Hausarbeiten für allgemeine Informationen und breitere Perspektiven.",
+        "Kategorie":  "Nützlichkeit für akademische Arbeiten",
+        "Subkategorie":  ""
     },
     {
-      "ID": "15",
-      "Nummer": "7",
-      "Textausschnitt": "Man kann ChatGPT verwenden, um grundlegende Fakten, Erklärungen oder Ansichten zu bestimmten Themen zu erhalten, die in der Hausarbeit relevant sind.",
-      "Paraphrase": "ChatGPT kann verwendet werden, um grundlegende Fakten, Erklärungen oder Ansichten zu relevanten Themen für Hausarbeiten zu erhalten.",
-      "Generalisierung": "Verwendung von ChatGPT für grundlegende Fakten, Erklärungen und Ansichten zu relevanten Themen.",
-      "Kategorie": "Nützlichkeit für akademische Arbeiten",
-      "Subkategorie": ""
+        "ID":  "15",
+        "Nummer":  "7",
+        "Textausschnitt":  "Man kann ChatGPT verwenden, um grundlegende Fakten, Erklärungen oder Ansichten zu bestimmten Themen zu erhalten, die in der Hausarbeit relevant sind.",
+        "Paraphrase":  "ChatGPT kann verwendet werden, um grundlegende Fakten, Erklärungen oder Ansichten zu relevanten Themen für Hausarbeiten zu erhalten.",
+        "Generalisierung":  "Verwendung von ChatGPT für grundlegende Fakten, Erklärungen und Ansichten zu relevanten Themen.",
+        "Kategorie":  "Nützlichkeit für akademische Arbeiten",
+        "Subkategorie":  ""
     },
     {
-      "ID": "15",
-      "Nummer": "8",
-      "Textausschnitt": "Sollen Lehrende den Einsatz von ChatGPT erlauben? - Ja, weil ChatGPT durchaus nützlich ist.",
-      "Paraphrase": "Lehrende sollten den Einsatz von ChatGPT erlauben, da es nützlich ist.",
-      "Generalisierung": "Erlaubnis des Einsatzes von ChatGPT durch Lehrende wegen Nützlichkeit.",
-      "Kategorie": "Einsatz in der Lehre",
-      "Subkategorie": ""
+        "ID":  "15",
+        "Nummer":  "8",
+        "Textausschnitt":  "Sollen Lehrende den Einsatz von ChatGPT erlauben? - Ja, weil ChatGPT durchaus nützlich ist.",
+        "Paraphrase":  "Lehrende sollten den Einsatz von ChatGPT erlauben, da es nützlich ist.",
+        "Generalisierung":  "Erlaubnis des Einsatzes von ChatGPT durch Lehrende wegen Nützlichkeit.",
+        "Kategorie":  "Einsatz in der Lehre",
+        "Subkategorie":  ""
     },
     {
-      "ID": "15",
-      "Nummer": "9",
-      "Textausschnitt": "Bei Fragenkatalogen ist das eine sehr gute Hilfe. Ich selber nutzte ChatGPT meistens um Fragenkataloge zu erstellen.",
-      "Paraphrase": "ChatGPT ist eine gute Hilfe bei Fragenkatalogen. Ich nutzte es meistens, um Fragenkataloge zu erstellen.",
-      "Generalisierung": "Gute Hilfe von ChatGPT bei der Erstellung von Fragenkatalogen.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "15",
+        "Nummer":  "9",
+        "Textausschnitt":  "Bei Fragenkatalogen ist das eine sehr gute Hilfe. Ich selber nutzte ChatGPT meistens um Fragenkataloge zu erstellen.",
+        "Paraphrase":  "ChatGPT ist eine gute Hilfe bei Fragenkatalogen. Ich nutzte es meistens, um Fragenkataloge zu erstellen.",
+        "Generalisierung":  "Gute Hilfe von ChatGPT bei der Erstellung von Fragenkatalogen.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     }
-  ]
-  
+]

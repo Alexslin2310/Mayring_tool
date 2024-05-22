@@ -1,183 +1,182 @@
 ﻿[
     {
-      "ID": "11",
-      "Nummer": "1",
-      "Textausschnitt": "Der Aufbau ähnelt den bekannten Chats anderer Social-Media-Plattformen, sodass ich mich schnell zurechtfinden konnte.",
-      "Paraphrase": "Der Aufbau von ChatGPT ähnelt Social-Media-Chats, sodass ich mich schnell zurechtfinden konnte.",
-      "Generalisierung": "Vertrauter Aufbau von ChatGPT ermöglicht schnelles Zurechtfinden.",
-      "Kategorie": "Benutzerfreundlichkeit",
-      "Subkategorie": ""
+        "ID":  "11",
+        "Nummer":  "1",
+        "Textausschnitt":  "Der Aufbau ähnelt den bekannten Chats anderer Social-Media-Plattformen, sodass ich mich schnell zurechtfinden konnte.",
+        "Paraphrase":  "Der Aufbau von ChatGPT ähnelt Social-Media-Chats, sodass ich mich schnell zurechtfinden konnte.",
+        "Generalisierung":  "Vertrauter Aufbau von ChatGPT ermöglicht schnelles Zurechtfinden.",
+        "Kategorie":  "Benutzerfreundlichkeit",
+        "Subkategorie":  ""
     },
     {
-      "ID": "11",
-      "Nummer": "2",
-      "Textausschnitt": "Anfangs stellte ich fest, dass meine Eingaben genauer und detaillierter sein mussten, um präzise Antworten zu erhalten.",
-      "Paraphrase": "Ich musste meine Eingaben genau und detailliert machen, um präzise Antworten zu bekommen.",
-      "Generalisierung": "Notwendigkeit detaillierter Eingaben für präzise Antworten von ChatGPT.",
-      "Kategorie": "Eingabedetaillierung",
-      "Subkategorie": ""
+        "ID":  "11",
+        "Nummer":  "2",
+        "Textausschnitt":  "Anfangs stellte ich fest, dass meine Eingaben genauer und detaillierter sein mussten, um präzise Antworten zu erhalten.",
+        "Paraphrase":  "Ich musste meine Eingaben genau und detailliert machen, um präzise Antworten zu bekommen.",
+        "Generalisierung":  "Notwendigkeit detaillierter Eingaben für präzise Antworten von ChatGPT.",
+        "Kategorie":  "Eingabedetaillierung",
+        "Subkategorie":  ""
     },
     {
-      "ID": "11",
-      "Nummer": "3",
-      "Textausschnitt": "Das einfache Kopieren der gestellten Aufgaben genügte nicht immer, um die gewünschten Informationen zu erhalten.",
-      "Paraphrase": "Einfaches Kopieren der Aufgaben reichte nicht aus, um die gewünschten Informationen zu erhalten.",
-      "Generalisierung": "Einfaches Kopieren der Aufgaben liefert nicht immer die gewünschten Informationen.",
-      "Kategorie": "Eingabedetaillierung",
-      "Subkategorie": ""
+        "ID":  "11",
+        "Nummer":  "3",
+        "Textausschnitt":  "Das einfache Kopieren der gestellten Aufgaben genügte nicht immer, um die gewünschten Informationen zu erhalten.",
+        "Paraphrase":  "Einfaches Kopieren der Aufgaben reichte nicht aus, um die gewünschten Informationen zu erhalten.",
+        "Generalisierung":  "Einfaches Kopieren der Aufgaben liefert nicht immer die gewünschten Informationen.",
+        "Kategorie":  "Eingabedetaillierung",
+        "Subkategorie":  ""
     },
     {
-      "ID": "11",
-      "Nummer": "4",
-      "Textausschnitt": "Daher entschied ich mich, den Chatbot mit zusätzlichen Informationen zu füttern, um bessere und tiefgründigere Antworten zu bekommen.",
-      "Paraphrase": "Ich gab dem Chatbot zusätzliche Informationen, um bessere und tiefere Antworten zu erhalten.",
-      "Generalisierung": "Zusätzliche Informationen führen zu besseren und tiefergehenden Antworten von ChatGPT.",
-      "Kategorie": "Eingabedetaillierung",
-      "Subkategorie": ""
+        "ID":  "11",
+        "Nummer":  "4",
+        "Textausschnitt":  "Daher entschied ich mich, den Chatbot mit zusätzlichen Informationen zu füttern, um bessere und tiefgründigere Antworten zu bekommen.",
+        "Paraphrase":  "Ich gab dem Chatbot zusätzliche Informationen, um bessere und tiefere Antworten zu erhalten.",
+        "Generalisierung":  "Zusätzliche Informationen führen zu besseren und tiefergehenden Antworten von ChatGPT.",
+        "Kategorie":  "Eingabedetaillierung",
+        "Subkategorie":  ""
     },
     {
-      "ID": "11",
-      "Nummer": "5",
-      "Textausschnitt": "Ich stieß auf Probleme, wenn die Antworten des Chatbots oberflächlich waren und ich mehrfach nachfragen oder die Fragen anpassen musste, um bessere Antworten zu erhalten.",
-      "Paraphrase": "Wenn die Antworten oberflächlich waren, musste ich mehrfach nachfragen oder die Fragen anpassen.",
-      "Generalisierung": "Oberflächliche Antworten erfordern mehrfaches Nachfragen oder Anpassen der Fragen.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "11",
+        "Nummer":  "5",
+        "Textausschnitt":  "Ich stieß auf Probleme, wenn die Antworten des Chatbots oberflächlich waren und ich mehrfach nachfragen oder die Fragen anpassen musste, um bessere Antworten zu erhalten.",
+        "Paraphrase":  "Wenn die Antworten oberflächlich waren, musste ich mehrfach nachfragen oder die Fragen anpassen.",
+        "Generalisierung":  "Oberflächliche Antworten erfordern mehrfaches Nachfragen oder Anpassen der Fragen.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "11",
-      "Nummer": "6",
-      "Textausschnitt": "Außerdem möchte ich erwähnen, dass die Anwendung von Theorien oder Modellen aus meinen Vorlesungen teilweise problematisch war. Oftmals erhielt ich unterschiedliche Ergebnisse oder die Modelle stimmten nicht mit denen überein, die in der Vorlesung behandelt wurden.",
-      "Paraphrase": "Die Anwendung von Theorien oder Modellen aus Vorlesungen war problematisch, da die Ergebnisse oft unterschiedlich waren.",
-      "Generalisierung": "Unterschiedliche Ergebnisse bei der Anwendung von Theorien oder Modellen aus Vorlesungen durch ChatGPT.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "11",
+        "Nummer":  "6",
+        "Textausschnitt":  "Außerdem möchte ich erwähnen, dass die Anwendung von Theorien oder Modellen aus meinen Vorlesungen teilweise problematisch war. Oftmals erhielt ich unterschiedliche Ergebnisse oder die Modelle stimmten nicht mit denen überein, die in der Vorlesung behandelt wurden.",
+        "Paraphrase":  "Die Anwendung von Theorien oder Modellen aus Vorlesungen war problematisch, da die Ergebnisse oft unterschiedlich waren.",
+        "Generalisierung":  "Unterschiedliche Ergebnisse bei der Anwendung von Theorien oder Modellen aus Vorlesungen durch ChatGPT.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "11",
-      "Nummer": "7",
-      "Textausschnitt": "Dies führte zu Verwirrung und Unsicherheit, da ich nicht sicher sein konnte, ob ich die richtigen Informationen erhalten hatte. Daher war es manchmal schwierig, die erlernten Konzepte direkt anzuwenden und auf meine Fragestellungen anzuwenden.",
-      "Paraphrase": "Verwirrung und Unsicherheit durch unterschiedliche Ergebnisse machten es schwer, Konzepte anzuwenden.",
-      "Generalisierung": "Verwirrung und Unsicherheit durch unterschiedliche Ergebnisse bei der Anwendung von Konzepten.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "11",
+        "Nummer":  "7",
+        "Textausschnitt":  "Dies führte zu Verwirrung und Unsicherheit, da ich nicht sicher sein konnte, ob ich die richtigen Informationen erhalten hatte. Daher war es manchmal schwierig, die erlernten Konzepte direkt anzuwenden und auf meine Fragestellungen anzuwenden.",
+        "Paraphrase":  "Verwirrung und Unsicherheit durch unterschiedliche Ergebnisse machten es schwer, Konzepte anzuwenden.",
+        "Generalisierung":  "Verwirrung und Unsicherheit durch unterschiedliche Ergebnisse bei der Anwendung von Konzepten.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "11",
-      "Nummer": "8",
-      "Textausschnitt": "Es erforderte zusätzliche Recherche und Anpassungen, um zu den gewünschten Ergebnissen zu gelangen.",
-      "Paraphrase": "Zusätzliche Recherche und Anpassungen waren notwendig, um die gewünschten Ergebnisse zu erzielen.",
-      "Generalisierung": "Zusätzliche Recherche und Anpassungen notwendig für gewünschte Ergebnisse.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "11",
+        "Nummer":  "8",
+        "Textausschnitt":  "Es erforderte zusätzliche Recherche und Anpassungen, um zu den gewünschten Ergebnissen zu gelangen.",
+        "Paraphrase":  "Zusätzliche Recherche und Anpassungen waren notwendig, um die gewünschten Ergebnisse zu erzielen.",
+        "Generalisierung":  "Zusätzliche Recherche und Anpassungen notwendig für gewünschte Ergebnisse.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "11",
-      "Nummer": "9",
-      "Textausschnitt": "Dennoch hat mir ChatGPT in vielen Bereichen sehr geholfen. Insbesondere bei der Formulierung von Texten war der Chatbot äußerst hilfreich.",
-      "Paraphrase": "ChatGPT hat mir sehr geholfen, besonders bei der Formulierung von Texten.",
-      "Generalisierung": "Hilfreich bei der Textformulierung durch ChatGPT.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "11",
+        "Nummer":  "9",
+        "Textausschnitt":  "Dennoch hat mir ChatGPT in vielen Bereichen sehr geholfen. Insbesondere bei der Formulierung von Texten war der Chatbot äußerst hilfreich.",
+        "Paraphrase":  "ChatGPT hat mir sehr geholfen, besonders bei der Formulierung von Texten.",
+        "Generalisierung":  "Hilfreich bei der Textformulierung durch ChatGPT.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "11",
-      "Nummer": "10",
-      "Textausschnitt": "Er konnte in wenigen Sekunden Aufgaben beantworten und Texte verfassen.",
-      "Paraphrase": "ChatGPT konnte in wenigen Sekunden Aufgaben beantworten und Texte verfassen.",
-      "Generalisierung": "Schnelle Beantwortung von Aufgaben und Verfassen von Texten durch ChatGPT.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "11",
+        "Nummer":  "10",
+        "Textausschnitt":  "Er konnte in wenigen Sekunden Aufgaben beantworten und Texte verfassen.",
+        "Paraphrase":  "ChatGPT konnte in wenigen Sekunden Aufgaben beantworten und Texte verfassen.",
+        "Generalisierung":  "Schnelle Beantwortung von Aufgaben und Verfassen von Texten durch ChatGPT.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "11",
-      "Nummer": "11",
-      "Textausschnitt": "Darüber hinaus war der Bot in der Lage, Korrektur zu lesen und zu unterstützen.",
-      "Paraphrase": "ChatGPT konnte Korrektur lesen und unterstützen.",
-      "Generalisierung": "Unterstützung und Korrekturlesen durch ChatGPT.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "11",
+        "Nummer":  "11",
+        "Textausschnitt":  "Darüber hinaus war der Bot in der Lage, Korrektur zu lesen und zu unterstützen.",
+        "Paraphrase":  "ChatGPT konnte Korrektur lesen und unterstützen.",
+        "Generalisierung":  "Unterstützung und Korrekturlesen durch ChatGPT.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "11",
-      "Nummer": "12",
-      "Textausschnitt": "Er half mir, erste Informationen zu einem Thema zu filtern, ohne dass ich zunächst im Internet recherchieren musste.",
-      "Paraphrase": "ChatGPT half mir, erste Informationen zu einem Thema zu filtern, ohne im Internet zu recherchieren.",
-      "Generalisierung": "Erste Informationsfilterung durch ChatGPT ohne Internetrecherche.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "11",
+        "Nummer":  "12",
+        "Textausschnitt":  "Er half mir, erste Informationen zu einem Thema zu filtern, ohne dass ich zunächst im Internet recherchieren musste.",
+        "Paraphrase":  "ChatGPT half mir, erste Informationen zu einem Thema zu filtern, ohne im Internet zu recherchieren.",
+        "Generalisierung":  "Erste Informationsfilterung durch ChatGPT ohne Internetrecherche.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "11",
-      "Nummer": "13",
-      "Textausschnitt": "Ja, ChatGPT ist definitiv nützlich bei der Erstellung einer Hausarbeit.",
-      "Paraphrase": "ChatGPT ist nützlich bei der Erstellung einer Hausarbeit.",
-      "Generalisierung": "Nützlichkeit von ChatGPT bei der Erstellung von Hausarbeiten.",
-      "Kategorie": "Nützlichkeit für akademische Arbeiten",
-      "Subkategorie": ""
+        "ID":  "11",
+        "Nummer":  "13",
+        "Textausschnitt":  "Ja, ChatGPT ist definitiv nützlich bei der Erstellung einer Hausarbeit.",
+        "Paraphrase":  "ChatGPT ist nützlich bei der Erstellung einer Hausarbeit.",
+        "Generalisierung":  "Nützlichkeit von ChatGPT bei der Erstellung von Hausarbeiten.",
+        "Kategorie":  "Nützlichkeit für akademische Arbeiten",
+        "Subkategorie":  ""
     },
     {
-      "ID": "11",
-      "Nummer": "14",
-      "Textausschnitt": "Der Bot kann dabei helfen, die Struktur der Arbeit, wie zum Beispiel ein Inhaltsverzeichnis, zu erstellen.",
-      "Paraphrase": "ChatGPT kann bei der Erstellung der Struktur einer Arbeit, wie eines Inhaltsverzeichnisses, helfen.",
-      "Generalisierung": "Hilfe von ChatGPT bei der Erstellung der Struktur einer Arbeit.",
-      "Kategorie": "Nützlichkeit für akademische Arbeiten",
-      "Subkategorie": ""
+        "ID":  "11",
+        "Nummer":  "14",
+        "Textausschnitt":  "Der Bot kann dabei helfen, die Struktur der Arbeit, wie zum Beispiel ein Inhaltsverzeichnis, zu erstellen.",
+        "Paraphrase":  "ChatGPT kann bei der Erstellung der Struktur einer Arbeit, wie eines Inhaltsverzeichnisses, helfen.",
+        "Generalisierung":  "Hilfe von ChatGPT bei der Erstellung der Struktur einer Arbeit.",
+        "Kategorie":  "Nützlichkeit für akademische Arbeiten",
+        "Subkategorie":  ""
     },
     {
-      "ID": "11",
-      "Nummer": "15",
-      "Textausschnitt": "Dies vereinfacht die Arbeit erheblich, da man sich primär auf die Informationsbeschaffung konzentrieren kann, während der Bot die Informationen in einen Text umwandelt.",
-      "Paraphrase": "ChatGPT vereinfacht die Arbeit, indem es die Informationen in einen Text umwandelt und man sich auf die Informationsbeschaffung konzentrieren kann.",
-      "Generalisierung": "Arbeitserleichterung durch ChatGPT durch Umwandlung von Informationen in Text.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "11",
+        "Nummer":  "15",
+        "Textausschnitt":  "Dies vereinfacht die Arbeit erheblich, da man sich primär auf die Informationsbeschaffung konzentrieren kann, während der Bot die Informationen in einen Text umwandelt.",
+        "Paraphrase":  "ChatGPT vereinfacht die Arbeit, indem es die Informationen in einen Text umwandelt und man sich auf die Informationsbeschaffung konzentrieren kann.",
+        "Generalisierung":  "Arbeitserleichterung durch ChatGPT durch Umwandlung von Informationen in Text.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "11",
-      "Nummer": "16",
-      "Textausschnitt": "Lehrende sollten den Einsatz von ChatGPT erlauben, da es eine hilfreiche Arbeitshilfe ist.",
-      "Paraphrase": "Lehrende sollten ChatGPT erlauben, da es eine hilfreiche Arbeitshilfe ist.",
-      "Generalisierung": "Erlaubnis von ChatGPT durch Lehrende wegen hilfreicher Unterstützung.",
-      "Kategorie": "Einsatz in der Lehre",
-      "Subkategorie": ""
+        "ID":  "11",
+        "Nummer":  "16",
+        "Textausschnitt":  "Lehrende sollten den Einsatz von ChatGPT erlauben, da es eine hilfreiche Arbeitshilfe ist.",
+        "Paraphrase":  "Lehrende sollten ChatGPT erlauben, da es eine hilfreiche Arbeitshilfe ist.",
+        "Generalisierung":  "Erlaubnis von ChatGPT durch Lehrende wegen hilfreicher Unterstützung.",
+        "Kategorie":  "Einsatz in der Lehre",
+        "Subkategorie":  ""
     },
     {
-      "ID": "11",
-      "Nummer": "17",
-      "Textausschnitt": "Allerdings sollte man dabei sehr streng mit den Informationen sein, die der Chatbot liefert.",
-      "Paraphrase": "Man sollte die Informationen von ChatGPT streng prüfen.",
-      "Generalisierung": "Strenge Prüfung der von ChatGPT gelieferten Informationen.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "11",
+        "Nummer":  "17",
+        "Textausschnitt":  "Allerdings sollte man dabei sehr streng mit den Informationen sein, die der Chatbot liefert.",
+        "Paraphrase":  "Man sollte die Informationen von ChatGPT streng prüfen.",
+        "Generalisierung":  "Strenge Prüfung der von ChatGPT gelieferten Informationen.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "11",
-      "Nummer": "18",
-      "Textausschnitt": "Es ist ratsam, die Informationen extern zu ermitteln, beispielsweise durch Fachbücher oder andere zuverlässige Quellen, um mögliche Missverständnisse oder Fehlinformationen zu vermeiden.",
-      "Paraphrase": "Es ist ratsam, Informationen durch Fachbücher oder andere zuverlässige Quellen zu überprüfen, um Missverständnisse oder Fehlinformationen zu vermeiden.",
-      "Generalisierung": "Überprüfung der Informationen durch zuverlässige Quellen zur Vermeidung von Missverständnissen oder Fehlinformationen.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "11",
+        "Nummer":  "18",
+        "Textausschnitt":  "Es ist ratsam, die Informationen extern zu ermitteln, beispielsweise durch Fachbücher oder andere zuverlässige Quellen, um mögliche Missverständnisse oder Fehlinformationen zu vermeiden.",
+        "Paraphrase":  "Es ist ratsam, Informationen durch Fachbücher oder andere zuverlässige Quellen zu überprüfen, um Missverständnisse oder Fehlinformationen zu vermeiden.",
+        "Generalisierung":  "Überprüfung der Informationen durch zuverlässige Quellen zur Vermeidung von Missverständnissen oder Fehlinformationen.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "11",
-      "Nummer": "19",
-      "Textausschnitt": "Ich kann mir die Nutzung von ChatGPT in verschiedenen Bereichen des Studiums vorstellen. Beispielsweise kann der Chatbot beim Erstellen von Fragekatalogen, Zusammenfassungen oder Präsentationen sehr hilfreich sein.",
-      "Paraphrase": "ChatGPT kann in verschiedenen Bereichen des Studiums nützlich sein, wie beim Erstellen von Fragekatalogen, Zusammenfassungen oder Präsentationen.",
-      "Generalisierung": "Nutzung von ChatGPT in verschiedenen Bereichen des Studiums, z. B. bei Fragekatalogen, Zusammenfassungen oder Präsentationen.",
-      "Kategorie": "Einsatz in der Lehre",
-      "Subkategorie": ""
+        "ID":  "11",
+        "Nummer":  "19",
+        "Textausschnitt":  "Ich kann mir die Nutzung von ChatGPT in verschiedenen Bereichen des Studiums vorstellen. Beispielsweise kann der Chatbot beim Erstellen von Fragekatalogen, Zusammenfassungen oder Präsentationen sehr hilfreich sein.",
+        "Paraphrase":  "ChatGPT kann in verschiedenen Bereichen des Studiums nützlich sein, wie beim Erstellen von Fragekatalogen, Zusammenfassungen oder Präsentationen.",
+        "Generalisierung":  "Nutzung von ChatGPT in verschiedenen Bereichen des Studiums, z. B. bei Fragekatalogen, Zusammenfassungen oder Präsentationen.",
+        "Kategorie":  "Einsatz in der Lehre",
+        "Subkategorie":  ""
     },
     {
-      "ID": "11",
-      "Nummer": "20",
-      "Textausschnitt": "Im Rahmen meines Praktikums in Angewandter Marktforschung haben wir beispielsweise einen Leitfaden für einen Fragebogen erstellt, bei dem der Einsatz von ChatGPT eine wertvolle Unterstützung gewesen war.",
-      "Paraphrase": "In meinem Praktikum half ChatGPT beim Erstellen eines Leitfadens für einen Fragebogen.",
-      "Generalisierung": "Wertvolle Unterstützung durch ChatGPT beim Erstellen eines Leitfadens für einen Fragebogen.",
-      "Kategorie": "Einsatz in der Lehre",
-      "Subkategorie": ""
+        "ID":  "11",
+        "Nummer":  "20",
+        "Textausschnitt":  "Im Rahmen meines Praktikums in Angewandter Marktforschung haben wir beispielsweise einen Leitfaden für einen Fragebogen erstellt, bei dem der Einsatz von ChatGPT eine wertvolle Unterstützung gewesen war.",
+        "Paraphrase":  "In meinem Praktikum half ChatGPT beim Erstellen eines Leitfadens für einen Fragebogen.",
+        "Generalisierung":  "Wertvolle Unterstützung durch ChatGPT beim Erstellen eines Leitfadens für einen Fragebogen.",
+        "Kategorie":  "Einsatz in der Lehre",
+        "Subkategorie":  ""
     }
-  ]
-  
+]

@@ -1,192 +1,191 @@
 ﻿[
     {
-      "ID": "3",
-      "Nummer": "1",
-      "Textausschnitt": "Die Arbeit mit ChatGPT hat sich als äußerst nützliches und effizientes Werkzeug erwiesen, um Gedanken initial in Textpassagen vorzuformulieren. Es ermöglicht, grundlegende Ideen und Argumente in schriftlicher Form festzuhalten, was den Schreibprozess beschleunigt",
-      "Paraphrase": "ChatGPT ist ein nützliches und effizientes Werkzeug, um Ideen schnell in Text zu formulieren und den Schreibprozess zu beschleunigen.",
-      "Generalisierung": "Effizienz und Nützlichkeit von ChatGPT bei der Formulierung von Ideen und Beschleunigung des Schreibprozesses.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "3",
+        "Nummer":  "1",
+        "Textausschnitt":  "Die Arbeit mit ChatGPT hat sich als äußerst nützliches und effizientes Werkzeug erwiesen, um Gedanken initial in Textpassagen vorzuformulieren. Es ermöglicht, grundlegende Ideen und Argumente in schriftlicher Form festzuhalten, was den Schreibprozess beschleunigt",
+        "Paraphrase":  "ChatGPT ist ein nützliches und effizientes Werkzeug, um Ideen schnell in Text zu formulieren und den Schreibprozess zu beschleunigen.",
+        "Generalisierung":  "Effizienz und Nützlichkeit von ChatGPT bei der Formulierung von Ideen und Beschleunigung des Schreibprozesses.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "3",
-      "Nummer": "2",
-      "Textausschnitt": "Eine weitere positive Erfahrung war, dass die initialisierten Textpassagen genutzt werden konnten, um spezifische Punkte detailreicher zu beschreiben. Indem man das Modell nach bestimmten Informationen oder Beschreibungen fragt, kann es hilfreiche Ergänzungen liefern und den Textinhalt vertiefen",
-      "Paraphrase": "ChatGPT kann spezifische Punkte detailliert beschreiben und Texte vertiefen, wenn man danach fragt.",
-      "Generalisierung": "Detailreichere Beschreibungen und Vertiefung von Texten durch ChatGPT.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "3",
+        "Nummer":  "2",
+        "Textausschnitt":  "Eine weitere positive Erfahrung war, dass die initialisierten Textpassagen genutzt werden konnten, um spezifische Punkte detailreicher zu beschreiben. Indem man das Modell nach bestimmten Informationen oder Beschreibungen fragt, kann es hilfreiche Ergänzungen liefern und den Textinhalt vertiefen",
+        "Paraphrase":  "ChatGPT kann spezifische Punkte detailliert beschreiben und Texte vertiefen, wenn man danach fragt.",
+        "Generalisierung":  "Detailreichere Beschreibungen und Vertiefung von Texten durch ChatGPT.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "3",
-      "Nummer": "3",
-      "Textausschnitt": "Ein besonderer Vorteil beim Arbeiten mit ChatGPT ist der Brainstorming-Prozess. Durch die Möglichkeit, mit ChatGPT zu interagieren und verschiedene Chatverläufe zu haben, steht quasi ein Partner zum Absprechen von Ideen zur Verfügung",
-      "Paraphrase": "ChatGPT ist hilfreich für Brainstorming und dient als Partner zum Austausch von Ideen.",
-      "Generalisierung": "ChatGPT unterstützt den Brainstorming-Prozess und den Ideenaustausch.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "3",
+        "Nummer":  "3",
+        "Textausschnitt":  "Ein besonderer Vorteil beim Arbeiten mit ChatGPT ist der Brainstorming-Prozess. Durch die Möglichkeit, mit ChatGPT zu interagieren und verschiedene Chatverläufe zu haben, steht quasi ein Partner zum Absprechen von Ideen zur Verfügung",
+        "Paraphrase":  "ChatGPT ist hilfreich für Brainstorming und dient als Partner zum Austausch von Ideen.",
+        "Generalisierung":  "ChatGPT unterstützt den Brainstorming-Prozess und den Ideenaustausch.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "3",
-      "Nummer": "4",
-      "Textausschnitt": "Ein weiterer Pluspunkt ist, dass ChatGPT in der Lage ist, selbstständig Tabellen zu generieren. Das erleichtert die Arbeit erheblich, insbesondere bei der Darstellung von Daten und Informationen",
-      "Paraphrase": "ChatGPT kann eigenständig Tabellen erstellen, was die Darstellung von Daten erleichtert.",
-      "Generalisierung": "Erleichterung der Datendarstellung durch die Fähigkeit von ChatGPT, Tabellen zu erstellen.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "3",
+        "Nummer":  "4",
+        "Textausschnitt":  "Ein weiterer Pluspunkt ist, dass ChatGPT in der Lage ist, selbstständig Tabellen zu generieren. Das erleichtert die Arbeit erheblich, insbesondere bei der Darstellung von Daten und Informationen",
+        "Paraphrase":  "ChatGPT kann eigenständig Tabellen erstellen, was die Darstellung von Daten erleichtert.",
+        "Generalisierung":  "Erleichterung der Datendarstellung durch die Fähigkeit von ChatGPT, Tabellen zu erstellen.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "3",
-      "Nummer": "5",
-      "Textausschnitt": "Auf der negativen Seite ist aufgefallen, dass ChatGPT Texte häufig zu wertend und positiv formuliert. Es neigt dazu, eine optimistische und wohlwollende Perspektive einzunehmen, selbst wenn eine objektive oder neutrale Darstellung angemessener wäre",
-      "Paraphrase": "ChatGPT formuliert Texte oft wertend und positiv, auch wenn Neutralität besser wäre.",
-      "Generalisierung": "Tendenz von ChatGPT, wertende und positive Formulierungen zu verwenden.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "3",
+        "Nummer":  "5",
+        "Textausschnitt":  "Auf der negativen Seite ist aufgefallen, dass ChatGPT Texte häufig zu wertend und positiv formuliert. Es neigt dazu, eine optimistische und wohlwollende Perspektive einzunehmen, selbst wenn eine objektive oder neutrale Darstellung angemessener wäre",
+        "Paraphrase":  "ChatGPT formuliert Texte oft wertend und positiv, auch wenn Neutralität besser wäre.",
+        "Generalisierung":  "Tendenz von ChatGPT, wertende und positive Formulierungen zu verwenden.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "3",
-      "Nummer": "6",
-      "Textausschnitt": "Das erfordert eine gewisse Vorsicht bei der Interpretation der generierten Texte und die Notwendigkeit, kritische oder ausgewogene Standpunkte selbst einzubringen.",
-      "Paraphrase": "Man muss vorsichtig sein bei der Interpretation und selbst kritische Standpunkte einbringen.",
-      "Generalisierung": "Notwendigkeit der kritischen Interpretation und Einbringung ausgewogener Standpunkte bei der Nutzung von ChatGPT.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "3",
+        "Nummer":  "6",
+        "Textausschnitt":  "Das erfordert eine gewisse Vorsicht bei der Interpretation der generierten Texte und die Notwendigkeit, kritische oder ausgewogene Standpunkte selbst einzubringen.",
+        "Paraphrase":  "Man muss vorsichtig sein bei der Interpretation und selbst kritische Standpunkte einbringen.",
+        "Generalisierung":  "Notwendigkeit der kritischen Interpretation und Einbringung ausgewogener Standpunkte bei der Nutzung von ChatGPT.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "3",
-      "Nummer": "7",
-      "Textausschnitt": "Ein weiterer Punkt ist, dass die Qualität der Antworten stark von der Qualität der gestellten Fragen abhängt. Wenn die Frage unklar oder vage formuliert ist, kann dies zu ungenauen oder unzureichenden Antworten führen.",
-      "Paraphrase": "Die Qualität der Antworten von ChatGPT hängt stark von der Klarheit der Fragen ab.",
-      "Generalisierung": "Qualität der Antworten von ChatGPT hängt von der Qualität der Fragen ab.",
-      "Kategorie": "Eingabedetaillierung",
-      "Subkategorie": ""
+        "ID":  "3",
+        "Nummer":  "7",
+        "Textausschnitt":  "Ein weiterer Punkt ist, dass die Qualität der Antworten stark von der Qualität der gestellten Fragen abhängt. Wenn die Frage unklar oder vage formuliert ist, kann dies zu ungenauen oder unzureichenden Antworten führen.",
+        "Paraphrase":  "Die Qualität der Antworten von ChatGPT hängt stark von der Klarheit der Fragen ab.",
+        "Generalisierung":  "Qualität der Antworten von ChatGPT hängt von der Qualität der Fragen ab.",
+        "Kategorie":  "Eingabedetaillierung",
+        "Subkategorie":  ""
     },
     {
-      "ID": "3",
-      "Nummer": "8",
-      "Textausschnitt": "Es ist wichtig, präzise und gut strukturierte Fragen zu stellen, um die gewünschten Ergebnisse zu erhalten.",
-      "Paraphrase": "Man muss präzise und gut strukturierte Fragen stellen, um gute Ergebnisse zu erhalten.",
-      "Generalisierung": "Bedeutung präziser und strukturierter Fragen für gute Ergebnisse bei ChatGPT.",
-      "Kategorie": "Eingabedetaillierung",
-      "Subkategorie": ""
+        "ID":  "3",
+        "Nummer":  "8",
+        "Textausschnitt":  "Es ist wichtig, präzise und gut strukturierte Fragen zu stellen, um die gewünschten Ergebnisse zu erhalten.",
+        "Paraphrase":  "Man muss präzise und gut strukturierte Fragen stellen, um gute Ergebnisse zu erhalten.",
+        "Generalisierung":  "Bedeutung präziser und strukturierter Fragen für gute Ergebnisse bei ChatGPT.",
+        "Kategorie":  "Eingabedetaillierung",
+        "Subkategorie":  ""
     },
     {
-      "ID": "3",
-      "Nummer": "9",
-      "Textausschnitt": "Es gab auch Situationen, in denen es schwierig war, ChatGPT dazu zu bringen, die gewünschte Position einzunehmen, aus der die Arbeit formuliert werden sollte",
-      "Paraphrase": "Es war manchmal schwierig, ChatGPT dazu zu bringen, die gewünschte Position einzunehmen.",
-      "Generalisierung": "Schwierigkeit, ChatGPT zur gewünschten Position zu bringen.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "3",
+        "Nummer":  "9",
+        "Textausschnitt":  "Es gab auch Situationen, in denen es schwierig war, ChatGPT dazu zu bringen, die gewünschte Position einzunehmen, aus der die Arbeit formuliert werden sollte",
+        "Paraphrase":  "Es war manchmal schwierig, ChatGPT dazu zu bringen, die gewünschte Position einzunehmen.",
+        "Generalisierung":  "Schwierigkeit, ChatGPT zur gewünschten Position zu bringen.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "3",
-      "Nummer": "10",
-      "Textausschnitt": "Ein Problem, das häufig auftritt, ist der ständige Rückbezug, um im Thema zu bleiben. ChatGPT neigt dazu, vom Hauptthema abzuschweifen oder sich in Nebendiskussionen zu verlieren.",
-      "Paraphrase": "ChatGPT schweift oft vom Hauptthema ab und verliert sich in Nebendiskussionen.",
-      "Generalisierung": "Neigung von ChatGPT, vom Hauptthema abzuweichen.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "3",
+        "Nummer":  "10",
+        "Textausschnitt":  "Ein Problem, das häufig auftritt, ist der ständige Rückbezug, um im Thema zu bleiben. ChatGPT neigt dazu, vom Hauptthema abzuschweifen oder sich in Nebendiskussionen zu verlieren.",
+        "Paraphrase":  "ChatGPT schweift oft vom Hauptthema ab und verliert sich in Nebendiskussionen.",
+        "Generalisierung":  "Neigung von ChatGPT, vom Hauptthema abzuweichen.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "3",
-      "Nummer": "11",
-      "Textausschnitt": "Daher war es wichtig, den Kontext klar zu halten und das Modell regelmäßig daran zu erinnern, worum es in der Konversation geht. Dies erfordert eine gewisse Lenkung und Kontrolle seitens des Nutzers.",
-      "Paraphrase": "Man muss den Kontext klar halten und ChatGPT regelmäßig daran erinnern, was das Thema ist.",
-      "Generalisierung": "Notwendigkeit der klaren Kontextwahrung und regelmäßigen Erinnerung an das Thema bei der Nutzung von ChatGPT.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "3",
+        "Nummer":  "11",
+        "Textausschnitt":  "Daher war es wichtig, den Kontext klar zu halten und das Modell regelmäßig daran zu erinnern, worum es in der Konversation geht. Dies erfordert eine gewisse Lenkung und Kontrolle seitens des Nutzers.",
+        "Paraphrase":  "Man muss den Kontext klar halten und ChatGPT regelmäßig daran erinnern, was das Thema ist.",
+        "Generalisierung":  "Notwendigkeit der klaren Kontextwahrung und regelmäßigen Erinnerung an das Thema bei der Nutzung von ChatGPT.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "3",
-      "Nummer": "12",
-      "Textausschnitt": "Zu Stoßzeiten, insbesondere zwischen 16 und 18 Uhr, war ChatGPT gelegentlich überlastet. Dies führte dazu, dass die Antworten entweder sehr langsam generiert wurden oder gar nicht erst erzeugt werden konnten.",
-      "Paraphrase": "Zu Stoßzeiten war ChatGPT oft überlastet und antwortete langsam oder gar nicht.",
-      "Generalisierung": "Überlastung von ChatGPT zu Stoßzeiten führte zu langsamen oder ausbleibenden Antworten.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "3",
+        "Nummer":  "12",
+        "Textausschnitt":  "Zu Stoßzeiten, insbesondere zwischen 16 und 18 Uhr, war ChatGPT gelegentlich überlastet. Dies führte dazu, dass die Antworten entweder sehr langsam generiert wurden oder gar nicht erst erzeugt werden konnten.",
+        "Paraphrase":  "Zu Stoßzeiten war ChatGPT oft überlastet und antwortete langsam oder gar nicht.",
+        "Generalisierung":  "Überlastung von ChatGPT zu Stoßzeiten führte zu langsamen oder ausbleibenden Antworten.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "3",
-      "Nummer": "13",
-      "Textausschnitt": "In solchen Fällen war es ratsam, außerhalb dieser Stoßzeiten zu arbeiten, um eine reibungslose Interaktion mit ChatGPT sicherzustellen.",
-      "Paraphrase": "Man sollte außerhalb der Stoßzeiten arbeiten, um eine reibungslose Interaktion mit ChatGPT zu gewährleisten.",
-      "Generalisierung": "Arbeiten außerhalb der Stoßzeiten für reibungslose Nutzung von ChatGPT.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "3",
+        "Nummer":  "13",
+        "Textausschnitt":  "In solchen Fällen war es ratsam, außerhalb dieser Stoßzeiten zu arbeiten, um eine reibungslose Interaktion mit ChatGPT sicherzustellen.",
+        "Paraphrase":  "Man sollte außerhalb der Stoßzeiten arbeiten, um eine reibungslose Interaktion mit ChatGPT zu gewährleisten.",
+        "Generalisierung":  "Arbeiten außerhalb der Stoßzeiten für reibungslose Nutzung von ChatGPT.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "3",
-      "Nummer": "14",
-      "Textausschnitt": "Es kann die Kreativität und das kritische Denken der Studierenden fördern, indem es ihnen ermöglicht, ihre Gedanken zu formulieren und ihre Argumente zu entwickeln.",
-      "Paraphrase": "ChatGPT fördert Kreativität und kritisches Denken, indem es hilft, Gedanken und Argumente zu entwickeln.",
-      "Generalisierung": "Förderung von Kreativität und kritischem Denken durch ChatGPT.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "3",
+        "Nummer":  "14",
+        "Textausschnitt":  "Es kann die Kreativität und das kritische Denken der Studierenden fördern, indem es ihnen ermöglicht, ihre Gedanken zu formulieren und ihre Argumente zu entwickeln.",
+        "Paraphrase":  "ChatGPT fördert Kreativität und kritisches Denken, indem es hilft, Gedanken und Argumente zu entwickeln.",
+        "Generalisierung":  "Förderung von Kreativität und kritischem Denken durch ChatGPT.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "3",
-      "Nummer": "15",
-      "Textausschnitt": "Insbesondere beim Verfassen von Texten kann ChatGPT eine nützliche Unterstützung bieten, indem es dabei hilft, die Gedanken zu organisieren und zusammenhängende Texte zu erstellen",
-      "Paraphrase": "ChatGPT hilft beim Organisieren von Gedanken und Erstellen zusammenhängender Texte.",
-      "Generalisierung": "Nützliche Unterstützung durch ChatGPT beim Textverfassen.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "3",
+        "Nummer":  "15",
+        "Textausschnitt":  "Insbesondere beim Verfassen von Texten kann ChatGPT eine nützliche Unterstützung bieten, indem es dabei hilft, die Gedanken zu organisieren und zusammenhängende Texte zu erstellen",
+        "Paraphrase":  "ChatGPT hilft beim Organisieren von Gedanken und Erstellen zusammenhängender Texte.",
+        "Generalisierung":  "Nützliche Unterstützung durch ChatGPT beim Textverfassen.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "3",
-      "Nummer": "16",
-      "Textausschnitt": "Darüber hinaus eröffnet es den Lernenden den Zugang zu umfangreichen Informationen, die über das hinausgehen, was sie allein recherchieren können.",
-      "Paraphrase": "ChatGPT bietet Zugang zu umfangreichen Informationen, die man allein schwer finden kann.",
-      "Generalisierung": "Zugang zu umfangreichen Informationen durch ChatGPT.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "3",
+        "Nummer":  "16",
+        "Textausschnitt":  "Darüber hinaus eröffnet es den Lernenden den Zugang zu umfangreichen Informationen, die über das hinausgehen, was sie allein recherchieren können.",
+        "Paraphrase":  "ChatGPT bietet Zugang zu umfangreichen Informationen, die man allein schwer finden kann.",
+        "Generalisierung":  "Zugang zu umfangreichen Informationen durch ChatGPT.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "3",
-      "Nummer": "17",
-      "Textausschnitt": "Eine der Hauptbedenken ist die potenzielle Abhängigkeit von künstlicher Intelligenz. Wenn Studierende zu stark auf ChatGPT angewiesen sind, könnten sie ihre eigenen Schreib- und Denkfähigkeiten vernachlässigen.",
-      "Paraphrase": "Es besteht die Sorge, dass zu starke Abhängigkeit von ChatGPT die eigenen Schreib- und Denkfähigkeiten der Studierenden beeinträchtigt.",
-      "Generalisierung": "Sorge um Beeinträchtigung der eigenen Fähigkeiten durch Abhängigkeit von ChatGPT.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "3",
+        "Nummer":  "17",
+        "Textausschnitt":  "Eine der Hauptbedenken ist die potenzielle Abhängigkeit von künstlicher Intelligenz. Wenn Studierende zu stark auf ChatGPT angewiesen sind, könnten sie ihre eigenen Schreib- und Denkfähigkeiten vernachlässigen.",
+        "Paraphrase":  "Es besteht die Sorge, dass zu starke Abhängigkeit von ChatGPT die eigenen Schreib- und Denkfähigkeiten der Studierenden beeinträchtigt.",
+        "Generalisierung":  "Sorge um Beeinträchtigung der eigenen Fähigkeiten durch Abhängigkeit von ChatGPT.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "3",
-      "Nummer": "18",
-      "Textausschnitt": "Es besteht auch die Gefahr, dass generierte Texte als die eigenen ausgegeben werden, was zu unehrlichem Verhalten führen kann.",
-      "Paraphrase": "Es besteht die Gefahr, dass Studierende generierte Texte als ihre eigenen ausgeben und unehrlich handeln.",
-      "Generalisierung": "Gefahr unehrlichen Verhaltens durch Ausgeben generierter Texte als eigene.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "3",
+        "Nummer":  "18",
+        "Textausschnitt":  "Es besteht auch die Gefahr, dass generierte Texte als die eigenen ausgegeben werden, was zu unehrlichem Verhalten führen kann.",
+        "Paraphrase":  "Es besteht die Gefahr, dass Studierende generierte Texte als ihre eigenen ausgeben und unehrlich handeln.",
+        "Generalisierung":  "Gefahr unehrlichen Verhaltens durch Ausgeben generierter Texte als eigene.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "3",
-      "Nummer": "19",
-      "Textausschnitt": "Es liegt in der Verantwortung der Lehrenden und der Lernenden sicherzustellen, dass die Qualität der generierten Antworten angemessen überprüft wird, insbesondere bei komplexen oder spezialisierten Themen.",
-      "Paraphrase": "Lehrende und Lernende müssen sicherstellen, dass die Qualität der Antworten von ChatGPT überprüft wird, besonders bei komplexen Themen.",
-      "Generalisierung": "Verantwortung der Qualitätssicherung bei der Nutzung von ChatGPT für komplexe Themen.",
-      "Kategorie": "Einsatz in der Lehre",
-      "Subkategorie": ""
+        "ID":  "3",
+        "Nummer":  "19",
+        "Textausschnitt":  "Es liegt in der Verantwortung der Lehrenden und der Lernenden sicherzustellen, dass die Qualität der generierten Antworten angemessen überprüft wird, insbesondere bei komplexen oder spezialisierten Themen.",
+        "Paraphrase":  "Lehrende und Lernende müssen sicherstellen, dass die Qualität der Antworten von ChatGPT überprüft wird, besonders bei komplexen Themen.",
+        "Generalisierung":  "Verantwortung der Qualitätssicherung bei der Nutzung von ChatGPT für komplexe Themen.",
+        "Kategorie":  "Einsatz in der Lehre",
+        "Subkategorie":  ""
     },
     {
-      "ID": "3",
-      "Nummer": "20",
-      "Textausschnitt": "Auch die individuelle Betreuung der Studierenden darf nicht vernachlässigt werden. Der persönliche Austausch zwischen Lehrenden und Lernenden ermöglicht es, gezielt auf die Bedürfnisse und Herausforderungen einzugehen",
-      "Paraphrase": "Die individuelle Betreuung der Studierenden und der persönliche Austausch sind wichtig, um gezielt auf Bedürfnisse und Herausforderungen einzugehen.",
-      "Generalisierung": "Wichtigkeit der individuellen Betreuung und des persönlichen Austauschs in der Lehre.",
-      "Kategorie": "Einsatz in der Lehre",
-      "Subkategorie": ""
+        "ID":  "3",
+        "Nummer":  "20",
+        "Textausschnitt":  "Auch die individuelle Betreuung der Studierenden darf nicht vernachlässigt werden. Der persönliche Austausch zwischen Lehrenden und Lernenden ermöglicht es, gezielt auf die Bedürfnisse und Herausforderungen einzugehen",
+        "Paraphrase":  "Die individuelle Betreuung der Studierenden und der persönliche Austausch sind wichtig, um gezielt auf Bedürfnisse und Herausforderungen einzugehen.",
+        "Generalisierung":  "Wichtigkeit der individuellen Betreuung und des persönlichen Austauschs in der Lehre.",
+        "Kategorie":  "Einsatz in der Lehre",
+        "Subkategorie":  ""
     },
     {
-      "ID": "3",
-      "Nummer": "21",
-      "Textausschnitt": "Es gilt, die potenziellen Vorteile und Nachteile gegeneinander abzuwägen und den Fokus auf eine ganzheitliche und individuelle Lernerfahrung zu legen. Es ist wichtig, ChatGPT als Ergänzung zu anderen Lehrmethoden zu betrachten ist.",
-      "Paraphrase": "Man muss die Vor- und Nachteile von ChatGPT abwägen und den Fokus auf eine ganzheitliche und individuelle Lernerfahrung legen.",
-      "Generalisierung": "Abwägung der Vor- und Nachteile von ChatGPT für eine ganzheitliche Lernerfahrung.",
-      "Kategorie": "Einsatz in der Lehre",
-      "Subkategorie": ""
+        "ID":  "3",
+        "Nummer":  "21",
+        "Textausschnitt":  "Es gilt, die potenziellen Vorteile und Nachteile gegeneinander abzuwägen und den Fokus auf eine ganzheitliche und individuelle Lernerfahrung zu legen. Es ist wichtig, ChatGPT als Ergänzung zu anderen Lehrmethoden zu betrachten ist.",
+        "Paraphrase":  "Man muss die Vor- und Nachteile von ChatGPT abwägen und den Fokus auf eine ganzheitliche und individuelle Lernerfahrung legen.",
+        "Generalisierung":  "Abwägung der Vor- und Nachteile von ChatGPT für eine ganzheitliche Lernerfahrung.",
+        "Kategorie":  "Einsatz in der Lehre",
+        "Subkategorie":  ""
     }
-  ]
-  
+]

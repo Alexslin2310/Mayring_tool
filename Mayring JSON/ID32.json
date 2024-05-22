@@ -1,111 +1,110 @@
 ﻿[
     {
-      "ID": "32",
-      "Nummer": "1",
-      "Textausschnitt": "Die Anwendung mit dem System bzw. der Künstlichen Intelligenz (KI) war relativ einfach und bedienerfreundlich.",
-      "Paraphrase": "Die Anwendung des Systems bzw. der Künstlichen Intelligenz (KI) war relativ einfach und benutzerfreundlich.",
-      "Generalisierung": "Einfache und benutzerfreundliche Anwendung des KI-Systems.",
-      "Kategorie": "Benutzerfreundlichkeit",
-      "Subkategorie": ""
+        "ID":  "32",
+        "Nummer":  "1",
+        "Textausschnitt":  "Die Anwendung mit dem System bzw. der Künstlichen Intelligenz (KI) war relativ einfach und bedienerfreundlich.",
+        "Paraphrase":  "Die Anwendung des Systems bzw. der Künstlichen Intelligenz (KI) war relativ einfach und benutzerfreundlich.",
+        "Generalisierung":  "Einfache und benutzerfreundliche Anwendung des KI-Systems.",
+        "Kategorie":  "Benutzerfreundlichkeit",
+        "Subkategorie":  ""
     },
     {
-      "ID": "32",
-      "Nummer": "2",
-      "Textausschnitt": "Allerdings muss man das System für gute Ergebnisse erst mit vielen Informationen über das Unterneh men und zu den gegebenen Umständen informieren.",
-      "Paraphrase": "Für gute Ergebnisse muss man das System zuerst mit vielen Informationen über das Unternehmen und die gegebenen Umstände versorgen.",
-      "Generalisierung": "System muss mit vielen Informationen über das Unternehmen und Umstände versorgt werden, um gute Ergebnisse zu liefern.",
-      "Kategorie": "Eingabedetaillierung",
-      "Subkategorie": ""
+        "ID":  "32",
+        "Nummer":  "2",
+        "Textausschnitt":  "Allerdings muss man das System für gute Ergebnisse erst mit vielen Informationen über das Unterneh men und zu den gegebenen Umständen informieren.",
+        "Paraphrase":  "Für gute Ergebnisse muss man das System zuerst mit vielen Informationen über das Unternehmen und die gegebenen Umstände versorgen.",
+        "Generalisierung":  "System muss mit vielen Informationen über das Unternehmen und Umstände versorgt werden, um gute Ergebnisse zu liefern.",
+        "Kategorie":  "Eingabedetaillierung",
+        "Subkategorie":  ""
     },
     {
-      "ID": "32",
-      "Nummer": "3",
-      "Textausschnitt": "Da ChatGPT das Unternehmen nicht kannte war es in diesem Fall besonders wichtig dem System im Vorfeld so viele vorhan-dene Informationen wie möglich zugeben.",
-      "Paraphrase": "Da ChatGPT das Unternehmen nicht kannte, war es besonders wichtig, dem System im Vorfeld so viele vorhandene Informationen wie möglich zu geben.",
-      "Generalisierung": "Wichtige Vorabinformation des Systems bei unbekanntem Unternehmen erforderlich.",
-      "Kategorie": "Eingabedetaillierung",
-      "Subkategorie": ""
+        "ID":  "32",
+        "Nummer":  "3",
+        "Textausschnitt":  "Da ChatGPT das Unternehmen nicht kannte war es in diesem Fall besonders wichtig dem System im Vorfeld so viele vorhan-dene Informationen wie möglich zugeben.",
+        "Paraphrase":  "Da ChatGPT das Unternehmen nicht kannte, war es besonders wichtig, dem System im Vorfeld so viele vorhandene Informationen wie möglich zu geben.",
+        "Generalisierung":  "Wichtige Vorabinformation des Systems bei unbekanntem Unternehmen erforderlich.",
+        "Kategorie":  "Eingabedetaillierung",
+        "Subkategorie":  ""
     },
     {
-      "ID": "32",
-      "Nummer": "4",
-      "Textausschnitt": "Der Einsatz von ChatGPT war zwar nicht für alle Themen geeignet, allerdings hat die KI zu allen Fragestellungen Ansätze liefern können.",
-      "Paraphrase": "Der Einsatz von ChatGPT war nicht für alle Themen geeignet, aber die KI konnte zu allen Fragestellungen Ansätze liefern.",
-      "Generalisierung": "ChatGPT kann nicht alle Themen abdecken, liefert aber Ansätze zu allen Fragestellungen.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "32",
+        "Nummer":  "4",
+        "Textausschnitt":  "Der Einsatz von ChatGPT war zwar nicht für alle Themen geeignet, allerdings hat die KI zu allen Fragestellungen Ansätze liefern können.",
+        "Paraphrase":  "Der Einsatz von ChatGPT war nicht für alle Themen geeignet, aber die KI konnte zu allen Fragestellungen Ansätze liefern.",
+        "Generalisierung":  "ChatGPT kann nicht alle Themen abdecken, liefert aber Ansätze zu allen Fragestellungen.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "32",
-      "Nummer": "5",
-      "Textausschnitt": "Besonders in den gene rellen Bereichen, wie den externen Wandelauslösern in der Branche oder den Gründen warum die Marketingleitung als Verantwortungsperson für den Wandel am geeignetsten ist, konnten sehr gut mithilfe der KI beantwortet werden.",
-      "Paraphrase": "Besonders in den allgemeinen Bereichen, wie externen Wandelauslösern in der Branche oder den Gründen, warum die Marketingleitung als Verantwortungsperson für den Wandel am geeignetsten ist, konnte die KI sehr gut Antworten liefern.",
-      "Generalisierung": "Gute Antworten in allgemeinen Bereichen wie externen Wandelauslösern oder Verantwortlichkeiten.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "32",
+        "Nummer":  "5",
+        "Textausschnitt":  "Besonders in den gene rellen Bereichen, wie den externen Wandelauslösern in der Branche oder den Gründen warum die Marketingleitung als Verantwortungsperson für den Wandel am geeignetsten ist, konnten sehr gut mithilfe der KI beantwortet werden.",
+        "Paraphrase":  "Besonders in den allgemeinen Bereichen, wie externen Wandelauslösern in der Branche oder den Gründen, warum die Marketingleitung als Verantwortungsperson für den Wandel am geeignetsten ist, konnte die KI sehr gut Antworten liefern.",
+        "Generalisierung":  "Gute Antworten in allgemeinen Bereichen wie externen Wandelauslösern oder Verantwortlichkeiten.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "32",
-      "Nummer": "6",
-      "Textausschnitt": "Ein eher negativer Punkt ist, dass ChatGPT zwar lange Texte zu den gestellten Fragestellungen formulieren konnte, diese Antworten jedoch oft nur generellen Aussagen waren und eine Antwort viele gleiche Aussagen in sich hatte.",
-      "Paraphrase": "Ein negativer Punkt ist, dass ChatGPT zwar lange Texte formulieren konnte, diese jedoch oft nur allgemeine Aussagen enthielten und viele Wiederholungen aufwiesen.",
-      "Generalisierung": "Lange Texte von ChatGPT enthalten oft nur allgemeine Aussagen und viele Wiederholungen.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "32",
+        "Nummer":  "6",
+        "Textausschnitt":  "Ein eher negativer Punkt ist, dass ChatGPT zwar lange Texte zu den gestellten Fragestellungen formulieren konnte, diese Antworten jedoch oft nur generellen Aussagen waren und eine Antwort viele gleiche Aussagen in sich hatte.",
+        "Paraphrase":  "Ein negativer Punkt ist, dass ChatGPT zwar lange Texte formulieren konnte, diese jedoch oft nur allgemeine Aussagen enthielten und viele Wiederholungen aufwiesen.",
+        "Generalisierung":  "Lange Texte von ChatGPT enthalten oft nur allgemeine Aussagen und viele Wiederholungen.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "32",
-      "Nummer": "7",
-      "Textausschnitt": "Das be deutet, dass in viel Text nur wenig informativer Content eingebaut wurde und somit viele Aussagen sehr schwerfällig und nur wenig aussagekräftig waren.",
-      "Paraphrase": "Viel Text enthielt wenig informativen Inhalt, was die Aussagen schwerfällig und wenig aussagekräftig machte.",
-      "Generalisierung": "Viel Text, wenig informativer Inhalt, schwerfällige und wenig aussagekräftige Aussagen.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "32",
+        "Nummer":  "7",
+        "Textausschnitt":  "Das be deutet, dass in viel Text nur wenig informativer Content eingebaut wurde und somit viele Aussagen sehr schwerfällig und nur wenig aussagekräftig waren.",
+        "Paraphrase":  "Viel Text enthielt wenig informativen Inhalt, was die Aussagen schwerfällig und wenig aussagekräftig machte.",
+        "Generalisierung":  "Viel Text, wenig informativer Inhalt, schwerfällige und wenig aussagekräftige Aussagen.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "32",
-      "Nummer": "8",
-      "Textausschnitt": "Als Eigenschutz beantwortet ChatGPT, damit die KI weniger falsche Aussagen liefert, sehr viel im der Konjunktivform. …. Das bedeutet, dass in den meisten Fällen keine klaren Antworten generiert werden konnten.",
-      "Paraphrase": "ChatGPT verwendet oft den Konjunktiv, um weniger falsche Aussagen zu liefern, was bedeutet, dass meistens keine klaren Antworten generiert wurden.",
-      "Generalisierung": "Verwendung des Konjunktivs führt zu unklaren Antworten.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "32",
+        "Nummer":  "8",
+        "Textausschnitt":  "Als Eigenschutz beantwortet ChatGPT, damit die KI weniger falsche Aussagen liefert, sehr viel im der Konjunktivform. …. Das bedeutet, dass in den meisten Fällen keine klaren Antworten generiert werden konnten.",
+        "Paraphrase":  "ChatGPT verwendet oft den Konjunktiv, um weniger falsche Aussagen zu liefern, was bedeutet, dass meistens keine klaren Antworten generiert wurden.",
+        "Generalisierung":  "Verwendung des Konjunktivs führt zu unklaren Antworten.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "32",
-      "Nummer": "9",
-      "Textausschnitt": "Da die KI jetzt schon über ein superintelligentes Sprachverständnis verfügt bin ich mir sicher, dass die wenigen Rechtschreibfehler, welche die KI noch 21 beinhaltet, ebenfalls beseitigt werden können.",
-      "Paraphrase": "Die KI verfügt über ein superintelligentes Sprachverständnis, daher bin ich sicher, dass die wenigen verbleibenden Rechtschreibfehler ebenfalls beseitigt werden können.",
-      "Generalisierung": "Superintelligentes Sprachverständnis der KI, wenige verbleibende Rechtschreibfehler können beseitigt werden.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "32",
+        "Nummer":  "9",
+        "Textausschnitt":  "Da die KI jetzt schon über ein superintelligentes Sprachverständnis verfügt bin ich mir sicher, dass die wenigen Rechtschreibfehler, welche die KI noch 21 beinhaltet, ebenfalls beseitigt werden können.",
+        "Paraphrase":  "Die KI verfügt über ein superintelligentes Sprachverständnis, daher bin ich sicher, dass die wenigen verbleibenden Rechtschreibfehler ebenfalls beseitigt werden können.",
+        "Generalisierung":  "Superintelligentes Sprachverständnis der KI, wenige verbleibende Rechtschreibfehler können beseitigt werden.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "32",
-      "Nummer": "10",
-      "Textausschnitt": "Alles in allem hat ChatGPT mir bei dem Schreiben der Hausarbeit aber sehr geholfen, da es immer gute Ideen und Ansätze liefern konnte. Auch Modellanwendungen waren mit der KI kein Problem.",
-      "Paraphrase": "Insgesamt hat ChatGPT mir sehr beim Schreiben der Hausarbeit geholfen, indem es immer gute Ideen und Ansätze lieferte. Auch Modellanwendungen waren kein Problem.",
-      "Generalisierung": "ChatGPT hilft beim Schreiben, liefert gute Ideen und Ansätze, Modellanwendungen sind kein Problem.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "32",
+        "Nummer":  "10",
+        "Textausschnitt":  "Alles in allem hat ChatGPT mir bei dem Schreiben der Hausarbeit aber sehr geholfen, da es immer gute Ideen und Ansätze liefern konnte. Auch Modellanwendungen waren mit der KI kein Problem.",
+        "Paraphrase":  "Insgesamt hat ChatGPT mir sehr beim Schreiben der Hausarbeit geholfen, indem es immer gute Ideen und Ansätze lieferte. Auch Modellanwendungen waren kein Problem.",
+        "Generalisierung":  "ChatGPT hilft beim Schreiben, liefert gute Ideen und Ansätze, Modellanwendungen sind kein Problem.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "32",
-      "Nummer": "11",
-      "Textausschnitt": "Am Ende sollten jedoch alle von der KI gegebenen Antworten nochmal sorgfältig auf ihre Richtigkeit geprüft werden. Da die KI keine Quellen angibt, von denen sie ihre Informationen bezieht. Daher sehe ich den Einsatz in Projekt-, Bachelor- und Masterarbeit eher als kritisch an.",
-      "Paraphrase": "Alle von der KI gegebenen Antworten sollten sorgfältig auf ihre Richtigkeit geprüft werden, da die KI keine Quellen angibt. Daher sehe ich den Einsatz in Projekt-, Bachelor- und Masterarbeiten als kritisch an.",
-      "Generalisierung": "Sorgfältige Prüfung der Antworten erforderlich, keine Quellenangaben, Einsatz in wissenschaftlichen Arbeiten kritisch.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "32",
+        "Nummer":  "11",
+        "Textausschnitt":  "Am Ende sollten jedoch alle von der KI gegebenen Antworten nochmal sorgfältig auf ihre Richtigkeit geprüft werden. Da die KI keine Quellen angibt, von denen sie ihre Informationen bezieht. Daher sehe ich den Einsatz in Projekt-, Bachelor- und Masterarbeit eher als kritisch an.",
+        "Paraphrase":  "Alle von der KI gegebenen Antworten sollten sorgfältig auf ihre Richtigkeit geprüft werden, da die KI keine Quellen angibt. Daher sehe ich den Einsatz in Projekt-, Bachelor- und Masterarbeiten als kritisch an.",
+        "Generalisierung":  "Sorgfältige Prüfung der Antworten erforderlich, keine Quellenangaben, Einsatz in wissenschaftlichen Arbeiten kritisch.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "32",
-      "Nummer": "12",
-      "Textausschnitt": "Allerdings lassen sich mit ChatGPT, meiner Meinung nach, hervorragend Texte umschreiben, sodass diese nicht mehr wie der Originaltext klingen. Diese Texte besitzen lediglich die gleichen Aussagen und Inhalte.",
-      "Paraphrase": "Mit ChatGPT lassen sich Texte hervorragend umschreiben, sodass sie nicht mehr wie der Originaltext klingen, aber die gleichen Aussagen und Inhalte haben.",
-      "Generalisierung": "Texte können hervorragend umgeschrieben werden, gleiche Aussagen und Inhalte, aber klingen nicht mehr wie der Originaltext.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "32",
+        "Nummer":  "12",
+        "Textausschnitt":  "Allerdings lassen sich mit ChatGPT, meiner Meinung nach, hervorragend Texte umschreiben, sodass diese nicht mehr wie der Originaltext klingen. Diese Texte besitzen lediglich die gleichen Aussagen und Inhalte.",
+        "Paraphrase":  "Mit ChatGPT lassen sich Texte hervorragend umschreiben, sodass sie nicht mehr wie der Originaltext klingen, aber die gleichen Aussagen und Inhalte haben.",
+        "Generalisierung":  "Texte können hervorragend umgeschrieben werden, gleiche Aussagen und Inhalte, aber klingen nicht mehr wie der Originaltext.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     }
-  ]
-  
+]

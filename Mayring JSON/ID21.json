@@ -1,201 +1,200 @@
 ﻿[
     {
-      "ID": "21",
-      "Nummer": "1",
-      "Textausschnitt": "ChatGpt verfügt über ein einfaches Eingabefenster, über welches man entweder Fragen stellen oder dem Programm Informationen zuführen kann.",
-      "Paraphrase": "ChatGPT hat ein einfaches Eingabefenster, um Fragen zu stellen oder Informationen einzugeben.",
-      "Generalisierung": "Einfaches Eingabefenster für Fragen und Informationen bei ChatGPT.",
-      "Kategorie": "Benutzerfreundlichkeit",
-      "Subkategorie": ""
+        "ID":  "21",
+        "Nummer":  "1",
+        "Textausschnitt":  "ChatGpt verfügt über ein einfaches Eingabefenster, über welches man entweder Fragen stellen oder dem Programm Informationen zuführen kann.",
+        "Paraphrase":  "ChatGPT hat ein einfaches Eingabefenster, um Fragen zu stellen oder Informationen einzugeben.",
+        "Generalisierung":  "Einfaches Eingabefenster für Fragen und Informationen bei ChatGPT.",
+        "Kategorie":  "Benutzerfreundlichkeit",
+        "Subkategorie":  ""
     },
     {
-      "ID": "21",
-      "Nummer": "2",
-      "Textausschnitt": "Die Komplexität des Programms hängt von der Frage ab. Je detaillierter die Antwort sein soll, desto genauer muss die Eingabe sein. Sprich, will man einen ausformulierten Text mit speziellen Angaben, muss man diese in der Eingabe auch anmerken.",
-      "Paraphrase": "Die Komplexität von ChatGPT hängt von der Frage ab. Für detaillierte Antworten muss die Eingabe genau sein.",
-      "Generalisierung": "Komplexität und Genauigkeit der Eingabe beeinflussen die Antworten von ChatGPT.",
-      "Kategorie": "Eingabedetaillierung",
-      "Subkategorie": ""
+        "ID":  "21",
+        "Nummer":  "2",
+        "Textausschnitt":  "Die Komplexität des Programms hängt von der Frage ab. Je detaillierter die Antwort sein soll, desto genauer muss die Eingabe sein. Sprich, will man einen ausformulierten Text mit speziellen Angaben, muss man diese in der Eingabe auch anmerken.",
+        "Paraphrase":  "Die Komplexität von ChatGPT hängt von der Frage ab. Für detaillierte Antworten muss die Eingabe genau sein.",
+        "Generalisierung":  "Komplexität und Genauigkeit der Eingabe beeinflussen die Antworten von ChatGPT.",
+        "Kategorie":  "Eingabedetaillierung",
+        "Subkategorie":  ""
     },
     {
-      "ID": "21",
-      "Nummer": "3",
-      "Textausschnitt": "Zudem lernt das Programm mit jeder Eingabe innerhalb eines Chats dazu, sprich mit der Zeit zieht es Verbindungen zwischen Themen, die man anfangs vielleicht hätte nachtragen müssen.",
-      "Paraphrase": "ChatGPT lernt mit jeder Eingabe und zieht Verbindungen zwischen Themen im Verlauf eines Chats.",
-      "Generalisierung": "ChatGPT lernt mit jeder Eingabe und verbessert die Verbindungen zwischen Themen.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "21",
+        "Nummer":  "3",
+        "Textausschnitt":  "Zudem lernt das Programm mit jeder Eingabe innerhalb eines Chats dazu, sprich mit der Zeit zieht es Verbindungen zwischen Themen, die man anfangs vielleicht hätte nachtragen müssen.",
+        "Paraphrase":  "ChatGPT lernt mit jeder Eingabe und zieht Verbindungen zwischen Themen im Verlauf eines Chats.",
+        "Generalisierung":  "ChatGPT lernt mit jeder Eingabe und verbessert die Verbindungen zwischen Themen.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "21",
-      "Nummer": "4",
-      "Textausschnitt": "Aber grundsätzlich ist das Programm von der Bedienbarkeit sehr einfach.",
-      "Paraphrase": "Grundsätzlich ist die Bedienung des Programms sehr einfach.",
-      "Generalisierung": "Einfache Bedienung von ChatGPT.",
-      "Kategorie": "Benutzerfreundlichkeit",
-      "Subkategorie": ""
+        "ID":  "21",
+        "Nummer":  "4",
+        "Textausschnitt":  "Aber grundsätzlich ist das Programm von der Bedienbarkeit sehr einfach.",
+        "Paraphrase":  "Grundsätzlich ist die Bedienung des Programms sehr einfach.",
+        "Generalisierung":  "Einfache Bedienung von ChatGPT.",
+        "Kategorie":  "Benutzerfreundlichkeit",
+        "Subkategorie":  ""
     },
     {
-      "ID": "21",
-      "Nummer": "5",
-      "Textausschnitt": "Die Detailliertheit der Eingaben hängen ebenfalls stark von der Frage ab. Bei einfachen Erklärungen und Definitionen reichen einzelne kurze Angaben.",
-      "Paraphrase": "Die Detailliertheit der Eingaben hängt stark von der Frage ab. Für einfache Erklärungen und Definitionen reichen kurze Angaben.",
-      "Generalisierung": "Detailliertheit der Eingaben variiert je nach Frage.",
-      "Kategorie": "Eingabedetaillierung",
-      "Subkategorie": ""
+        "ID":  "21",
+        "Nummer":  "5",
+        "Textausschnitt":  "Die Detailliertheit der Eingaben hängen ebenfalls stark von der Frage ab. Bei einfachen Erklärungen und Definitionen reichen einzelne kurze Angaben.",
+        "Paraphrase":  "Die Detailliertheit der Eingaben hängt stark von der Frage ab. Für einfache Erklärungen und Definitionen reichen kurze Angaben.",
+        "Generalisierung":  "Detailliertheit der Eingaben variiert je nach Frage.",
+        "Kategorie":  "Eingabedetaillierung",
+        "Subkategorie":  ""
     },
     {
-      "ID": "21",
-      "Nummer": "6",
-      "Textausschnitt": "Möchte man jedoch etwas längere Textangaben bekommen, muss man die Eingabe, wie oben erwähnt, mit den gewünschten Details und Aspekten versehen.",
-      "Paraphrase": "Für längere Textangaben muss man die Eingabe mit gewünschten Details und Aspekten versehen.",
-      "Generalisierung": "Längere Textangaben erfordern detaillierte Eingaben.",
-      "Kategorie": "Eingabedetaillierung",
-      "Subkategorie": ""
+        "ID":  "21",
+        "Nummer":  "6",
+        "Textausschnitt":  "Möchte man jedoch etwas längere Textangaben bekommen, muss man die Eingabe, wie oben erwähnt, mit den gewünschten Details und Aspekten versehen.",
+        "Paraphrase":  "Für längere Textangaben muss man die Eingabe mit gewünschten Details und Aspekten versehen.",
+        "Generalisierung":  "Längere Textangaben erfordern detaillierte Eingaben.",
+        "Kategorie":  "Eingabedetaillierung",
+        "Subkategorie":  ""
     },
     {
-      "ID": "21",
-      "Nummer": "7",
-      "Textausschnitt": "Bei der Ausführlichkeit und dem Ausformulieren der Texte sind bei mir die meisten Probleme aufgetreten. Dem Programm fällt es schwer, Angaben wie „etwas ausführlicher“, „genauer“ oder „…nochmal zusammenfassen“ richtig zu deuten.",
-      "Paraphrase": "Die meisten Probleme traten bei der Ausführlichkeit und dem Ausformulieren der Texte auf. ChatGPT hat Schwierigkeiten, vage Angaben wie „etwas ausführlicher“ oder „genauer“ zu deuten.",
-      "Generalisierung": "Schwierigkeiten bei der Ausführlichkeit und Ausformulieren der Texte mit vagen Angaben.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "21",
+        "Nummer":  "7",
+        "Textausschnitt":  "Bei der Ausführlichkeit und dem Ausformulieren der Texte sind bei mir die meisten Probleme aufgetreten. Dem Programm fällt es schwer, Angaben wie „etwas ausführlicher“, „genauer“ oder „…nochmal zusammenfassen“ richtig zu deuten.",
+        "Paraphrase":  "Die meisten Probleme traten bei der Ausführlichkeit und dem Ausformulieren der Texte auf. ChatGPT hat Schwierigkeiten, vage Angaben wie „etwas ausführlicher“ oder „genauer“ zu deuten.",
+        "Generalisierung":  "Schwierigkeiten bei der Ausführlichkeit und Ausformulieren der Texte mit vagen Angaben.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "21",
-      "Nummer": "8",
-      "Textausschnitt": "Natürlich ist es nicht leicht, solche Angaben wie „etwas“ exakt zu deuten, aber nach mehrmaligen Wiederholungen, Texte je nach Belieben umzuschreiben, hat dies auch gut funktioniert.",
-      "Paraphrase": "Es ist nicht leicht, vage Angaben wie „etwas“ zu deuten, aber nach mehreren Wiederholungen funktionierte es gut.",
-      "Generalisierung": "Mehrfache Wiederholungen helfen bei der Deutung vager Angaben.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "21",
+        "Nummer":  "8",
+        "Textausschnitt":  "Natürlich ist es nicht leicht, solche Angaben wie „etwas“ exakt zu deuten, aber nach mehrmaligen Wiederholungen, Texte je nach Belieben umzuschreiben, hat dies auch gut funktioniert.",
+        "Paraphrase":  "Es ist nicht leicht, vage Angaben wie „etwas“ zu deuten, aber nach mehreren Wiederholungen funktionierte es gut.",
+        "Generalisierung":  "Mehrfache Wiederholungen helfen bei der Deutung vager Angaben.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "21",
-      "Nummer": "9",
-      "Textausschnitt": "Auch die Rechtschreibung und Gliederung mancher Texte war oft nicht optimal.",
-      "Paraphrase": "Die Rechtschreibung und Gliederung mancher Texte war oft nicht optimal.",
-      "Generalisierung": "Nicht optimale Rechtschreibung und Gliederung mancher Texte.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "21",
+        "Nummer":  "9",
+        "Textausschnitt":  "Auch die Rechtschreibung und Gliederung mancher Texte war oft nicht optimal.",
+        "Paraphrase":  "Die Rechtschreibung und Gliederung mancher Texte war oft nicht optimal.",
+        "Generalisierung":  "Nicht optimale Rechtschreibung und Gliederung mancher Texte.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "21",
-      "Nummer": "10",
-      "Textausschnitt": "Zudem ist die Variation an Begriffen und Satzbauarten begrenzt.",
-      "Paraphrase": "Die Variation an Begriffen und Satzbauarten ist begrenzt.",
-      "Generalisierung": "Begrenzte Variation an Begriffen und Satzbauarten.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "21",
+        "Nummer":  "10",
+        "Textausschnitt":  "Zudem ist die Variation an Begriffen und Satzbauarten begrenzt.",
+        "Paraphrase":  "Die Variation an Begriffen und Satzbauarten ist begrenzt.",
+        "Generalisierung":  "Begrenzte Variation an Begriffen und Satzbauarten.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "21",
-      "Nummer": "11",
-      "Textausschnitt": "Mit ChatGPT können schnell einfache (Verständnis-) Fragen beantwortet werden.",
-      "Paraphrase": "ChatGPT kann schnell einfache Verständnisfragen beantworten.",
-      "Generalisierung": "Schnelle Beantwortung einfacher Verständnisfragen durch ChatGPT.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "21",
+        "Nummer":  "11",
+        "Textausschnitt":  "Mit ChatGPT können schnell einfache (Verständnis-) Fragen beantwortet werden.",
+        "Paraphrase":  "ChatGPT kann schnell einfache Verständnisfragen beantworten.",
+        "Generalisierung":  "Schnelle Beantwortung einfacher Verständnisfragen durch ChatGPT.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "21",
-      "Nummer": "12",
-      "Textausschnitt": "Zudem kann es bei der Suche nach Quellen sehr hilfreich sein.",
-      "Paraphrase": "ChatGPT kann sehr hilfreich bei der Suche nach Quellen sein.",
-      "Generalisierung": "Hilfreich bei der Suche nach Quellen.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "21",
+        "Nummer":  "12",
+        "Textausschnitt":  "Zudem kann es bei der Suche nach Quellen sehr hilfreich sein.",
+        "Paraphrase":  "ChatGPT kann sehr hilfreich bei der Suche nach Quellen sein.",
+        "Generalisierung":  "Hilfreich bei der Suche nach Quellen.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "21",
-      "Nummer": "13",
-      "Textausschnitt": "Auch wenn das Formulieren von Texten nicht immer reibungslos funktioniert hat, war es dennoch eine große Unterstützung dabei und hat, trotz Korrekturen, sehr viel Zeit gespart.",
-      "Paraphrase": "Obwohl das Formulieren von Texten nicht immer reibungslos funktionierte, war es eine große Unterstützung und sparte viel Zeit.",
-      "Generalisierung": "Große Unterstützung und Zeitersparnis trotz nicht immer reibungsloser Textformulierungen.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "21",
+        "Nummer":  "13",
+        "Textausschnitt":  "Auch wenn das Formulieren von Texten nicht immer reibungslos funktioniert hat, war es dennoch eine große Unterstützung dabei und hat, trotz Korrekturen, sehr viel Zeit gespart.",
+        "Paraphrase":  "Obwohl das Formulieren von Texten nicht immer reibungslos funktionierte, war es eine große Unterstützung und sparte viel Zeit.",
+        "Generalisierung":  "Große Unterstützung und Zeitersparnis trotz nicht immer reibungsloser Textformulierungen.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "21",
-      "Nummer": "14",
-      "Textausschnitt": "Selbst wenn man nur einfache Synonyme oder Definitionen braucht, ChatGPT ist da, meiner Meinung nach, besser als Google. Man muss nicht extra eine Seite öffnen und hat meist noch mehr Auswahl.",
-      "Paraphrase": "ChatGPT ist besser als Google für einfache Synonyme oder Definitionen, da man nicht extra eine Seite öffnen muss und mehr Auswahl hat.",
-      "Generalisierung": "ChatGPT ist besser als Google für Synonyme oder Definitionen wegen einfacher Bedienung und mehr Auswahl.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "21",
+        "Nummer":  "14",
+        "Textausschnitt":  "Selbst wenn man nur einfache Synonyme oder Definitionen braucht, ChatGPT ist da, meiner Meinung nach, besser als Google. Man muss nicht extra eine Seite öffnen und hat meist noch mehr Auswahl.",
+        "Paraphrase":  "ChatGPT ist besser als Google für einfache Synonyme oder Definitionen, da man nicht extra eine Seite öffnen muss und mehr Auswahl hat.",
+        "Generalisierung":  "ChatGPT ist besser als Google für Synonyme oder Definitionen wegen einfacher Bedienung und mehr Auswahl.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "21",
-      "Nummer": "15",
-      "Textausschnitt": "Zudem, wie bereits erwähnt, kann man sich durch ChatGPT viel Zeit beim Ausformulieren sparen.",
-      "Paraphrase": "Man kann durch ChatGPT viel Zeit beim Ausformulieren sparen.",
-      "Generalisierung": "Zeitersparnis beim Ausformulieren durch ChatGPT.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "21",
+        "Nummer":  "15",
+        "Textausschnitt":  "Zudem, wie bereits erwähnt, kann man sich durch ChatGPT viel Zeit beim Ausformulieren sparen.",
+        "Paraphrase":  "Man kann durch ChatGPT viel Zeit beim Ausformulieren sparen.",
+        "Generalisierung":  "Zeitersparnis beim Ausformulieren durch ChatGPT.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "21",
-      "Nummer": "16",
-      "Textausschnitt": "Denn durch die Beantwortung von Fragen kann die Meinung des Anwenders verfälscht werden. Bzw. werden mögliche Einblicke gegeben oder Themen angesprochen, auf die der Anwender ohne Hilfe nicht gekommen wäre.",
-      "Paraphrase": "Die Beantwortung von Fragen durch ChatGPT kann die Meinung des Anwenders verfälschen oder neue Einblicke und Themen geben, auf die der Anwender ohne Hilfe nicht gekommen wäre.",
-      "Generalisierung": "Antworten von ChatGPT können die Meinung verfälschen oder neue Einblicke und Themen geben.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "21",
+        "Nummer":  "16",
+        "Textausschnitt":  "Denn durch die Beantwortung von Fragen kann die Meinung des Anwenders verfälscht werden. Bzw. werden mögliche Einblicke gegeben oder Themen angesprochen, auf die der Anwender ohne Hilfe nicht gekommen wäre.",
+        "Paraphrase":  "Die Beantwortung von Fragen durch ChatGPT kann die Meinung des Anwenders verfälschen oder neue Einblicke und Themen geben, auf die der Anwender ohne Hilfe nicht gekommen wäre.",
+        "Generalisierung":  "Antworten von ChatGPT können die Meinung verfälschen oder neue Einblicke und Themen geben.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "21",
-      "Nummer": "17",
-      "Textausschnitt": "So könnte es innerhalb einer Vorlesung mehr als hilfreich sein, wenn man das Programm semesterbegleitend nutzt und gelegentlich mit Information bestückt.",
-      "Paraphrase": "Es könnte innerhalb einer Vorlesung hilfreich sein, ChatGPT semesterbegleitend zu nutzen und gelegentlich mit Informationen zu füttern.",
-      "Generalisierung": "Semesterbegleitende Nutzung von ChatGPT kann in Vorlesungen hilfreich sein.",
-      "Kategorie": "Einsatz in der Lehre",
-      "Subkategorie": ""
+        "ID":  "21",
+        "Nummer":  "17",
+        "Textausschnitt":  "So könnte es innerhalb einer Vorlesung mehr als hilfreich sein, wenn man das Programm semesterbegleitend nutzt und gelegentlich mit Information bestückt.",
+        "Paraphrase":  "Es könnte innerhalb einer Vorlesung hilfreich sein, ChatGPT semesterbegleitend zu nutzen und gelegentlich mit Informationen zu füttern.",
+        "Generalisierung":  "Semesterbegleitende Nutzung von ChatGPT kann in Vorlesungen hilfreich sein.",
+        "Kategorie":  "Einsatz in der Lehre",
+        "Subkategorie":  ""
     },
     {
-      "ID": "21",
-      "Nummer": "18",
-      "Textausschnitt": "So können Themen oder einfache Definitionen schnell und individuell erläutert werden und somit ein höheres Verständnis geschaffen werden.",
-      "Paraphrase": "Themen oder einfache Definitionen können schnell und individuell erläutert werden, was zu einem höheren Verständnis führt.",
-      "Generalisierung": "Schnelle und individuelle Erläuterung von Themen oder Definitionen fördert Verständnis.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "21",
+        "Nummer":  "18",
+        "Textausschnitt":  "So können Themen oder einfache Definitionen schnell und individuell erläutert werden und somit ein höheres Verständnis geschaffen werden.",
+        "Paraphrase":  "Themen oder einfache Definitionen können schnell und individuell erläutert werden, was zu einem höheren Verständnis führt.",
+        "Generalisierung":  "Schnelle und individuelle Erläuterung von Themen oder Definitionen fördert Verständnis.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "21",
-      "Nummer": "19",
-      "Textausschnitt": "Persönlich stelle ich mir das sehr nützlich vor, wenn man z.B. den Faden aufgrund einer fehlenden Definition verliert und so schnell wieder anknüpfen kann.",
-      "Paraphrase": "Ich finde es nützlich, wenn man den Faden wegen einer fehlenden Definition verliert und so schnell wieder anknüpfen kann.",
-      "Generalisierung": "Nützlich, um schnell wieder anknüpfen zu können, wenn der Faden verloren geht.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "21",
+        "Nummer":  "19",
+        "Textausschnitt":  "Persönlich stelle ich mir das sehr nützlich vor, wenn man z.B. den Faden aufgrund einer fehlenden Definition verliert und so schnell wieder anknüpfen kann.",
+        "Paraphrase":  "Ich finde es nützlich, wenn man den Faden wegen einer fehlenden Definition verliert und so schnell wieder anknüpfen kann.",
+        "Generalisierung":  "Nützlich, um schnell wieder anknüpfen zu können, wenn der Faden verloren geht.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "21",
-      "Nummer": "20",
-      "Textausschnitt": "Sobald es um Informationsbeschaffung oder Klärung von Begriffen und Konzepten geht, ist dieses Programm mehr als hilfreich.",
-      "Paraphrase": "ChatGPT ist mehr als hilfreich bei der Informationsbeschaffung oder Klärung von Begriffen und Konzepten.",
-      "Generalisierung": "Sehr hilfreich bei Informationsbeschaffung und Klärung von Begriffen und Konzepten.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "21",
+        "Nummer":  "20",
+        "Textausschnitt":  "Sobald es um Informationsbeschaffung oder Klärung von Begriffen und Konzepten geht, ist dieses Programm mehr als hilfreich.",
+        "Paraphrase":  "ChatGPT ist mehr als hilfreich bei der Informationsbeschaffung oder Klärung von Begriffen und Konzepten.",
+        "Generalisierung":  "Sehr hilfreich bei Informationsbeschaffung und Klärung von Begriffen und Konzepten.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "21",
-      "Nummer": "21",
-      "Textausschnitt": "Einmal mehr aus dem Grund, da es mitlernt und sich den Eingaben anpasst, was Google oder Scholar nicht können.",
-      "Paraphrase": "ChatGPT lernt mit und passt sich den Eingaben an, was Google oder Scholar nicht können.",
-      "Generalisierung": "ChatGPT lernt mit und passt sich den Eingaben an.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "21",
+        "Nummer":  "21",
+        "Textausschnitt":  "Einmal mehr aus dem Grund, da es mitlernt und sich den Eingaben anpasst, was Google oder Scholar nicht können.",
+        "Paraphrase":  "ChatGPT lernt mit und passt sich den Eingaben an, was Google oder Scholar nicht können.",
+        "Generalisierung":  "ChatGPT lernt mit und passt sich den Eingaben an.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "21",
-      "Nummer": "22",
-      "Textausschnitt": "Die nachgeschlagenen Themen müssen nicht noch angewandt und auf das explizite Thema angepasst werden.",
-      "Paraphrase": "Die nachgeschlagenen Themen müssen nicht angewandt und auf das explizite Thema angepasst werden.",
-      "Generalisierung": "Nachgeschlagene Themen müssen nicht auf das explizite Thema angepasst werden.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "21",
+        "Nummer":  "22",
+        "Textausschnitt":  "Die nachgeschlagenen Themen müssen nicht noch angewandt und auf das explizite Thema angepasst werden.",
+        "Paraphrase":  "Die nachgeschlagenen Themen müssen nicht angewandt und auf das explizite Thema angepasst werden.",
+        "Generalisierung":  "Nachgeschlagene Themen müssen nicht auf das explizite Thema angepasst werden.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     }
-  ]
-  
+]

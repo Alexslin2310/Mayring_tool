@@ -1,111 +1,110 @@
 ﻿[
     {
-      "ID": "24",
-      "Nummer": "1",
-      "Textausschnitt": "Die Fähigkeit des AI Assistenten, auf meine Fragen einzugehen und umfangreiche Informationen bereitzustellen, war beeindruckend.",
-      "Paraphrase": "Die Fähigkeit von ChatGPT, auf Fragen einzugehen und umfangreiche Informationen bereitzustellen, war beeindruckend.",
-      "Generalisierung": "Beeindruckende Fähigkeit von ChatGPT, auf Fragen einzugehen und umfangreiche Informationen bereitzustellen.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "24",
+        "Nummer":  "1",
+        "Textausschnitt":  "Die Fähigkeit des AI Assistenten, auf meine Fragen einzugehen und umfangreiche Informationen bereitzustellen, war beeindruckend.",
+        "Paraphrase":  "Die Fähigkeit von ChatGPT, auf Fragen einzugehen und umfangreiche Informationen bereitzustellen, war beeindruckend.",
+        "Generalisierung":  "Beeindruckende Fähigkeit von ChatGPT, auf Fragen einzugehen und umfangreiche Informationen bereitzustellen.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "24",
-      "Nummer": "2",
-      "Textausschnitt": "ChatGPT konnte auf eine Vielzahl von Themen eingehen und viele aufzählende Informationen liefern, was mir geholfen hat, einen umfassenden Überblick über die behandelten Themen zu erhalten.",
-      "Paraphrase": "ChatGPT konnte auf viele Themen eingehen und viele Informationen liefern, was mir geholfen hat, einen umfassenden Überblick zu erhalten.",
-      "Generalisierung": "ChatGPT kann auf viele Themen eingehen und umfassende Informationen liefern.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "24",
+        "Nummer":  "2",
+        "Textausschnitt":  "ChatGPT konnte auf eine Vielzahl von Themen eingehen und viele aufzählende Informationen liefern, was mir geholfen hat, einen umfassenden Überblick über die behandelten Themen zu erhalten.",
+        "Paraphrase":  "ChatGPT konnte auf viele Themen eingehen und viele Informationen liefern, was mir geholfen hat, einen umfassenden Überblick zu erhalten.",
+        "Generalisierung":  "ChatGPT kann auf viele Themen eingehen und umfassende Informationen liefern.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "24",
-      "Nummer": "3",
-      "Textausschnitt": "Es ist jedoch wichtig zu beachten, dass die KI ihre Antworten auf einer begrenzten Wissensdatenbank basiert, die nur bis 2021 aktualisiert ist.",
-      "Paraphrase": "Die Antworten von ChatGPT basieren auf einer Wissensdatenbank, die nur bis 2021 aktualisiert ist.",
-      "Generalisierung": "ChatGPTs Antworten basieren auf einer Wissensdatenbank, die nur bis 2021 aktualisiert ist.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "24",
+        "Nummer":  "3",
+        "Textausschnitt":  "Es ist jedoch wichtig zu beachten, dass die KI ihre Antworten auf einer begrenzten Wissensdatenbank basiert, die nur bis 2021 aktualisiert ist.",
+        "Paraphrase":  "Die Antworten von ChatGPT basieren auf einer Wissensdatenbank, die nur bis 2021 aktualisiert ist.",
+        "Generalisierung":  "ChatGPTs Antworten basieren auf einer Wissensdatenbank, die nur bis 2021 aktualisiert ist.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "24",
-      "Nummer": "4",
-      "Textausschnitt": "Obwohl der AI-Assistent in einigen Fällen darauf hingewiesen hat, dass Informationen möglicherweise nicht vollständig sind, hätte ich mir manchmal zusätzliche Quellenangaben gewünscht, um die Informationen besser zu überprüfen und zu vertiefen.",
-      "Paraphrase": "Obwohl ChatGPT darauf hinweist, dass Informationen möglicherweise nicht vollständig sind, hätte ich mir zusätzliche Quellenangaben gewünscht, um sie besser überprüfen und vertiefen zu können.",
-      "Generalisierung": "Wunsch nach zusätzlichen Quellenangaben, um Informationen besser überprüfen und vertiefen zu können.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "24",
+        "Nummer":  "4",
+        "Textausschnitt":  "Obwohl der AI-Assistent in einigen Fällen darauf hingewiesen hat, dass Informationen möglicherweise nicht vollständig sind, hätte ich mir manchmal zusätzliche Quellenangaben gewünscht, um die Informationen besser zu überprüfen und zu vertiefen.",
+        "Paraphrase":  "Obwohl ChatGPT darauf hinweist, dass Informationen möglicherweise nicht vollständig sind, hätte ich mir zusätzliche Quellenangaben gewünscht, um sie besser überprüfen und vertiefen zu können.",
+        "Generalisierung":  "Wunsch nach zusätzlichen Quellenangaben, um Informationen besser überprüfen und vertiefen zu können.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "24",
-      "Nummer": "5",
-      "Textausschnitt": "Es ist daher ratsam, bei Bedarf weiterführende Recherchen durchzuführen, um sicherzustellen, dass die bereitgestellten Informationen korrekt und aktuell sind.",
-      "Paraphrase": "Es ist ratsam, weiterführende Recherchen durchzuführen, um sicherzustellen, dass die Informationen korrekt und aktuell sind.",
-      "Generalisierung": "Weiterführende Recherchen sind ratsam, um die Korrektheit und Aktualität der Informationen sicherzustellen.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "24",
+        "Nummer":  "5",
+        "Textausschnitt":  "Es ist daher ratsam, bei Bedarf weiterführende Recherchen durchzuführen, um sicherzustellen, dass die bereitgestellten Informationen korrekt und aktuell sind.",
+        "Paraphrase":  "Es ist ratsam, weiterführende Recherchen durchzuführen, um sicherzustellen, dass die Informationen korrekt und aktuell sind.",
+        "Generalisierung":  "Weiterführende Recherchen sind ratsam, um die Korrektheit und Aktualität der Informationen sicherzustellen.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "24",
-      "Nummer": "6",
-      "Textausschnitt": "Ein weiterer Punkt, den ich beachten musste, war, dass der AI-Assistent keine individuellen Unternehmenszyklen berücksichtigen kann. Obwohl das Programm auf allgemeine Prinzipien und Annahmen zurückgreift, ist es wichtig, die spezifischen Bedingungen und Anforderungen eines Unternehmens zu berücksichtigen.",
-      "Paraphrase": "ChatGPT kann keine individuellen Unternehmenszyklen berücksichtigen und greift auf allgemeine Prinzipien und Annahmen zurück. Es ist wichtig, die spezifischen Bedingungen und Anforderungen eines Unternehmens zu berücksichtigen.",
-      "Generalisierung": "ChatGPT berücksichtigt keine individuellen Unternehmenszyklen und greift auf allgemeine Prinzipien und Annahmen zurück.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "24",
+        "Nummer":  "6",
+        "Textausschnitt":  "Ein weiterer Punkt, den ich beachten musste, war, dass der AI-Assistent keine individuellen Unternehmenszyklen berücksichtigen kann. Obwohl das Programm auf allgemeine Prinzipien und Annahmen zurückgreift, ist es wichtig, die spezifischen Bedingungen und Anforderungen eines Unternehmens zu berücksichtigen.",
+        "Paraphrase":  "ChatGPT kann keine individuellen Unternehmenszyklen berücksichtigen und greift auf allgemeine Prinzipien und Annahmen zurück. Es ist wichtig, die spezifischen Bedingungen und Anforderungen eines Unternehmens zu berücksichtigen.",
+        "Generalisierung":  "ChatGPT berücksichtigt keine individuellen Unternehmenszyklen und greift auf allgemeine Prinzipien und Annahmen zurück.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "24",
-      "Nummer": "7",
-      "Textausschnitt": "ChatGPT kann keine maßgeschneiderten Lösungen für spezifische Unternehmenssituationen bieten, daher ist es ratsam, die bereitgestellten Informationen kritisch zu hinterfragen und gegebenenfalls mit internen oder externen Fachleuten zu konsultieren.",
-      "Paraphrase": "ChatGPT kann keine maßgeschneiderten Lösungen für spezifische Unternehmenssituationen bieten. Es ist ratsam, die Informationen kritisch zu hinterfragen und mit Fachleuten zu konsultieren.",
-      "Generalisierung": "Keine maßgeschneiderten Lösungen für spezifische Unternehmenssituationen, kritisches Hinterfragen und Konsultation von Fachleuten sind ratsam.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "24",
+        "Nummer":  "7",
+        "Textausschnitt":  "ChatGPT kann keine maßgeschneiderten Lösungen für spezifische Unternehmenssituationen bieten, daher ist es ratsam, die bereitgestellten Informationen kritisch zu hinterfragen und gegebenenfalls mit internen oder externen Fachleuten zu konsultieren.",
+        "Paraphrase":  "ChatGPT kann keine maßgeschneiderten Lösungen für spezifische Unternehmenssituationen bieten. Es ist ratsam, die Informationen kritisch zu hinterfragen und mit Fachleuten zu konsultieren.",
+        "Generalisierung":  "Keine maßgeschneiderten Lösungen für spezifische Unternehmenssituationen, kritisches Hinterfragen und Konsultation von Fachleuten sind ratsam.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     },
     {
-      "ID": "24",
-      "Nummer": "8",
-      "Textausschnitt": "Trotz dieser Einschränkungen war die Zusammenarbeit mit der KI effizient und zeitsparend.",
-      "Paraphrase": "Trotz dieser Einschränkungen war die Zusammenarbeit mit ChatGPT effizient und zeitsparend.",
-      "Generalisierung": "Effiziente und zeitsparende Zusammenarbeit mit ChatGPT trotz Einschränkungen.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "24",
+        "Nummer":  "8",
+        "Textausschnitt":  "Trotz dieser Einschränkungen war die Zusammenarbeit mit der KI effizient und zeitsparend.",
+        "Paraphrase":  "Trotz dieser Einschränkungen war die Zusammenarbeit mit ChatGPT effizient und zeitsparend.",
+        "Generalisierung":  "Effiziente und zeitsparende Zusammenarbeit mit ChatGPT trotz Einschränkungen.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "24",
-      "Nummer": "9",
-      "Textausschnitt": "ChatGPT hat mir geholfen, mein Wissen zu erweitern und neue Perspektiven aufzuzeigen.",
-      "Paraphrase": "ChatGPT hat mir geholfen, mein Wissen zu erweitern und neue Perspektiven zu finden.",
-      "Generalisierung": "Wissenserweiterung und neue Perspektiven durch ChatGPT.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "24",
+        "Nummer":  "9",
+        "Textausschnitt":  "ChatGPT hat mir geholfen, mein Wissen zu erweitern und neue Perspektiven aufzuzeigen.",
+        "Paraphrase":  "ChatGPT hat mir geholfen, mein Wissen zu erweitern und neue Perspektiven zu finden.",
+        "Generalisierung":  "Wissenserweiterung und neue Perspektiven durch ChatGPT.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "24",
-      "Nummer": "10",
-      "Textausschnitt": "Die Antworten waren klar und präzise, was mir dabei geholfen hat, meine Gedanken zu strukturieren und meine Arbeit voranzutreiben.",
-      "Paraphrase": "Die klaren und präzisen Antworten halfen mir, meine Gedanken zu strukturieren und meine Arbeit voranzutreiben.",
-      "Generalisierung": "Klare und präzise Antworten helfen bei der Strukturierung von Gedanken und der Arbeit.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "24",
+        "Nummer":  "10",
+        "Textausschnitt":  "Die Antworten waren klar und präzise, was mir dabei geholfen hat, meine Gedanken zu strukturieren und meine Arbeit voranzutreiben.",
+        "Paraphrase":  "Die klaren und präzisen Antworten halfen mir, meine Gedanken zu strukturieren und meine Arbeit voranzutreiben.",
+        "Generalisierung":  "Klare und präzise Antworten helfen bei der Strukturierung von Gedanken und der Arbeit.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "24",
-      "Nummer": "11",
-      "Textausschnitt": "Insgesamt ist der AI-Assistent ein nützliches Werkzeug, um Informationen schnell abzurufen und grundlegende Fragen zu beantworten.",
-      "Paraphrase": "Insgesamt ist ChatGPT ein nützliches Werkzeug, um Informationen schnell abzurufen und grundlegende Fragen zu beantworten.",
-      "Generalisierung": "Nützliches Werkzeug zum schnellen Abrufen von Informationen und Beantworten grundlegender Fragen.",
-      "Kategorie": "Unterstützungsbereiche",
-      "Subkategorie": ""
+        "ID":  "24",
+        "Nummer":  "11",
+        "Textausschnitt":  "Insgesamt ist der AI-Assistent ein nützliches Werkzeug, um Informationen schnell abzurufen und grundlegende Fragen zu beantworten.",
+        "Paraphrase":  "Insgesamt ist ChatGPT ein nützliches Werkzeug, um Informationen schnell abzurufen und grundlegende Fragen zu beantworten.",
+        "Generalisierung":  "Nützliches Werkzeug zum schnellen Abrufen von Informationen und Beantworten grundlegender Fragen.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  ""
     },
     {
-      "ID": "24",
-      "Nummer": "12",
-      "Textausschnitt": "Es ist jedoch wichtig, seine Grenzen zu erkennen und die bereitgestellten Informationen kritisch zu bewerten, um sicherzustellen, dass sie für den spezifischen Kontext und die Anforderungen meiner Arbeit geeignet sind.",
-      "Paraphrase": "Es ist wichtig, die Grenzen von ChatGPT zu erkennen und die Informationen kritisch zu bewerten, um sicherzustellen, dass sie für den spezifischen Kontext und die Anforderungen der Arbeit geeignet sind.",
-      "Generalisierung": "Wichtig, die Grenzen von ChatGPT zu erkennen und Informationen kritisch zu bewerten, um die Eignung für den spezifischen Kontext und die Anforderungen zu gewährleisten.",
-      "Kategorie": "Herausforderungen",
-      "Subkategorie": ""
+        "ID":  "24",
+        "Nummer":  "12",
+        "Textausschnitt":  "Es ist jedoch wichtig, seine Grenzen zu erkennen und die bereitgestellten Informationen kritisch zu bewerten, um sicherzustellen, dass sie für den spezifischen Kontext und die Anforderungen meiner Arbeit geeignet sind.",
+        "Paraphrase":  "Es ist wichtig, die Grenzen von ChatGPT zu erkennen und die Informationen kritisch zu bewerten, um sicherzustellen, dass sie für den spezifischen Kontext und die Anforderungen der Arbeit geeignet sind.",
+        "Generalisierung":  "Wichtig, die Grenzen von ChatGPT zu erkennen und Informationen kritisch zu bewerten, um die Eignung für den spezifischen Kontext und die Anforderungen zu gewährleisten.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  ""
     }
-  ]
-  
+]
