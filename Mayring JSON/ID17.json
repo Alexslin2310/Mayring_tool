@@ -1,0 +1,156 @@
+﻿[
+    {
+      "ID": "17",
+      "Nummer": "1",
+      "Textausschnitt": "Die Anwendung von ChatGPT war insgesamt recht einfach. Die Benutzeroberfläche ist intuitiv gestaltet und die Interaktion erfolgt problemlos durch das Eingeben von Text.",
+      "Paraphrase": "Die Anwendung von ChatGPT war einfach und die Benutzeroberfläche intuitiv.",
+      "Generalisierung": "Einfache Anwendung und intuitive Benutzeroberfläche von ChatGPT.",
+      "Kategorie": "Benutzerfreundlichkeit",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "17",
+      "Nummer": "2",
+      "Textausschnitt": "Es erforderte keine komplexen technischen Kenntnisse oder Installationen, was den Zugang erleichterte.",
+      "Paraphrase": "Es waren keine komplexen technischen Kenntnisse oder Installationen erforderlich, was den Zugang erleichterte.",
+      "Generalisierung": "Keine komplexen technischen Kenntnisse oder Installationen erforderlich für den Zugang.",
+      "Kategorie": "Benutzerfreundlichkeit",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "17",
+      "Nummer": "3",
+      "Textausschnitt": "Bei allgemeinen Fragen reichen oft kurze und prägnante Eingaben aus.",
+      "Paraphrase": "Für allgemeine Fragen reichen oft kurze und prägnante Eingaben aus.",
+      "Generalisierung": "Kurze und prägnante Eingaben reichen für allgemeine Fragen aus.",
+      "Kategorie": "Eingabedetaillierung",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "17",
+      "Nummer": "4",
+      "Textausschnitt": "Bei komplexeren Fragen oder spezifischen Informationen musste ich jedoch manchmal detaillierte Angaben machen, um genaue Antworten zu erhalten.",
+      "Paraphrase": "Für komplexere Fragen oder spezifische Informationen musste ich manchmal detaillierte Angaben machen, um genaue Antworten zu erhalten.",
+      "Generalisierung": "Detaillierte Angaben notwendig für genaue Antworten bei komplexeren Fragen.",
+      "Kategorie": "Eingabedetaillierung",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "17",
+      "Nummer": "5",
+      "Textausschnitt": "Bei komplexeren Fragen oder spezifischen Informationen musste ich jedoch manchmal detaillierte Angaben machen, um genaue Antworten zu erhalten.",
+      "Paraphrase": "Für komplexere Fragen oder spezifische Informationen musste ich manchmal detaillierte Angaben machen, um genaue Antworten zu erhalten.",
+      "Generalisierung": "Detaillierte Angaben notwendig für genaue Antworten bei komplexeren Fragen.",
+      "Kategorie": "Eingabedetaillierung",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "17",
+      "Nummer": "6",
+      "Textausschnitt": "Es war manchmal schwierig, die richtigen Begriffe oder den Kontext klar zu definieren, was zu ungenauen oder nicht relevanten Antworten führte. In solchen Fällen musste ich meine Fragen neu formulieren oder spezifischere Details angeben, um bessere Ergebnisse zu erzielen.",
+      "Paraphrase": "Es war manchmal schwierig, die richtigen Begriffe oder den Kontext klar zu definieren, was zu ungenauen Antworten führte. In solchen Fällen musste ich meine Fragen neu formulieren oder spezifischere Details angeben.",
+      "Generalisierung": "Schwierigkeit bei der klaren Definition von Begriffen oder Kontext führte zu ungenauen Antworten, was neue Formulierungen erforderte.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "17",
+      "Nummer": "7",
+      "Textausschnitt": "ChatGPT hat mir besonders geholfen, wenn es um das Verständnis komplexerer Konzepte geht. Es konnte zusätzliche Informationen und Erklärungen liefern, die mir geholfen haben, schwierige Themen besser zu erfassen.",
+      "Paraphrase": "ChatGPT half mir besonders beim Verständnis komplexer Konzepte, indem es zusätzliche Informationen und Erklärungen lieferte.",
+      "Generalisierung": "Hilfreich beim Verständnis komplexer Konzepte durch zusätzliche Informationen und Erklärungen.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "17",
+      "Nummer": "8",
+      "Textausschnitt": "Es hat mir auch bei der Suche nach Antworten nach schnellen auf spezifischen Fragen geholfen, indem es relevante Informationen präsentiert hat.",
+      "Paraphrase": "ChatGPT half mir auch bei der Suche nach schnellen Antworten auf spezifische Fragen, indem es relevante Informationen präsentierte.",
+      "Generalisierung": "Hilfe bei der schnellen Suche nach Antworten auf spezifische Fragen durch relevante Informationen.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "17",
+      "Nummer": "9",
+      "Textausschnitt": "ChatGPT kann bei einer Hausarbeit durchaus nützlich sein. Es kann dabei helfen, zusätzliche Informationen und Perspektiven zu einem Thema zu erhalten und somit die Recherche zu unterstützen.",
+      "Paraphrase": "ChatGPT kann bei Hausarbeiten nützlich sein, indem es zusätzliche Informationen und Perspektiven bietet und die Recherche unterstützt.",
+      "Generalisierung": "Nützlichkeit von ChatGPT bei Hausarbeiten durch Unterstützung bei Informationen und Perspektiven.",
+      "Kategorie": "Nützlichkeit für akademische Arbeiten",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "17",
+      "Nummer": "10",
+      "Textausschnitt": "Es ist jedoch wichtig zu beachten, dass ChatGPT als unterstützendes Tool betrachtet werden sollte und nicht als alleinige Quelle.",
+      "Paraphrase": "ChatGPT sollte als unterstützendes Tool betrachtet werden, nicht als alleinige Quelle.",
+      "Generalisierung": "ChatGPT als unterstützendes Tool, nicht als alleinige Quelle nutzen.",
+      "Kategorie": "Nützlichkeit für akademische Arbeiten",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "17",
+      "Nummer": "11",
+      "Textausschnitt": "Eine kritische Überprüfung der Informationen und die Integration in die eigene Arbeit sind weiterhin erforderlich.",
+      "Paraphrase": "Eine kritische Überprüfung der Informationen und Integration in die eigene Arbeit sind weiterhin notwendig.",
+      "Generalisierung": "Notwendigkeit der kritischen Überprüfung und Integration der Informationen in die eigene Arbeit.",
+      "Kategorie": "Nützlichkeit für akademische Arbeiten",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "17",
+      "Nummer": "12",
+      "Textausschnitt": "Grundsätzlich könnte der Einsatz von ChatGPT erlaubt sein, jedoch sollten klare Richtlinien und Anweisungen festgelegt werden.",
+      "Paraphrase": "Der Einsatz von ChatGPT könnte erlaubt sein, aber es sollten klare Richtlinien und Anweisungen festgelegt werden.",
+      "Generalisierung": "Erlaubnis des Einsatzes von ChatGPT mit klaren Richtlinien und Anweisungen.",
+      "Kategorie": "Einsatz in der Lehre",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "17",
+      "Nummer": "13",
+      "Textausschnitt": "Studierende sollten darin unterstützt werden, ihre eigenen analytischen und kritischen Denkfähigkeiten zu entwickeln und eigenständig zu recherchieren.",
+      "Paraphrase": "Studierende sollten unterstützt werden, ihre eigenen analytischen und kritischen Denkfähigkeiten zu entwickeln und eigenständig zu recherchieren.",
+      "Generalisierung": "Unterstützung der Studierenden bei der Entwicklung analytischer und kritischer Denkfähigkeiten und eigenständiger Recherche.",
+      "Kategorie": "Einsatz in der Lehre",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "17",
+      "Nummer": "14",
+      "Textausschnitt": "ChatGPT sollte als Hilfsmittel dienen, um Lernen und Verständnis zu fördern, anstatt als Ersatz für eigenes Denken und Forschen betrachtet zu werden.",
+      "Paraphrase": "ChatGPT sollte als Hilfsmittel dienen, um Lernen und Verständnis zu fördern, nicht als Ersatz für eigenes Denken und Forschen.",
+      "Generalisierung": "ChatGPT als Hilfsmittel zur Förderung von Lernen und Verständnis, nicht als Ersatz für eigenes Denken und Forschen.",
+      "Kategorie": "Einsatz in der Lehre",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "17",
+      "Nummer": "15",
+      "Textausschnitt": "Die Nutzung von ChatGPT kann sich in verschiedenen Bereichen des Studiums als nützlich erweisen. Beispielsweise kann es beim Erstellen von Fragekatalogen helfen, verschiedene Aspekte eines Themas abzudecken.",
+      "Paraphrase": "Die Nutzung von ChatGPT kann in verschiedenen Studienbereichen nützlich sein, z. B. beim Erstellen von Fragekatalogen, um verschiedene Aspekte eines Themas abzudecken.",
+      "Generalisierung": "Nutzung von ChatGPT in verschiedenen Studienbereichen, z. B. beim Erstellen von Fragekatalogen.",
+      "Kategorie": "Nützlichkeit für akademische Arbeiten",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "17",
+      "Nummer": "16",
+      "Textausschnitt": "Es kann auch bei der Erstellung von Zusammenfassungen oder dem Finden von relevanten Forschungsartikeln und Quellen unterstützt werden.",
+      "Paraphrase": "ChatGPT kann bei der Erstellung von Zusammenfassungen und dem Finden von relevanten Forschungsartikeln und Quellen helfen.",
+      "Generalisierung": "Hilfe bei der Erstellung von Zusammenfassungen und dem Finden von Forschungsartikeln und Quellen durch ChatGPT.",
+      "Kategorie": "Nützlichkeit für akademische Arbeiten",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "17",
+      "Nummer": "17",
+      "Textausschnitt": "Darüber hinaus kann ChatGPT als Werkzeug dienen, um die Effizienz bei der Suche nach Informationen zu verbessern und komplexe Konzepte besser zu verstehen.",
+      "Paraphrase": "ChatGPT kann die Effizienz bei der Informationssuche verbessern und helfen, komplexe Konzepte besser zu verstehen.",
+      "Generalisierung": "Verbesserung der Effizienz bei der Informationssuche und Verständnis komplexer Konzepte durch ChatGPT.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    }
+  ]
+  

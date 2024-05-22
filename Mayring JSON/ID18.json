@@ -1,0 +1,120 @@
+﻿[
+    {
+      "ID": "18",
+      "Nummer": "1",
+      "Textausschnitt": "Dabei ist mir aufgefallen, dass die Qualität der Ergebnisse maßgeblich von der Qualität der Fragestellung abhängt. Allgemeine Fragen haben zu allgemeinen Antworten geführt.",
+      "Paraphrase": "Die Qualität der Ergebnisse hängt stark von der Qualität der Fragestellung ab. Allgemeine Fragen führen zu allgemeinen Antworten.",
+      "Generalisierung": "Qualität der Ergebnisse ist stark von der Qualität der Fragestellung abhängig.",
+      "Kategorie": "Eingabedetaillierung",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "18",
+      "Nummer": "2",
+      "Textausschnitt": "Allgemeine Fragen haben zu allgemeinen Antworten geführt. So hat bspw. die allgemeine Aufforderung an den Chat-Bot, die Unternehmensvorstellung der Firma zu erstellen, zu unzureichenden Ergebnissen geführt. Die relevanten Aspekte aus der Aufgabenstellung sind entweder nur im geringen Umfang oder gar nicht berücksichtigt worden.",
+      "Paraphrase": "Allgemeine Fragen führten zu allgemeinen und unzureichenden Antworten. Die relevanten Aspekte der Aufgabenstellung wurden nicht ausreichend berücksichtigt.",
+      "Generalisierung": "Allgemeine Fragen führen zu unzureichenden Antworten ohne Berücksichtigung relevanter Aspekte.",
+      "Kategorie": "Eingabedetaillierung",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "18",
+      "Nummer": "3",
+      "Textausschnitt": "Beim nächsten Versuch habe ich die relevanten Aspekte der Aufgabenstellung in die Aufforderung an den Chat-Bot integriert. Dadurch hat sich die Qualität der Ergebnisse maßgeblich verbessert.",
+      "Paraphrase": "Durch Integration der relevanten Aspekte in die Fragen hat sich die Qualität der Antworten deutlich verbessert.",
+      "Generalisierung": "Integration relevanter Aspekte in Fragen verbessert die Qualität der Antworten.",
+      "Kategorie": "Eingabedetaillierung",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "18",
+      "Nummer": "4",
+      "Textausschnitt": "Dennoch waren einige Informationen innerhalb der Antwort inkorrekt. Bei der Unternehmensvorstellung durch ChatGPT wurde Name als der Geschäftsführer der Firma angegeben. Seit 2020 ist anderer Name ihr Geschäftsführer. Den faktischen Aussagen von ChatGPT kann demnach nicht bedingungslos vertraut werden.",
+      "Paraphrase": "Einige Informationen waren inkorrekt. ChatGPT gab falsche Informationen über den Geschäftsführer. Den Aussagen von ChatGPT kann nicht bedingungslos vertraut werden.",
+      "Generalisierung": "Inkorrekte Informationen von ChatGPT und bedingungsloses Vertrauen ist nicht möglich.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "18",
+      "Nummer": "5",
+      "Textausschnitt": "Im nächsten Versuch habe ich ChatGPT alle notwendigen Informationen, die ich als Teil meiner Antwort einbinden wollte, in Stichpunkten zur Verfügung gestellt und ausformulieren lassen. Mit diesem Ansatz hatte ich die größten Erfolge, sodass dies schließlich mein Vorgehen zur Bearbeitung der anderen Aufgaben wurde.",
+      "Paraphrase": "Ich stellte ChatGPT alle notwendigen Informationen in Stichpunkten zur Verfügung und ließ sie ausformulieren. Mit diesem Ansatz hatte ich die größten Erfolge.",
+      "Generalisierung": "Bereitstellung notwendiger Informationen in Stichpunkten und Ausformulieren durch ChatGPT führte zu den größten Erfolgen.",
+      "Kategorie": "Eingabedetaillierung",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "18",
+      "Nummer": "6",
+      "Textausschnitt": "Wie bereits eingangs gesagt, eignet sich ChatGPT ideal für allgemeine Fragestellungen.",
+      "Paraphrase": "ChatGPT eignet sich ideal für allgemeine Fragestellungen.",
+      "Generalisierung": "Ideale Eignung von ChatGPT für allgemeine Fragestellungen.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "18",
+      "Nummer": "7",
+      "Textausschnitt": "Im weiteren Verlauf der Arbeit hatte ich jedoch große Probleme bei der Arbeit mit ChatGPT. Da der Anwendungsbezug der Aufgabenstellungen immer stärker zunahm, wurde die Arbeit immer aufwendiger.",
+      "Paraphrase": "Ich hatte große Probleme mit ChatGPT, da die Aufgabenstellungen immer stärker auf Anwendungsbezug abzielten und die Arbeit aufwendiger wurde.",
+      "Generalisierung": "Große Probleme bei ChatGPT mit zunehmendem Anwendungsbezug und steigendem Arbeitsaufwand.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "18",
+      "Nummer": "8",
+      "Textausschnitt": "Ich habe den Chat-Bot weiterhin nur Texte ausformulieren lassen, allerdings haben diese Ausformulierungen auch nicht meinen Ansprüchen genügt. Sie waren entweder sehr komplex formuliert oder die Aussagen meiner Stichpunkte wurden nicht konkret genug übernommen.",
+      "Paraphrase": "Die von ChatGPT ausformulierten Texte genügten meinen Ansprüchen nicht. Sie waren entweder zu komplex oder die Aussagen meiner Stichpunkte wurden nicht konkret genug übernommen.",
+      "Generalisierung": "Ausformulierungen von ChatGPT genügten den Ansprüchen nicht, da sie zu komplex oder nicht konkret genug waren.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "18",
+      "Nummer": "9",
+      "Textausschnitt": "Zwar war es in diesem Zusammenhang hilfreich, dass ChatGPT die Ausfertigung anhand von Kommentaren mehrmals überarbeitet, allerdings hat sich die Qualität dadurch nicht immer verbessert.",
+      "Paraphrase": "Es war hilfreich, dass ChatGPT die Ausfertigungen anhand von Kommentaren mehrmals überarbeitet, aber die Qualität hat sich dadurch nicht immer verbessert.",
+      "Generalisierung": "Überarbeitungen durch ChatGPT anhand von Kommentaren verbessern nicht immer die Qualität.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "18",
+      "Nummer": "10",
+      "Textausschnitt": "Die Arbeit mit ChatGPT eignet sich meiner Meinung nach sehr gut für allgemeine Fragestellungen ohne konkreten Anwendungsbezug.",
+      "Paraphrase": "Die Arbeit mit ChatGPT eignet sich gut für allgemeine Fragestellungen ohne konkreten Anwendungsbezug.",
+      "Generalisierung": "Geeignet für allgemeine Fragestellungen ohne konkreten Anwendungsbezug.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "18",
+      "Nummer": "11",
+      "Textausschnitt": "Das Wissen des Chat-Bots ist in sehr spezialisierten Themengebieten aufgrund fehlender Informationen des Programms entweder nicht verfügbar, zu allgemein oder faktisch inkorrekt. Besonders die Vermittlung von falschem Wissen sehe ich hierbei als Gefahr.",
+      "Paraphrase": "Das Wissen von ChatGPT ist in spezialisierten Themengebieten oft nicht verfügbar, zu allgemein oder faktisch inkorrekt. Die Vermittlung von falschem Wissen ist eine Gefahr.",
+      "Generalisierung": "In spezialisierten Themengebieten ist das Wissen von ChatGPT oft nicht verfügbar, zu allgemein oder inkorrekt, was eine Gefahr darstellt.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "18",
+      "Nummer": "12",
+      "Textausschnitt": "Insgesamt ist ChatGPT für mich somit eine bessere Suchmaschine.",
+      "Paraphrase": "Insgesamt ist ChatGPT für mich eine bessere Suchmaschine.",
+      "Generalisierung": "ChatGPT ist eine bessere Suchmaschine.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "18",
+      "Nummer": "13",
+      "Textausschnitt": "Allerdings war ich selbst vielleicht auch nicht in der Lage das Programm richtig für meine Zwecke zu verwenden. In diesem Fall sollte für zukünftige Einsätze von ChatGPT eine Kompetenzschulung stattfinden, um das Programm richtig für die eigenen Zwecke einsetzen zu können.",
+      "Paraphrase": "Vielleicht konnte ich das Programm nicht richtig nutzen. Es sollte eine Schulung geben, um ChatGPT richtig für eigene Zwecke einsetzen zu können.",
+      "Generalisierung": "Schulung notwendig, um ChatGPT richtig für eigene Zwecke einsetzen zu können.",
+      "Kategorie": "Einsatz in der Lehre",
+      "Subkategorie": ""
+    }
+  ]
+  

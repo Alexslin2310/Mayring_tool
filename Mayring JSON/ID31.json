@@ -1,0 +1,138 @@
+﻿[
+    {
+      "ID": "31",
+      "Nummer": "1",
+      "Textausschnitt": "Die Anwendung des Chatbot war sehr einfach. Mit zunehmender Vertrautheit wurde die Anwendung intuitiver und die Ergebnisse konkret nutzbarer.",
+      "Paraphrase": "Die Anwendung des Chatbots war einfach und wurde mit zunehmender Vertrautheit intuitiver und nützlicher.",
+      "Generalisierung": "Einfache und zunehmend intuitive Anwendung des Chatbots.",
+      "Kategorie": "Benutzerfreundlichkeit",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "31",
+      "Nummer": "2",
+      "Textausschnitt": "Die Eingaben mussten sehr detailliert sein. Es musste nicht nur die Aufgabe eingegeben werden, sondern auch der Kontext, die gewünschte Form der Ausgabe und Teile des Inhalts, welchen erwartet wird, in den Prompt geschrieben werden.",
+      "Paraphrase": "Die Eingaben mussten sehr detailliert sein, einschließlich der Aufgabe, des Kontexts, der gewünschten Form der Ausgabe und erwarteter Inhaltsdetails.",
+      "Generalisierung": "Sehr detaillierte Eingaben erforderlich, einschließlich Aufgabe, Kontext, gewünschter Form der Ausgabe und Inhaltsdetails.",
+      "Kategorie": "Eingabedetaillierung",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "31",
+      "Nummer": "3",
+      "Textausschnitt": "Am Anfang der Arbeit musste ich verstehen, dass ChatGPT nicht fehlerfrei ist. Die Ausgaben müssen sorgfältig geprüft werden.",
+      "Paraphrase": "Zu Beginn musste ich verstehen, dass ChatGPT nicht fehlerfrei ist und die Ausgaben sorgfältig geprüft werden müssen.",
+      "Generalisierung": "Verständnis, dass ChatGPT nicht fehlerfrei ist, und sorgfältige Prüfung der Ausgaben erforderlich.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "31",
+      "Nummer": "4",
+      "Textausschnitt": "Es ist nicht nur zu inhaltlichen Fehlern, sondern wiederholte Male auch zu grammatikalischen Fehlern gekommen.",
+      "Paraphrase": "Es kam zu inhaltlichen und wiederholt auch zu grammatikalischen Fehlern.",
+      "Generalisierung": "Inhaltliche und grammatikalische Fehler traten auf.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "31",
+      "Nummer": "5",
+      "Textausschnitt": "Die Form der Ausgabe muss teilweise überarbeitet werden, um diese in einem Wissenschaftlichen Kontext zu Veröffentlichen.",
+      "Paraphrase": "Die Ausgabe muss teilweise überarbeitet werden, um sie in einem wissenschaftlichen Kontext zu veröffentlichen.",
+      "Generalisierung": "Teilweise Überarbeitung der Ausgabe für wissenschaftlichen Kontext erforderlich.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "31",
+      "Nummer": "6",
+      "Textausschnitt": "Nach einer kurzen Einarbeitungsphase hatte ich keine Probleme.",
+      "Paraphrase": "Nach einer kurzen Einarbeitungsphase hatte ich keine Probleme.",
+      "Generalisierung": "Keine Probleme nach kurzer Einarbeitungsphase.",
+      "Kategorie": "Benutzerfreundlichkeit",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "31",
+      "Nummer": "7",
+      "Textausschnitt": "ChatGPT hat mir am meisten dabei geholfen Ideen in ausformulierte Texte zu transformieren. ChatGPT war in diesem Fall ein begleitender Prosaist.",
+      "Paraphrase": "ChatGPT half mir, Ideen in ausformulierte Texte zu transformieren und war dabei ein begleitender Prosaist.",
+      "Generalisierung": "Hilft bei der Transformation von Ideen in ausformulierte Texte.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "31",
+      "Nummer": "8",
+      "Textausschnitt": "Dies war zeitlich eine enorme Erleichterung und hat dabei geholfen mich inhaltlich auf das Thema zu konzentrieren.",
+      "Paraphrase": "Dies war eine enorme zeitliche Erleichterung und half mir, mich inhaltlich auf das Thema zu konzentrieren.",
+      "Generalisierung": "Enorme zeitliche Erleichterung und inhaltliche Konzentration auf das Thema.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "31",
+      "Nummer": "9",
+      "Textausschnitt": "Die Zeitersparnis ist enorm. Man kann sich auf das wesentliche (den Inhalt) konzentrieren.",
+      "Paraphrase": "Die Zeitersparnis ist enorm, sodass man sich auf den Inhalt konzentrieren kann.",
+      "Generalisierung": "Enorme Zeitersparnis ermöglicht Konzentration auf den Inhalt.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "31",
+      "Nummer": "10",
+      "Textausschnitt": "Es tritt kein Leeres-Blatt-Syndrom auf da man in kürzester Zeit einen generierten Text hat und diesen als Ausgangbasis nutzen kann.",
+      "Paraphrase": "Kein Leeres-Blatt-Syndrom, da man in kürzester Zeit einen generierten Text hat, den man als Ausgangsbasis nutzen kann.",
+      "Generalisierung": "Kein Leeres-Blatt-Syndrom dank schneller Textgenerierung als Ausgangsbasis.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "31",
+      "Nummer": "11",
+      "Textausschnitt": "Lehrende sollten den Einsatz von ChatGPT erlauben.",
+      "Paraphrase": "Lehrende sollten den Einsatz von ChatGPT erlauben.",
+      "Generalisierung": "Einsatz von ChatGPT sollte erlaubt werden.",
+      "Kategorie": "Einsatz in der Lehre",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "31",
+      "Nummer": "12",
+      "Textausschnitt": "Dies kann dazu beitragen, dass der Inhalt von Arbeiten in den Vordergrund rückt. Dadurch wird weniger Zeit in die Ausformulierung investiert und die Arbeitszeit kann in die Erschließung eines Themas investiert werden.",
+      "Paraphrase": "Dies kann dazu beitragen, dass der Inhalt von Arbeiten in den Vordergrund rückt, weniger Zeit in die Ausformulierung investiert und mehr in die Erschließung eines Themas.",
+      "Generalisierung": "Inhalt von Arbeiten rückt in den Vordergrund, weniger Zeit in Ausformulierung und mehr in Erschließung eines Themas investiert.",
+      "Kategorie": "Einsatz in der Lehre",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "31",
+      "Nummer": "13",
+      "Textausschnitt": "Des Weiteren können Personen mit Lese-Rechtschreibstörung wissenschaftliche Arbeiten leichter erstellen.",
+      "Paraphrase": "Personen mit Lese-Rechtschreibstörung können wissenschaftliche Arbeiten leichter erstellen.",
+      "Generalisierung": "Erleichterung der Erstellung wissenschaftlicher Arbeiten für Personen mit Lese-Rechtschreibstörung.",
+      "Kategorie": "Einsatz in der Lehre",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "31",
+      "Nummer": "14",
+      "Textausschnitt": "Softwarebausteine können von nicht ausgebildeten Programmierern erstellt werden.",
+      "Paraphrase": "Softwarebausteine können von nicht ausgebildeten Programmierern erstellt werden.",
+      "Generalisierung": "Erstellung von Softwarebausteinen durch nicht ausgebildete Programmierer möglich.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "31",
+      "Nummer": "15",
+      "Textausschnitt": "Die Chancen die von generativen Sprachmodellen ausgehen müssen daher auch in der Lehre genutzt werden. Lehrende sollten den Inhalt bewerten und weniger Zeit darauf verschwenden die sprachliche Richtigkeit zu bewerten.",
+      "Paraphrase": "Die Chancen von generativen Sprachmodellen sollten in der Lehre genutzt werden. Lehrende sollten den Inhalt bewerten und weniger Zeit auf die sprachliche Richtigkeit verwenden.",
+      "Generalisierung": "Chancen von generativen Sprachmodellen sollten in der Lehre genutzt werden, Lehrende sollten den Inhalt bewerten.",
+      "Kategorie": "Einsatz in der Lehre",
+      "Subkategorie": ""
+    }
+  ]
+  

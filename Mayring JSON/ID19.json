@@ -1,0 +1,156 @@
+﻿[
+    {
+      "ID": "19",
+      "Nummer": "1",
+      "Textausschnitt": "Die Anwendung von ChatGPT ist meiner Meinung nach ziemlich simpel und wenig kompliziert.",
+      "Paraphrase": "Die Anwendung von ChatGPT ist einfach und unkompliziert.",
+      "Generalisierung": "Einfache und unkomplizierte Anwendung von ChatGPT.",
+      "Kategorie": "Benutzerfreundlichkeit",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "19",
+      "Nummer": "2",
+      "Textausschnitt": "Selbst wenn eine Frage nicht optimal gestellt wurde, fragt ChatGPT nach, was gemeint ist oder beantwortet die Frage nach bestem Wissen.",
+      "Paraphrase": "Auch bei nicht optimalen Fragen fragt ChatGPT nach oder beantwortet sie nach bestem Wissen.",
+      "Generalisierung": "ChatGPT fragt nach oder beantwortet nicht optimal gestellte Fragen nach bestem Wissen.",
+      "Kategorie": "Benutzerfreundlichkeit",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "19",
+      "Nummer": "3",
+      "Textausschnitt": "Die Eingaben mussten für die Hausarbeit so gestellt werden, dass ein Fließtext formuliert wird. Ich hatte einige Male den Fall, dass als Antwort kein Fließtext herauskam und ich die Frage noch detaillierter stellen musste bzw. in den Chat-Verlauf geschrieben habe, dass ein Fließtext formuliert werden soll.",
+      "Paraphrase": "Für die Hausarbeit mussten die Eingaben so gestellt werden, dass ein Fließtext herauskommt. Manchmal musste ich die Frage detaillierter stellen oder angeben, dass ein Fließtext formuliert werden soll.",
+      "Generalisierung": "Eingaben müssen detailliert gestellt werden, um Fließtext zu erhalten.",
+      "Kategorie": "Eingabedetaillierung",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "19",
+      "Nummer": "4",
+      "Textausschnitt": "Beim Thema Satzbau und Wiederholung von Satzanfängen hat ChatGPT noch Optimierungsbedarf. Einige Inhalte werden mindestens einmal genannt und nur etwas umgeschrieben.",
+      "Paraphrase": "ChatGPT hat Optimierungsbedarf beim Satzbau und der Wiederholung von Satzanfängen. Einige Inhalte werden mehrfach genannt und nur etwas umgeschrieben.",
+      "Generalisierung": "Optimierungsbedarf bei Satzbau und Wiederholung von Satzanfängen.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "19",
+      "Nummer": "5",
+      "Textausschnitt": "Auch hätte ich an einigen Stellen andere Satzanfänge ausgewählt und diese deshalb auch verändert.",
+      "Paraphrase": "Ich hätte an einigen Stellen andere Satzanfänge gewählt und sie deshalb verändert.",
+      "Generalisierung": "Änderung der Satzanfänge nach persönlichen Vorlieben.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "19",
+      "Nummer": "6",
+      "Textausschnitt": "Probleme gab es bei sich wiederholenden inhaltlichen Antworten. So kam ChatGPT bei einigen Fragen nicht auf den Punkt, erzeugte unterschiedliche Sätze mit sich wiederholendem Inhalt.",
+      "Paraphrase": "Es gab Probleme mit sich wiederholenden inhaltlichen Antworten. ChatGPT kam bei einigen Fragen nicht auf den Punkt und erzeugte unterschiedliche Sätze mit sich wiederholendem Inhalt.",
+      "Generalisierung": "Probleme mit sich wiederholenden inhaltlichen Antworten und nicht auf den Punkt kommende Antworten.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "19",
+      "Nummer": "7",
+      "Textausschnitt": "An der Stelle musste ich nacharbeiten und teilweise Sätze herauslöschen. Dies war dann dementsprechend aufwändig und hat den Arbeitsfluss gestört.",
+      "Paraphrase": "Ich musste nacharbeiten und Sätze herauslöschen, was aufwändig war und den Arbeitsfluss störte.",
+      "Generalisierung": "Nacharbeiten und Herauslöschen von Sätzen störten den Arbeitsfluss.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "19",
+      "Nummer": "8",
+      "Textausschnitt": "Wenn man selbst nicht die Anforderung hat, 100% der Leistung zu erzielen, sondern nur knapp 80% (Stichwort Pareto Prinzip: 80% Ergebnis mit 20% Arbeit, und für die letzten 20% nochmal 80% Arbeit) erreichen möchte, ist ChatGPT eine sehr gute Möglichkeit, gerade zu fiktiven Beispielen eine Hausarbeit zu schreiben.",
+      "Paraphrase": "Wenn man nur 80% der Leistung erzielen möchte, ist ChatGPT eine gute Möglichkeit, gerade für fiktive Beispiele eine Hausarbeit zu schreiben.",
+      "Generalisierung": "ChatGPT ist gut für das Erreichen von 80% der Leistung bei fiktiven Beispielen in Hausarbeiten.",
+      "Kategorie": "Nützlichkeit für akademische Arbeiten",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "19",
+      "Nummer": "9",
+      "Textausschnitt": "Der Aufwand, die Daten über ein echtes Unternehmen zu prüfen, erschien mir als viel aufwändiger, als ein fiktives Unternehmen auszuwählen. Somit ist der Einsatz von ChatGPT zur theoretischen Darstellung von Themen gut geeignet, solange man diese auch noch einmal hinterfragt.",
+      "Paraphrase": "Es schien aufwändiger, Daten über ein echtes Unternehmen zu prüfen, als ein fiktives Unternehmen zu wählen. ChatGPT eignet sich gut zur theoretischen Darstellung von Themen, solange man diese hinterfragt.",
+      "Generalisierung": "Eignung von ChatGPT zur theoretischen Darstellung von Themen bei fiktiven Unternehmen.",
+      "Kategorie": "Nützlichkeit für akademische Arbeiten",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "19",
+      "Nummer": "10",
+      "Textausschnitt": "Um praktische Bezüge ziehen und feststellen zu können, muss im Nachgang noch kritisch überprüft werden, ob beispielsweise eine Theorie richtig auf ein Praxisbeispiel angewandt wurde.",
+      "Paraphrase": "Um praktische Bezüge zu ziehen, muss kritisch überprüft werden, ob eine Theorie richtig auf ein Praxisbeispiel angewandt wurde.",
+      "Generalisierung": "Kritische Überprüfung notwendig, um praktische Bezüge zu ziehen.",
+      "Kategorie": "Nützlichkeit für akademische Arbeiten",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "19",
+      "Nummer": "11",
+      "Textausschnitt": "Lehrende der Hochschule sollten den Einsatz von ChatGPT meiner Meinung nach erlauben, jedoch dringend dazu raten, die erzeugten Texte zu hinterfragen und auch durchzulesen.",
+      "Paraphrase": "Lehrende sollten den Einsatz von ChatGPT erlauben, aber dazu raten, die erzeugten Texte zu hinterfragen und durchzulesen.",
+      "Generalisierung": "Einsatz von ChatGPT sollte erlaubt sein, aber erzeugte Texte sollten hinterfragt und durchgelesen werden.",
+      "Kategorie": "Einsatz in der Lehre",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "19",
+      "Nummer": "12",
+      "Textausschnitt": "Gerade bei Zusammenfassungen von Texten oder auch bei einer Ideensammlung zur Strukturierung einer Hausarbeit oder auch der Bachelorarbeit kann ChatGPT eine sehr große Hilfe darstellen und zu einem zeiteffizienteren Lern- und Arbeitsprozess beitragen.",
+      "Paraphrase": "Bei Zusammenfassungen oder Ideensammlungen zur Strukturierung einer Hausarbeit oder Bachelorarbeit kann ChatGPT eine große Hilfe sein und den Lern- und Arbeitsprozess effizienter machen.",
+      "Generalisierung": "ChatGPT kann bei Zusammenfassungen und Ideensammlungen zur Strukturierung einer Hausarbeit oder Bachelorarbeit helfen und den Lern- und Arbeitsprozess effizienter machen.",
+      "Kategorie": "Nützlichkeit für akademische Arbeiten",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "19",
+      "Nummer": "13",
+      "Textausschnitt": "Auch bei der Umformulierung von Sätzen oder dem Generieren von ansprechenden und abwechslungsreichen Sätzen bietet ChatGPT gute Chancen, auch hier den Arbeitsprozess deutlich zu beschleunigen.",
+      "Paraphrase": "Bei der Umformulierung von Sätzen oder dem Generieren von ansprechenden und abwechslungsreichen Sätzen kann ChatGPT den Arbeitsprozess beschleunigen.",
+      "Generalisierung": "ChatGPT kann den Arbeitsprozess bei der Umformulierung und Generierung von Sätzen beschleunigen.",
+      "Kategorie": "Nützlichkeit für akademische Arbeiten",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "19",
+      "Nummer": "14",
+      "Textausschnitt": "Wichtig ist jedoch, dass dafür die richtigen Informationen aus eigener Hand oder von ChatGPT kommen, also sichergestellt wird, dass die richtigen Informationen genannt werden. Somit stellt meiner Meinung nach das wissenschaftliche Arbeiten mit ChatGPT eher ein Problem dar.",
+      "Paraphrase": "Wichtig ist, dass die richtigen Informationen aus eigener Hand oder von ChatGPT kommen. Wissenschaftliches Arbeiten mit ChatGPT ist daher problematisch.",
+      "Generalisierung": "Wissenschaftliches Arbeiten mit ChatGPT ist problematisch wegen der Notwendigkeit der richtigen Informationen.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "19",
+      "Nummer": "15",
+      "Textausschnitt": "Es wird nicht deutlich, woher ChatGPT seine Informationen bekommt und gibt auch keinerlei Quellen an, obwohl sich die künstliche Intelligenz auf einen großen Datensatz bezieht und somit theoretisch auch Quellen nennen könnte.",
+      "Paraphrase": "Es ist nicht klar, woher ChatGPT seine Informationen bezieht, und es gibt keine Quellen an, obwohl es theoretisch könnte.",
+      "Generalisierung": "ChatGPT gibt keine Quellen an und es ist unklar, woher die Informationen stammen.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "19",
+      "Nummer": "16",
+      "Textausschnitt": "Auch dieser Aspekt bestärkt das Argument, dass der ChatBot in den meisten Fällen nur als Unterstützung angesehen werden kann, jedoch nicht die komplette Arbeit abnimmt und als allwissende KI eingesetzt werden kann.",
+      "Paraphrase": "Dieser Aspekt zeigt, dass ChatGPT nur als Unterstützung und nicht als allwissende KI angesehen werden kann, die die komplette Arbeit abnimmt.",
+      "Generalisierung": "ChatGPT kann nur als Unterstützung und nicht als allwissende KI angesehen werden.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "19",
+      "Nummer": "17",
+      "Textausschnitt": "Trotzdem ist es wichtig, dass der Mensch weiterhin die Kontrolle behalten sollte, wobei auch dieser Aspekt von verschiedenen Seiten gesehen werden kann.",
+      "Paraphrase": "Der Mensch sollte weiterhin die Kontrolle behalten, auch wenn dieser Aspekt unterschiedlich gesehen werden kann.",
+      "Generalisierung": "Der Mensch sollte die Kontrolle behalten, auch wenn es unterschiedliche Ansichten dazu gibt.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    }
+  ]
+  

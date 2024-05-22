@@ -1,0 +1,28 @@
+{
+    "Kategorien": [
+        "Benutzerfreundlichkeit",
+        "Eingabedetaillierung",
+        "Herausforderungen",
+        "Unterstützungsbereiche",
+        "Nützlichkeit für akademische Arbeiten",
+        "Einsatz in der Lehre",
+        "Sonstiges",
+        ""
+    ],
+    "Subkategorien": [
+        "Qualität und Genauigkeit der Antworten",
+        "Technische Probleme und Verfügbarkeit",
+        "Verlässlichkeit und Validität",
+        "Auswirkungen auf das Lernen und kognitive Prozesse",
+        "Sprachliche und stilistische Aspekte",
+        "Einschränkungen und Begrenzungen",
+        "Ethische Bedenken",
+        "x",
+        "Effizienz und Zeitersparnis",
+        "Verbesserung der Textqualität",
+        "Informationsbeschaffung und Recherche",
+        "Strukturierung und Organisation",
+        "Sonstiges",
+        ""
+    ]
+}

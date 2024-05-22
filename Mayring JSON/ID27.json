@@ -1,0 +1,201 @@
+﻿[
+    {
+      "ID": "27",
+      "Nummer": "1",
+      "Textausschnitt": "Für Benutzer ohne Vorkenntnisse im Bereich der maschinellen Sprachverarbeitung kann die Verwendung von ChatGPT als recht einfach angesehen werden.",
+      "Paraphrase": "Die Verwendung von ChatGPT ist für Benutzer ohne Vorkenntnisse im Bereich der maschinellen Sprachverarbeitung einfach.",
+      "Generalisierung": "Einfach zu verwenden für Benutzer ohne Vorkenntnisse im Bereich der maschinellen Sprachverarbeitung.",
+      "Kategorie": "Benutzerfreundlichkeit",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "27",
+      "Nummer": "2",
+      "Textausschnitt": "Die Oberfläche ist in der Regel benutzerfreundlich gestaltet, und die Interaktion erfolgt über natürliche Sprache, ähnlich wie bei einer Konversation mit einer realen Person. Es erfordert keine Programmierkenntnisse oder technische Fähigkeiten, um einfache Fragen zu stellen und Antworten zu erhalten.",
+      "Paraphrase": "Die benutzerfreundliche Oberfläche und Interaktion in natürlicher Sprache erfordern keine Programmierkenntnisse oder technischen Fähigkeiten.",
+      "Generalisierung": "Benutzerfreundliche Oberfläche und Interaktion in natürlicher Sprache, keine Programmierkenntnisse erforderlich.",
+      "Kategorie": "Benutzerfreundlichkeit",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "27",
+      "Nummer": "3",
+      "Textausschnitt": "Jedoch kann es auch komplexer sein, wenn es darum geht, bestimmte spezifische Aufgaben zu erfüllen oder komplexe Probleme zu lösen.",
+      "Paraphrase": "Die Verwendung kann komplexer sein, wenn spezifische Aufgaben erfüllt oder komplexe Probleme gelöst werden müssen.",
+      "Generalisierung": "Verwendung kann komplexer sein bei spezifischen Aufgaben oder komplexen Problemen.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "27",
+      "Nummer": "4",
+      "Textausschnitt": "ChatGPT ist ein textgenerierendes Modell und kann möglicherweise nicht immer die gewünschten Ergebnisse liefern oder spezifische Anforderungen erfüllen.",
+      "Paraphrase": "ChatGPT kann möglicherweise nicht immer die gewünschten Ergebnisse liefern oder spezifische Anforderungen erfüllen.",
+      "Generalisierung": "ChatGPT liefert möglicherweise nicht immer gewünschte Ergebnisse oder erfüllt spezifische Anforderungen.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "27",
+      "Nummer": "5",
+      "Textausschnitt": "Es kann Schwierigkeiten haben, technische oder domänenspezifische Fragen korrekt zu beantworten, da sein Wissen auf dem vor dem Trainingsdatum liegenden Wissensstand begrenzt ist (September 2021).",
+      "Paraphrase": "ChatGPT kann Schwierigkeiten haben, technische oder domänenspezifische Fragen korrekt zu beantworten, da sein Wissen bis September 2021 begrenzt ist.",
+      "Generalisierung": "Schwierigkeiten bei der Beantwortung technischer oder domänenspezifischer Fragen wegen begrenztem Wissen bis September 2021.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "27",
+      "Nummer": "6",
+      "Textausschnitt": "Um die Anwendung von ChatGPT zu verbessern und die gewünschten Ergebnisse zu erzielen, kann es erforderlich sein, die Fragen und Anfragen präziser zu formulieren, den Kontext klarer zu erklären oder alternative Ansätze zu verwenden, um spezifische Anforderungen zu erfüllen.",
+      "Paraphrase": "Für bessere Ergebnisse müssen die Fragen präziser formuliert, der Kontext klarer erklärt oder alternative Ansätze verwendet werden.",
+      "Generalisierung": "Präzisere Formulierung der Fragen, klarer Kontext und alternative Ansätze für bessere Ergebnisse erforderlich.",
+      "Kategorie": "Eingabedetaillierung",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "27",
+      "Nummer": "7",
+      "Textausschnitt": "Ich hatte keine Probleme mit der Anwendung von ChatGPT.",
+      "Paraphrase": "Ich hatte keine Probleme bei der Anwendung von ChatGPT.",
+      "Generalisierung": "Keine Probleme bei der Anwendung von ChatGPT.",
+      "Kategorie": "Benutzerfreundlichkeit",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "27",
+      "Nummer": "8",
+      "Textausschnitt": "Da meine Texte von mir vorgeschrieben sind, war ChatGPT sehr nützlich, die Formulierung auszuarbeiten.",
+      "Paraphrase": "ChatGPT war sehr nützlich, um die Formulierung meiner vorgegebenen Texte auszuarbeiten.",
+      "Generalisierung": "Sehr nützlich zur Ausarbeitung von Formulierungen vorgegebener Texte.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "27",
+      "Nummer": "9",
+      "Textausschnitt": "ChatGPT kann durchaus nützlich bei einer Hausarbeit sein, insbesondere wenn es darum geht, Informationen zu recherchieren oder Fragen zu einem bestimmten Thema zu beantworten.",
+      "Paraphrase": "ChatGPT kann nützlich bei einer Hausarbeit sein, insbesondere zur Recherche von Informationen oder Beantwortung von Fragen zu einem bestimmten Thema.",
+      "Generalisierung": "Nützlich bei Hausarbeiten zur Recherche und Beantwortung von Fragen.",
+      "Kategorie": "Nützlichkeit für akademische Arbeiten",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "27",
+      "Nummer": "10",
+      "Textausschnitt": "Bei der Verwendung von ChatGPT für eine Hausarbeit ist es wichtig, die Ergebnisse kritisch zu bewerten und zu überprüfen.",
+      "Paraphrase": "Es ist wichtig, die Ergebnisse bei der Verwendung von ChatGPT für eine Hausarbeit kritisch zu bewerten und zu überprüfen.",
+      "Generalisierung": "Kritische Bewertung und Überprüfung der Ergebnisse bei der Verwendung von ChatGPT für Hausarbeiten wichtig.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "27",
+      "Nummer": "11",
+      "Textausschnitt": "ChatGPT generiert Text auf Grundlage des vorherigen Inputs und des zugrunde liegenden Trainingsdatensatzes. Es kann zu gelegentlichen Fehlern oder ungenauen Informationen kommen.",
+      "Paraphrase": "ChatGPT generiert Text basierend auf vorherigem Input und Trainingsdatensatz. Gelegentliche Fehler oder ungenaue Informationen sind möglich.",
+      "Generalisierung": "Textgenerierung basierend auf Input und Trainingsdatensatz kann gelegentliche Fehler oder ungenaue Informationen enthalten.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "27",
+      "Nummer": "12",
+      "Textausschnitt": "Daher ist es ratsam, die erhaltenen Antworten zu überprüfen und sie mit anderen zuverlässigen Quellen zu vergleichen, um sicherzustellen, dass die Informationen korrekt sind.",
+      "Paraphrase": "Es ist ratsam, die Antworten zu überprüfen und mit anderen Quellen zu vergleichen, um die Korrektheit der Informationen sicherzustellen.",
+      "Generalisierung": "Überprüfung und Vergleich der Antworten mit anderen Quellen ratsam, um Korrektheit sicherzustellen.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "27",
+      "Nummer": "13",
+      "Textausschnitt": "ChatGPT kann den Studierenden den Zugang zu einer Fülle von Informationen ermöglichen, indem es als Hilfsmittel für die Recherche verwendet wird.",
+      "Paraphrase": "ChatGPT kann als Hilfsmittel für die Recherche verwendet werden und ermöglicht den Studierenden Zugang zu vielen Informationen.",
+      "Generalisierung": "Hilfsmittel für Recherche, ermöglicht Zugang zu vielen Informationen.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "27",
+      "Nummer": "14",
+      "Textausschnitt": "Es kann ihnen helfen, schneller auf Informationen zuzugreifen und verschiedene Perspektiven zu erhalten.",
+      "Paraphrase": "ChatGPT kann helfen, schneller auf Informationen zuzugreifen und verschiedene Perspektiven zu erhalten.",
+      "Generalisierung": "Schnellerer Zugriff auf Informationen und Erhalt verschiedener Perspektiven.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "27",
+      "Nummer": "15",
+      "Textausschnitt": "ChatGPT kann bei der Generierung von Ideen und der Entwicklung von Argumenten hilfreich sein. Es kann den Studierenden dabei helfen, neue Denkanstöße zu erhalten oder ihre Gedanken zu strukturieren.",
+      "Paraphrase": "ChatGPT kann bei der Generierung von Ideen und Entwicklung von Argumenten hilfreich sein und Denkanstöße sowie Strukturierung der Gedanken unterstützen.",
+      "Generalisierung": "Hilfreich bei Ideengenerierung, Argumententwicklung, Denkanstößen und Strukturierung der Gedanken.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "27",
+      "Nummer": "16",
+      "Textausschnitt": "Der Einsatz von ChatGPT kann dazu führen, dass Studierende weniger originelle Arbeit leisten, da sie auf vorgefertigte Antworten zurückgreifen können. Dies könnte die Kreativität und das kritische Denken einschränken, die bei der Erstellung einer eigenständigen Arbeit wichtig sind.",
+      "Paraphrase": "Der Einsatz von ChatGPT kann dazu führen, dass Studierende weniger originelle Arbeit leisten und die Kreativität sowie das kritische Denken eingeschränkt werden.",
+      "Generalisierung": "Einsatz von ChatGPT kann Kreativität und kritisches Denken einschränken und zu weniger origineller Arbeit führen.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "27",
+      "Nummer": "17",
+      "Textausschnitt": "ChatGPT ist ein maschinelles Modell und kann gelegentlich ungenaue oder fehlerhafte Informationen liefern. Wenn Studierende ausschließlich auf ChatGPT vertrauen, besteht die Gefahr, dass sie sich auf falsche Informationen stützen und ihre Arbeiten dadurch beeinträchtigt werden.",
+      "Paraphrase": "ChatGPT kann gelegentlich ungenaue oder fehlerhafte Informationen liefern. Ausschließliches Vertrauen auf ChatGPT kann zu falschen Informationen und Beeinträchtigung der Arbeiten führen.",
+      "Generalisierung": "Gelegentlich ungenaue oder fehlerhafte Informationen von ChatGPT, ausschließliches Vertrauen kann Arbeiten beeinträchtigen.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "27",
+      "Nummer": "18",
+      "Textausschnitt": "Wenn die Verwendung von ChatGPT erlaubt wird, ist es wichtig, den Studierenden klare Anweisungen zu geben, wie sie das Modell als Hilfsmittel verwenden sollen und wie sie die erhaltenen Informationen kritisch bewerten können.",
+      "Paraphrase": "Wenn die Verwendung von ChatGPT erlaubt wird, sollten Studierende klare Anweisungen erhalten, wie sie es als Hilfsmittel verwenden und die Informationen kritisch bewerten können.",
+      "Generalisierung": "Klare Anweisungen zur Verwendung von ChatGPT als Hilfsmittel und zur kritischen Bewertung der Informationen notwendig.",
+      "Kategorie": "Einsatz in der Lehre",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "27",
+      "Nummer": "19",
+      "Textausschnitt": "ChatGPT kann den Studierenden helfen, relevante Informationen zu einem bestimmten Thema zu finden. Es kann als Recherche-Tool dienen, um eine breite Palette von Quellen und Perspektiven abzudecken und den Studierenden dabei zu helfen, eine solide Wissensgrundlage aufzubauen.",
+      "Paraphrase": "ChatGPT kann als Recherche-Tool dienen und Studierenden helfen, relevante Informationen und eine breite Palette von Quellen und Perspektiven zu finden, um eine solide Wissensgrundlage aufzubauen.",
+      "Generalisierung": "ChatGPT als Recherche-Tool hilft, relevante Informationen, breite Palette von Quellen und Perspektiven zu finden, um Wissensgrundlage aufzubauen.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "27",
+      "Nummer": "20",
+      "Textausschnitt": "Bei der Erstellung von Fragekatalogen für Prüfungen oder zur Selbstüberprüfung können Studierende ChatGPT verwenden, um Fragen zu generieren oder Ideen für Fragen zu erhalten.",
+      "Paraphrase": "ChatGPT kann bei der Erstellung von Fragekatalogen für Prüfungen oder zur Selbstüberprüfung helfen, indem es Fragen generiert oder Ideen für Fragen liefert.",
+      "Generalisierung": "Hilft bei der Erstellung von Fragekatalogen durch Generierung von Fragen und Ideen.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "27",
+      "Nummer": "21",
+      "Textausschnitt": "ChatGPT kann den Studierenden dabei helfen, komplexe Texte oder Vorlesungen zu verstehen und Zusammenfassungen zu erstellen. Indem sie ChatGPT bestimmte Abschnitte oder Konzepte erklären lassen, können Studierende Schlüsselinformationen extrahieren und ihre eigenen Zusammenfassungen verfassen.",
+      "Paraphrase": "ChatGPT kann helfen, komplexe Texte oder Vorlesungen zu verstehen und Zusammenfassungen zu erstellen, indem es bestimmte Abschnitte oder Konzepte erklärt und Schlüsselinformationen extrahiert.",
+      "Generalisierung": "Hilft beim Verständnis komplexer Texte oder Vorlesungen und bei der Erstellung von Zusammenfassungen durch Erklärung und Extraktion von Schlüsselinformationen.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "27",
+      "Nummer": "22",
+      "Textausschnitt": "Studierende können ChatGPT nutzen, um Ideen für Projekte, Forschungsarbeiten oder kreative Aufgaben zu generieren.",
+      "Paraphrase": "Studierende können ChatGPT nutzen, um Ideen für Projekte, Forschungsarbeiten oder kreative Aufgaben zu generieren.",
+      "Generalisierung": "Nutzung von ChatGPT zur Ideenfindung für Projekte, Forschungsarbeiten oder kreative Aufgaben.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    }
+  ]
+  

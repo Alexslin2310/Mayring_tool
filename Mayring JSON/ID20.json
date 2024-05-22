@@ -1,0 +1,147 @@
+﻿[
+    {
+      "ID": "20",
+      "Nummer": "1",
+      "Textausschnitt": "Die Anwendung von ChatGPT ist sehr einfach.",
+      "Paraphrase": "Die Anwendung von ChatGPT ist sehr leicht.",
+      "Generalisierung": "Einfache Anwendung von ChatGPT.",
+      "Kategorie": "Benutzerfreundlichkeit",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "20",
+      "Nummer": "2",
+      "Textausschnitt": "Es liefert schnelle und umfangreiche Informationen zu allen Themen, nach denen ich gefragt habe. Das Fragen nach der Definition eines bestimmten Themas ist einfacher als bei Google zu suchen, da ChatGPT direkt eine Zusammenfassung liefert.",
+      "Paraphrase": "ChatGPT liefert schnelle und umfangreiche Informationen und gibt direkt Zusammenfassungen statt wie bei Google zu suchen.",
+      "Generalisierung": "Schnelle und umfangreiche Informationen und direkte Zusammenfassungen von ChatGPT.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "20",
+      "Nummer": "3",
+      "Textausschnitt": "Natürlich muss man bei der Eingabe präzise genug sein, damit ChatGPT versteht, was gemeint ist, aber dies ist meiner Meinung nach bei der Kommunikation mit einem Menschen genauso.",
+      "Paraphrase": "Man muss präzise genug eingeben, damit ChatGPT versteht, was gemeint ist, ähnlich wie bei der Kommunikation mit einem Menschen.",
+      "Generalisierung": "Präzise Eingabe erforderlich, damit ChatGPT versteht, was gemeint ist.",
+      "Kategorie": "Eingabedetaillierung",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "20",
+      "Nummer": "4",
+      "Textausschnitt": "Zudem kann ChatGPT Texte auf Rechtschreibung korrigieren und die sprachlichen Ausdrucksweisen verbessern.",
+      "Paraphrase": "ChatGPT kann Texte auf Rechtschreibung korrigieren und den sprachlichen Ausdruck verbessern.",
+      "Generalisierung": "Korrektur von Rechtschreibung und Verbesserung des sprachlichen Ausdrucks durch ChatGPT.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "20",
+      "Nummer": "5",
+      "Textausschnitt": "Bei dieser Hausarbeit habe ich mich speziell für ein fiktives Unternehmen entschieden, da ChatGPT keinen Internetzugang hat und somit nicht über alle aktuellen Daten verfügt.",
+      "Paraphrase": "Ich habe mich für ein fiktives Unternehmen entschieden, da ChatGPT keinen Internetzugang hat und keine aktuellen Daten kennt.",
+      "Generalisierung": "Wahl eines fiktiven Unternehmens wegen fehlendem Internetzugang und aktuellen Daten bei ChatGPT.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "20",
+      "Nummer": "6",
+      "Textausschnitt": "Dabei reichte es oft aus, den Namen eines Modells oder einer Theorie zu nennen, und ich habe die Theorien nur überflogen, um zu kontrollieren, ob ChatGPT die richtigen Theorien verwendet hat. Leider erläuterte ChatGPT oft die Modelle und Theorien ausführlicher, was ich anschließend aus meinen Texten gestrichen habe.",
+      "Paraphrase": "Es reichte oft, den Namen eines Modells oder einer Theorie zu nennen. Ich kontrollierte, ob ChatGPT die richtigen Theorien verwendet. Leider erläuterte ChatGPT die Modelle oft ausführlicher, was ich dann gestrichen habe.",
+      "Generalisierung": "Kontrolle der richtigen Theorien durch Nennung des Namens und Streichung ausführlicher Erläuterungen.",
+      "Kategorie": "Eingabedetaillierung",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "20",
+      "Nummer": "7",
+      "Textausschnitt": "Bei meinem fiktiven Unternehmen waren die Antworten von ChatGPT oft sehr allgemein und theoretisch erläutert, und erst durch eine zusätzliche Aufforderung, eine konkrete Person zu benennen, kamen nützliche Antworten.",
+      "Paraphrase": "Die Antworten von ChatGPT waren oft allgemein und theoretisch. Erst durch zusätzliche Aufforderung, eine konkrete Person zu benennen, kamen nützliche Antworten.",
+      "Generalisierung": "Nützliche Antworten durch zusätzliche Aufforderung, konkrete Personen zu benennen.",
+      "Kategorie": "Eingabedetaillierung",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "20",
+      "Nummer": "8",
+      "Textausschnitt": "Generell sollten die Aussagen von ChatGPT kritisch betrachtet werden, da sie nicht unbedingt auf Fakten basieren müssen und ChatGPT neue Ideen und Geschichten generieren kann. Dies war für die Idee meines Unternehmens nützlich, aber bei der Einbeziehung von Theorien muss noch kontrolliert werden, ob die Inhalte korrekt sind.",
+      "Paraphrase": "Die Aussagen von ChatGPT sollten kritisch betrachtet werden, da sie nicht unbedingt auf Fakten basieren und neue Ideen und Geschichten generieren können. Bei der Einbeziehung von Theorien muss kontrolliert werden, ob die Inhalte korrekt sind.",
+      "Generalisierung": "Kritische Betrachtung der Aussagen von ChatGPT notwendig wegen möglicher fehlender Faktenbasis.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "20",
+      "Nummer": "9",
+      "Textausschnitt": "Am hilfreichsten war ChatGPT beim Erfinden des Unternehmens, seiner Kultur und bei allen anderen Antworten. Keine dieser Antworten basiert auf realen Fakten. Ich musste mir keine große Mühe machen, um Umstände, Hemmnisse oder Ähnliches selbst zu erfinden.",
+      "Paraphrase": "ChatGPT war am hilfreichsten beim Erfinden des Unternehmens und seiner Kultur. Keine dieser Antworten basiert auf realen Fakten. Ich musste keine Umstände oder Hemmnisse selbst erfinden.",
+      "Generalisierung": "Hilfreich beim Erfinden von Unternehmen und Kultur ohne realen Fakten.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "20",
+      "Nummer": "10",
+      "Textausschnitt": "Der Einsatz von ChatGPT sollte nur beschränkt erlaubt sein.",
+      "Paraphrase": "Der Einsatz von ChatGPT sollte nur begrenzt erlaubt sein.",
+      "Generalisierung": "Begrenzte Erlaubnis des Einsatzes von ChatGPT.",
+      "Kategorie": "Einsatz in der Lehre",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "20",
+      "Nummer": "11",
+      "Textausschnitt": "Einerseits muss man bei unbekannten Themen viel Kontext eingeben und aktuelle Themen sind ChatGPT nicht bekannt, wodurch die Nutzung bereits eingeschränkt ist.",
+      "Paraphrase": "Man muss bei unbekannten Themen viel Kontext eingeben und aktuelle Themen sind ChatGPT nicht bekannt, was die Nutzung einschränkt.",
+      "Generalisierung": "Nutzungseinschränkung durch viel Kontext bei unbekannten Themen und Unkenntnis aktueller Themen.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "20",
+      "Nummer": "12",
+      "Textausschnitt": "Zudem kann man sich nicht sicher sein, ob bestimmte Fakten nur erfunden sind. Dies erfordert zusätzliche Kontrolle.",
+      "Paraphrase": "Man kann sich nicht sicher sein, ob bestimmte Fakten erfunden sind, was zusätzliche Kontrolle erfordert.",
+      "Generalisierung": "Unsicherheit über erfundene Fakten erfordert zusätzliche Kontrolle.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "20",
+      "Nummer": "13",
+      "Textausschnitt": "Andererseits kann ChatGPT als schnelle und einfache Suchmaschine für allgemeine Themen dienen, wenn man sich nur schnell zu einem Thema informieren möchte, ohne das Wissen großartig zu nutzen.",
+      "Paraphrase": "ChatGPT kann als schnelle und einfache Suchmaschine für allgemeine Themen dienen, wenn man sich schnell informieren möchte.",
+      "Generalisierung": "Nutzung von ChatGPT als schnelle und einfache Suchmaschine für allgemeine Themen.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "20",
+      "Nummer": "14",
+      "Textausschnitt": "Es kann auch als Werkzeug zur Korrektur von Texten und zur Generierung von Ideen verwendet werden.",
+      "Paraphrase": "ChatGPT kann als Werkzeug zur Korrektur von Texten und zur Generierung von Ideen verwendet werden.",
+      "Generalisierung": "Verwendung von ChatGPT zur Korrektur von Texten und Generierung von Ideen.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "20",
+      "Nummer": "15",
+      "Textausschnitt": "Grundsätzlich würde ich die Nutzung von ChatGPT erlauben, jedoch unter bestimmten Voraussetzungen. Beispielsweise sollten Informationen von ChatGPT als solche gekennzeichnet werden.",
+      "Paraphrase": "Die Nutzung von ChatGPT sollte erlaubt sein, aber unter bestimmten Voraussetzungen, wie die Kennzeichnung der Informationen.",
+      "Generalisierung": "Erlaubnis der Nutzung von ChatGPT unter bestimmten Voraussetzungen, wie Kennzeichnung der Informationen.",
+      "Kategorie": "Einsatz in der Lehre",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "20",
+      "Nummer": "16",
+      "Textausschnitt": "ChatGPT kann sicherlich für weitere Aufgaben im Studium nützlich sein, beispielsweise für das Übersetzen, Korrigieren von Hausarbeiten oder Ähnlichem und Zusammenfassen von Texten.",
+      "Paraphrase": "ChatGPT kann für weitere Aufgaben im Studium nützlich sein, wie Übersetzen, Korrigieren von Hausarbeiten und Zusammenfassen von Texten.",
+      "Generalisierung": "Nützlichkeit von ChatGPT für weitere Aufgaben im Studium, wie Übersetzen, Korrigieren von Hausarbeiten und Zusammenfassen von Texten.",
+      "Kategorie": "Nützlichkeit für akademische Arbeiten",
+      "Subkategorie": ""
+    }
+  ]
+  

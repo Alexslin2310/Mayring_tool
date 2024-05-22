@@ -1,0 +1,120 @@
+﻿[
+    {
+      "ID": "23",
+      "Nummer": "1",
+      "Textausschnitt": "Das Verfassen einer Hausarbeit mit dem Chatbot „ChatGPT“ basierend auf einer künstlichen Intelligenz, hat sich aus meiner Sicht länger und komplexer gestaltet als im Voraus angenommen.",
+      "Paraphrase": "Das Verfassen einer Hausarbeit mit ChatGPT war länger und komplexer als erwartet.",
+      "Generalisierung": "Verfassen einer Hausarbeit mit ChatGPT war länger und komplexer als erwartet.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "23",
+      "Nummer": "2",
+      "Textausschnitt": "Jedoch stellt ChatGPT grundsätzlich eine Hilfe dar, wenn es um Texterstellung, Korrektur oder Umformulierung geht.",
+      "Paraphrase": "ChatGPT ist hilfreich bei Texterstellung, Korrektur und Umformulierung.",
+      "Generalisierung": "ChatGPT ist hilfreich bei Texterstellung, Korrektur und Umformulierung.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "23",
+      "Nummer": "3",
+      "Textausschnitt": "Um mithilfe des Chatbots einen Text für eine wissenschaftliche Arbeit zu erstellen, ist der Anwender verpflichtet dem Programm, gerade bei komplexen Fragestellungen und zu Beginn des „Chats“ einen sehr detaillierten Input zu geben, da bei fehlenden Informationen oder zu allgemein gestellten Fragen, auch die Antworten zu allgemein ausfallen.",
+      "Paraphrase": "Für die Erstellung eines Textes für eine wissenschaftliche Arbeit mit ChatGPT muss der Anwender bei komplexen Fragen sehr detaillierte Eingaben machen, da ansonsten die Antworten zu allgemein sind.",
+      "Generalisierung": "Sehr detaillierte Eingaben notwendig für präzise Antworten bei wissenschaftlichen Arbeiten.",
+      "Kategorie": "Eingabedetaillierung",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "23",
+      "Nummer": "4",
+      "Textausschnitt": "Jedoch ist bei einer längeren Konversation festzustellen, dass die KI sich immer wieder auf vorangegangene Textelemente, Fragen oder Erkenntnisse bezieht. Der Chat lernt demnach dazu und versucht, bei steigendem Input präzisere Antworten zu liefern.",
+      "Paraphrase": "Bei längeren Konversationen bezieht sich die KI auf frühere Textelemente und lernt dazu, um präzisere Antworten zu liefern.",
+      "Generalisierung": "KI lernt bei längeren Konversationen dazu und liefert präzisere Antworten.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "23",
+      "Nummer": "5",
+      "Textausschnitt": "Allerdings entstand das Problem, dass die Texte, auch bei der Bitte um neue, alternative Formulierung oder bei veränderter Fragestellung, sich oft sehr ähnelten und beispielsweise Aufzählungen teilweise zusammenhangslos aufgelistet wurden.",
+      "Paraphrase": "Ein Problem war, dass die Texte sich oft ähnelten, selbst bei alternativen Formulierungen oder veränderten Fragestellungen, und Aufzählungen manchmal zusammenhangslos waren.",
+      "Generalisierung": "Texte ähnelten sich oft und Aufzählungen waren manchmal zusammenhangslos.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "23",
+      "Nummer": "6",
+      "Textausschnitt": "Die größte Hilfe stellte ChatGPT bei der Erstellung eines „Grundgerüstes“ für den Text. Das Verfassen eines Textes aus dem Kopf heraus kann sich mitunter unnötig in die Länge ziehen, was in dem Fall der Verwendung dieser KI nicht der Fall ist.",
+      "Paraphrase": "ChatGPT war am hilfreichsten bei der Erstellung eines Grundgerüsts für den Text, wodurch das Verfassen schneller ging als aus dem Kopf heraus.",
+      "Generalisierung": "Hilfreich bei der Erstellung eines Grundgerüsts für den Text und schneller als aus dem Kopf heraus.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "23",
+      "Nummer": "7",
+      "Textausschnitt": "Der Aufbau kompliziert formulierter Sätze, das Suchen und Finden von Synonymen und die Fehlervermeidung in der grundsätzlichen Rechtschreibung, werden vom Chatbot verlässlich umgesetzt.",
+      "Paraphrase": "ChatGPT hilft zuverlässig beim Aufbau komplizierter Sätze, beim Finden von Synonymen und bei der Fehlervermeidung in der Rechtschreibung.",
+      "Generalisierung": "Zuverlässige Hilfe bei komplizierten Sätzen, Synonymen und Rechtschreibfehlervermeidung.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "23",
+      "Nummer": "8",
+      "Textausschnitt": "Darüber hinaus kann nicht nur Fließtext generiert werden, sondern im selben Zug auch Verständnisfragen zum bestehenden Thema geklärt werden, was wiederum der KI hilft, das Thema, das Modell oder die Vorgehensweise des Studenten zu verstehen und weitere Antworten darauf auszurichten.",
+      "Paraphrase": "ChatGPT kann Fließtext generieren und gleichzeitig Verständnisfragen klären, was der KI hilft, das Thema besser zu verstehen und präzisere Antworten zu geben.",
+      "Generalisierung": "Fließtextgenerierung und gleichzeitige Klärung von Verständnisfragen helfen der KI, das Thema besser zu verstehen und präzisere Antworten zu geben.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "23",
+      "Nummer": "9",
+      "Textausschnitt": "Dem Einsatz von ChatGPT im Studium trete ich persönlich eher skeptisch gegenüber.",
+      "Paraphrase": "Ich bin skeptisch gegenüber dem Einsatz von ChatGPT im Studium.",
+      "Generalisierung": "Skepsis gegenüber dem Einsatz von ChatGPT im Studium.",
+      "Kategorie": "Sonstiges",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "23",
+      "Nummer": "10",
+      "Textausschnitt": "Einerseits ist die KI aus genannten Gründen sehr hilfreich, andererseits besteht vermehrt die Gefahr, dass der Student sich zunehmend auf den Chatbot verlässt, das eigene Denken einschränkt und somit die Kreativität vermindert wird. Dazu ist zu erwähnen, dass der Lerneffekt bzw. das Lernziel der Lehrveranstaltung enorm vermindert wird.",
+      "Paraphrase": "Die KI ist sehr hilfreich, aber es besteht die Gefahr, dass der Student sich zu sehr auf den Chatbot verlässt, was das eigene Denken und die Kreativität einschränkt und den Lerneffekt vermindert.",
+      "Generalisierung": "Gefahr der Abhängigkeit vom Chatbot, Einschränkung des eigenen Denkens und der Kreativität, Verminderung des Lerneffekts.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "23",
+      "Nummer": "11",
+      "Textausschnitt": "Außerdem kann bei Haus-, Projekt-, Bachelor- oder Masterarbeiten im Falle einer hochschulweiten Legalisierung nicht mehr von einer Eigenleistung gesprochen werden.",
+      "Paraphrase": "Bei hochschulweiter Legalisierung kann bei Haus-, Projekt-, Bachelor- oder Masterarbeiten nicht mehr von Eigenleistung gesprochen werden.",
+      "Generalisierung": "Hochschulweite Legalisierung führt zu mangelnder Eigenleistung bei Arbeiten.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "23",
+      "Nummer": "12",
+      "Textausschnitt": "Mögliche Einsatzbereiche innerhalb des Studiums sehe ich beispielsweise in der Prüfungsvorbereitung. Das Erstellen eigener Übungsaufgaben, Zusammenfassung von Lehrinhalten oder die detaillierte Beschreibung expliziter Sachverhalte könnten in Zukunft den Aufgabenbereich von ChatGPT kennzeichnen.",
+      "Paraphrase": "Mögliche Einsatzbereiche von ChatGPT im Studium sind Prüfungsvorbereitung, Erstellung von Übungsaufgaben, Zusammenfassung von Lehrinhalten und detaillierte Beschreibung von Sachverhalten.",
+      "Generalisierung": "Einsatzbereiche von ChatGPT im Studium: Prüfungsvorbereitung, Übungsaufgaben, Zusammenfassung von Lehrinhalten, Beschreibung von Sachverhalten.",
+      "Kategorie": "Einsatz in der Lehre",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "23",
+      "Nummer": "13",
+      "Textausschnitt": "Die in Zukunft nachfolgenden Studierenden sollten meiner Meinung nach trotzdem eher auf Hilfsmittel dieser Art verzichten, da wie bereits erwähnt, der Lerneffekt massiv unter der Verwendung leiden könnte.",
+      "Paraphrase": "Zukünftige Studierende sollten auf solche Hilfsmittel verzichten, da der Lerneffekt darunter leiden könnte.",
+      "Generalisierung": "Verzicht auf solche Hilfsmittel empfohlen wegen möglicher Verminderung des Lerneffekts.",
+      "Kategorie": "Sonstiges",
+      "Subkategorie": ""
+    }
+  ]
+  

@@ -1,0 +1,102 @@
+﻿[
+    {
+      "ID": "33",
+      "Nummer": "1",
+      "Textausschnitt": "Ich war zunächst erschrocken über das, was ChatGPT mit ausgegeben hatte; denn meine Er wartungen von dem, was ich dabei herausbekommen werde, war nicht besonders hoch. Als ich jedoch die Unternehmensvorstellung gelesen hatte, wurde mir klar, dass ich mit gezielten Fragen und inhaltlichen Vorgaben sehr gute Antworten von ChatGPT ausgespuckt bekommen kann.",
+      "Paraphrase": "Ich war überrascht von den Ergebnissen von ChatGPT, da meine Erwartungen nicht hoch waren. Mit gezielten Fragen und inhaltlichen Vorgaben konnte ich jedoch sehr gute Antworten erhalten.",
+      "Generalisierung": "Gezielte Fragen und inhaltliche Vorgaben führen zu sehr guten Antworten von ChatGPT.",
+      "Kategorie": "Eingabedetaillierung",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "33",
+      "Nummer": "2",
+      "Textausschnitt": "Die größten Probleme bestanden darin, dass sich ChatGPT selbst widersprochen hat.",
+      "Paraphrase": "Das größte Problem war, dass sich ChatGPT selbst widersprochen hat.",
+      "Generalisierung": "ChatGPT hat sich selbst widersprochen.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "33",
+      "Nummer": "3",
+      "Textausschnitt": "ChatGPT ist definitiv nützlich beim Verfassen einer Hausarbeit.",
+      "Paraphrase": "ChatGPT ist beim Verfassen einer Hausarbeit sehr nützlich.",
+      "Generalisierung": "ChatGPT ist nützlich beim Verfassen einer Hausarbeit.",
+      "Kategorie": "Nützlichkeit für akademische Arbeiten",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "33",
+      "Nummer": "4",
+      "Textausschnitt": "Was ich jedoch als kritisch an sehe ist, dass man sich wenig mit dem Thema auskennen oder befassen müsste, um eine ak zeptable und einigermaßen logisch zusammenhängende Hausarbeit zu schreiben.",
+      "Paraphrase": "Kritisch sehe ich, dass man sich wenig mit dem Thema auskennen muss, um eine akzeptable und logisch zusammenhängende Hausarbeit zu schreiben.",
+      "Generalisierung": "Man muss sich wenig mit dem Thema auskennen, um eine akzeptable Hausarbeit zu schreiben.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "33",
+      "Nummer": "5",
+      "Textausschnitt": "Den größten Nutzen hatte der Chat Bot für mich darin, die Fragestellungen in angemessenem Umfang und in möglichst kurzer Zeit zu beantworten.",
+      "Paraphrase": "Der größte Nutzen des Chatbots war für mich, die Fragestellungen in angemessenem Umfang und kurzer Zeit zu beantworten.",
+      "Generalisierung": "Chatbot beantwortet Fragestellungen in angemessenem Umfang und kurzer Zeit.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "33",
+      "Nummer": "6",
+      "Textausschnitt": "In meinen Augen sollten Lehrende den Einsatz von ChatGPT situationsabhängig einsetzen.",
+      "Paraphrase": "Lehrende sollten den Einsatz von ChatGPT situationsabhängig erlauben.",
+      "Generalisierung": "Situationsabhängiger Einsatz von ChatGPT durch Lehrende.",
+      "Kategorie": "Einsatz in der Lehre",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "33",
+      "Nummer": "7",
+      "Textausschnitt": "Nachteil ist definitiv, dass Gefahr besteht, dass sich die Studierenden nicht bzw. wenig mit dem Thema auseinandersetzen.",
+      "Paraphrase": "Ein Nachteil ist, dass die Gefahr besteht, dass sich die Studierenden nicht oder wenig mit dem Thema auseinandersetzen.",
+      "Generalisierung": "Gefahr, dass sich Studierende nicht oder wenig mit dem Thema auseinandersetzen.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "33",
+      "Nummer": "8",
+      "Textausschnitt": "Auf der anderen Seite bie tet es den Vorteil, dass man sich auf gewisse Art und Weise intensiv mit dem Thema beschäf t igen muss, um die Richtigkeit der Aussagen des Chat Bots gewährleisten zu können.",
+      "Paraphrase": "Auf der anderen Seite muss man sich intensiv mit dem Thema beschäftigen, um die Richtigkeit der Aussagen des Chatbots gewährleisten zu können.",
+      "Generalisierung": "Intensive Beschäftigung mit dem Thema erforderlich, um die Richtigkeit der Aussagen des Chatbots zu gewährleisten.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "33",
+      "Nummer": "9",
+      "Textausschnitt": "Den Einsatz von ChatGPT im Studium kann ich mir durchaus in der Erstellung von Lernzetteln (inhaltlich) oder auch bei Definitionsfragen vorstellen.",
+      "Paraphrase": "Ich kann mir den Einsatz von ChatGPT im Studium bei der Erstellung von Lernzetteln oder bei Definitionsfragen vorstellen.",
+      "Generalisierung": "Einsatz von ChatGPT bei der Erstellung von Lernzetteln oder Definitionsfragen im Studium.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "33",
+      "Nummer": "10",
+      "Textausschnitt": "Dennoch wäre ich dem gegenüber skep t isch, da man nicht davon ausgehen kann, dass alle Antworten der Wahrheit entsprechen oder der ausgegebene Inhalt das ergibt, was ich als Antwort benötige.",
+      "Paraphrase": "Ich bin skeptisch, da nicht alle Antworten der Wahrheit entsprechen oder den benötigten Inhalt liefern.",
+      "Generalisierung": "Skepsis, da nicht alle Antworten der Wahrheit entsprechen oder den benötigten Inhalt liefern.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "33",
+      "Nummer": "11",
+      "Textausschnitt": "Mir ist bei der Verwendung aufgefallen, dass die Antworten meistens eine ähnliche Länge aufweisen. Bei Definitionen bei spielsweise wird der gesuchte Begriff somit auch durch Beispiele oder verschiedene Kontexte erläutert.",
+      "Paraphrase": "Mir fiel auf, dass die Antworten meist eine ähnliche Länge haben. Bei Definitionen wird der Begriff auch durch Beispiele oder verschiedene Kontexte erläutert.",
+      "Generalisierung": "Antworten haben meist ähnliche Länge, Definitionen werden durch Beispiele oder verschiedene Kontexte erläutert.",
+      "Kategorie": "Eingabedetaillierung",
+      "Subkategorie": ""
+    }
+  ]
+  

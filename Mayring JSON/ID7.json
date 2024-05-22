@@ -1,0 +1,84 @@
+﻿[
+    {
+      "ID": "7",
+      "Nummer": "1",
+      "Textausschnitt": "Es stellte sich heraus, dass für aussagekräftige Antworten oft mehrere Prompts notwendig sind. Um genaue und detaillierte Informationen zu erhalten, ist es wichtig, die Prompts präzise zu formulieren und so viele relevante Informationen wie möglich zu liefern. Dies hilft, die KI besser zu steuern und fundierte Antworten zu erhalten.",
+      "Paraphrase": "Mehrere präzise formulierte Prompts sind oft notwendig, um genaue und detaillierte Informationen von ChatGPT zu erhalten.",
+      "Generalisierung": "Notwendigkeit präziser und mehrerer Prompts für genaue Informationen von ChatGPT.",
+      "Kategorie": "Eingabedetaillierung",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "7",
+      "Nummer": "2",
+      "Textausschnitt": "Eine Auffälligkeit ist, dass die Struktur der Antworten der KI oft sehr ähnlich ist. Es gibt eine starke Tendenz zu Wiederholungen in einer Antwort und eine gewisse Schwierigkeit der KI, sich festzulegen und auf den Punkt zu kommen.",
+      "Paraphrase": "Die Antworten von ChatGPT sind oft strukturell ähnlich, wiederholen sich und kommen nicht auf den Punkt.",
+      "Generalisierung": "Strukturelle Ähnlichkeit und Wiederholungen in den Antworten von ChatGPT.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "7",
+      "Nummer": "3",
+      "Textausschnitt": "Die Antworten waren oftmals schwerfällig und wenig aussagekräftig.",
+      "Paraphrase": "Die Antworten von ChatGPT sind oft schwerfällig und wenig aussagekräftig.",
+      "Generalisierung": "Schwerfällige und wenig aussagekräftige Antworten von ChatGPT.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "7",
+      "Nummer": "4",
+      "Textausschnitt": "Außerdem scheint es so, als ob die KI im Konjunktiv formuliert, um keine klaren Festlegungen zu treffen oder konkrete Handlungsempfehlungen zu geben. Dies kann als eine Art Vorsichtsmaßnahme seitens der KI interpretiert werden, um keine falschen Informationen zu liefern oder gar zu verbotenen Handlungen aufzufordern.",
+      "Paraphrase": "ChatGPT formuliert oft im Konjunktiv, um keine klaren Festlegungen oder Handlungsempfehlungen zu geben, wahrscheinlich um falsche Informationen oder verbotene Handlungen zu vermeiden.",
+      "Generalisierung": "ChatGPT formuliert im Konjunktiv, um vorsichtig zu sein und keine klaren Festlegungen zu treffen.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "7",
+      "Nummer": "5",
+      "Textausschnitt": "Es ist wichtig zu beachten, dass die ChatGPT KI auf einem probabilistischen Modell basiert und ihre Antworten auf Basis des trainierten Datensatzes und der vorgegebenen Prompts generiert.",
+      "Paraphrase": "ChatGPT basiert auf einem probabilistischen Modell und generiert Antworten basierend auf trainierten Daten und Prompts.",
+      "Generalisierung": "ChatGPT nutzt ein probabilistisches Modell und trainierte Daten zur Generierung von Antworten.",
+      "Kategorie": "Sonstiges",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "7",
+      "Nummer": "6",
+      "Textausschnitt": "So muss darauf hingewiesen werden, dass bei der Arbeit mit der KI ChatGPT Rechtschreibfehler auftreten können, insbesondere bei der Unterscheidung von 'dass' und 'das'.",
+      "Paraphrase": "Bei der Nutzung von ChatGPT können Rechtschreibfehler auftreten, besonders bei 'dass' und 'das'.",
+      "Generalisierung": "Rechtschreibfehler bei der Nutzung von ChatGPT, insbesondere bei 'dass' und 'das'.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "7",
+      "Nummer": "7",
+      "Textausschnitt": "Die Arbeit mit der KI ChatGPT kann in vollem Umfang als nützlich angesehen werden, insbesondere wenn es darum geht, Informationen zu recherchieren und grundlegende Fragen zu beantworten.",
+      "Paraphrase": "ChatGPT ist besonders nützlich für die Recherche von Informationen und das Beantworten grundlegender Fragen.",
+      "Generalisierung": "Nützlichkeit von ChatGPT für Informationsrecherche und Beantwortung grundlegender Fragen.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "7",
+      "Nummer": "8",
+      "Textausschnitt": "Es ist jedoch wichtig, die von der KI generierten Antworten kritisch zu hinterfragen, die Antworten sorgfältig zu prüfen und bei komplexen oder spezifischen Themen zusätzliche Quellen oder Expertenwissen hinzuzuziehen.",
+      "Paraphrase": "Es ist wichtig, die Antworten von ChatGPT kritisch zu hinterfragen, sorgfältig zu prüfen und bei komplexen Themen zusätzliche Quellen oder Expertenwissen zu nutzen.",
+      "Generalisierung": "Kritische Hinterfragung und sorgfältige Prüfung der Antworten von ChatGPT sowie Nutzung zusätzlicher Quellen bei komplexen Themen.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "7",
+      "Nummer": "9",
+      "Textausschnitt": "KI kann als Hilfsmittel dienen, aber sie kann menschliches Urteilsvermögen und Erfahrung nicht ersetzen.",
+      "Paraphrase": "KI ist ein Hilfsmittel, aber sie kann menschliches Urteilsvermögen und Erfahrung nicht ersetzen.",
+      "Generalisierung": "KI dient als Hilfsmittel, ersetzt aber nicht menschliches Urteilsvermögen und Erfahrung.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    }
+  ]
+  

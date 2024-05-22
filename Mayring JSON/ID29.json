@@ -1,0 +1,102 @@
+﻿[
+    {
+      "ID": "29",
+      "Nummer": "1",
+      "Textausschnitt": "Zunächst einmal habe ich festgestellt, dass es nicht immer einfach ist, die gewünschten Ergebnisse zu erzielen, wenn man nur stumpf Fragen stellt.",
+      "Paraphrase": "Es ist nicht immer einfach, die gewünschten Ergebnisse zu erzielen, wenn man nur direkte Fragen stellt.",
+      "Generalisierung": "Direkte Fragen führen nicht immer zu den gewünschten Ergebnissen.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "29",
+      "Nummer": "2",
+      "Textausschnitt": "Man muss neben den Kerninformationen auch relevante Zusatzinformationen erwähnen und die Fragen selbst geschickt umformulieren, um bessere Antworten zu erhalten. Es erfordert also ein gewisses Fingerspitzengefühl und kreative Herangehensweise.",
+      "Paraphrase": "Neben den Kerninformationen muss man auch relevante Zusatzinformationen angeben und die Fragen geschickt umformulieren, um bessere Antworten zu erhalten. Es erfordert Fingerspitzengefühl und eine kreative Herangehensweise.",
+      "Generalisierung": "Relevante Zusatzinformationen und geschickte Umformulierung der Fragen sind notwendig für bessere Antworten.",
+      "Kategorie": "Eingabedetaillierung",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "29",
+      "Nummer": "3",
+      "Textausschnitt": "Des Weiteren habe ich bemerkt, dass viele Fragen auf den vorherigen Fragen und Antworten aufbauen. Daher war es wichtig, diese Informationen in den Dialogen mit ChatGPT wiederzugeben, um einen Kontext zu schaffen und die Kontinuität zu wahren.",
+      "Paraphrase": "Viele Fragen bauen auf vorherigen Fragen und Antworten auf. Es ist wichtig, diese Informationen in den Dialogen wiederzugeben, um Kontext und Kontinuität zu schaffen.",
+      "Generalisierung": "Wiederholung vorheriger Informationen wichtig für Kontext und Kontinuität.",
+      "Kategorie": "Eingabedetaillierung",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "29",
+      "Nummer": "4",
+      "Textausschnitt": "Ein weiteres Anliegen war die Verfügbarkeit von Quellen. Obwohl ChatGPT Links zu Quellen liefert, stellte ich fest, dass die Links oft nicht mehr verfügbar waren oder keine relevanten Informationen mehr enthielten.",
+      "Paraphrase": "ChatGPT liefert Links zu Quellen, aber diese sind oft nicht verfügbar oder enthalten keine relevanten Informationen.",
+      "Generalisierung": "Links zu Quellen oft nicht verfügbar oder irrelevant.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "29",
+      "Nummer": "5",
+      "Textausschnitt": "Aus meiner Sicht eignet sich ChatGPT eher für Zusammenfassungen und Umformulierungen von Texten.",
+      "Paraphrase": "ChatGPT eignet sich eher für Zusammenfassungen und Umformulierungen von Texten.",
+      "Generalisierung": "Eher geeignet für Zusammenfassungen und Umformulierungen.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "29",
+      "Nummer": "6",
+      "Textausschnitt": "Es kann hilfreich sein, um Informationen kompakt darzustellen oder Texte in andere Worte zu fassen.",
+      "Paraphrase": "Es ist hilfreich, um Informationen kompakt darzustellen oder Texte umzuformulieren.",
+      "Generalisierung": "Hilfreich zur kompakten Darstellung von Informationen und Umformulierung von Texten.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "29",
+      "Nummer": "7",
+      "Textausschnitt": "Für detaillierte und umfangreiche Analysen oder wissenschaftliche Arbeiten ist jedoch weiterhin menschliche Expertise und Überprüfung erforderlich.",
+      "Paraphrase": "Für detaillierte und umfangreiche Analysen oder wissenschaftliche Arbeiten sind weiterhin menschliche Expertise und Überprüfung erforderlich.",
+      "Generalisierung": "Menschliche Expertise und Überprüfung weiterhin erforderlich für detaillierte und umfangreiche Analysen oder wissenschaftliche Arbeiten.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "29",
+      "Nummer": "8",
+      "Textausschnitt": "Ein weiterer Aspekt war die zeitliche Einschränkung bezüglich der Aktualität der Antworten von ChatGPT. Da die Datenbasis von ChatGPT bis September 2021 begrenzt ist, konnte ich nur Informationen bis zu diesem Zeitpunkt erhalten.",
+      "Paraphrase": "Die Datenbasis von ChatGPT ist bis September 2021 begrenzt, daher konnte ich nur Informationen bis zu diesem Zeitpunkt erhalten.",
+      "Generalisierung": "Datenbasis von ChatGPT ist bis September 2021 begrenzt.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "29",
+      "Nummer": "9",
+      "Textausschnitt": "Allerdings stellte ich fest, dass durch die Verwendung einer Chrome-Erweiterung, die den Zugriff auf das Web ermöglicht, aktuellere Antworten erzielt werden konnten.",
+      "Paraphrase": "Durch eine Chrome-Erweiterung, die den Zugriff auf das Web ermöglicht, konnten aktuellere Antworten erzielt werden.",
+      "Generalisierung": "Chrome-Erweiterung ermöglicht Zugriff auf aktuellere Antworten.",
+      "Kategorie": "Unterstützungsbereiche",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "29",
+      "Nummer": "10",
+      "Textausschnitt": "Dennoch ist es wichtig, sich nicht ausschließlich auf diese Erweiterung zu verlassen, da die Antworten trotzdem nicht immer ausgereift oder nicht über ChatGPT verfügbar sind, selbst wenn sie öffentlich zugänglich sein sollten.",
+      "Paraphrase": "Es ist wichtig, sich nicht ausschließlich auf die Chrome-Erweiterung zu verlassen, da die Antworten trotzdem nicht immer ausgereift oder nicht über ChatGPT verfügbar sind.",
+      "Generalisierung": "Nicht ausschließlich auf Chrome-Erweiterung verlassen, da Antworten nicht immer ausgereift oder verfügbar sind.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    },
+    {
+      "ID": "29",
+      "Nummer": "11",
+      "Textausschnitt": "Es hat mir verdeutlicht, dass eine kritische Betrachtung und Ergänzung durch menschliche Expertise nach wie vor unerlässlich sind, um genaue und verlässliche Informationen zu erhalten.",
+      "Paraphrase": "Eine kritische Betrachtung und Ergänzung durch menschliche Expertise sind unerlässlich, um genaue und verlässliche Informationen zu erhalten.",
+      "Generalisierung": "Kritische Betrachtung und Ergänzung durch menschliche Expertise unerlässlich für genaue und verlässliche Informationen.",
+      "Kategorie": "Herausforderungen",
+      "Subkategorie": ""
+    }
+  ]
+  
