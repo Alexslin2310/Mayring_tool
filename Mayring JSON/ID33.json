@@ -6,7 +6,8 @@
         "Paraphrase":  "Ich war überrascht von den Ergebnissen von ChatGPT, da meine Erwartungen nicht hoch waren. Mit gezielten Fragen und inhaltlichen Vorgaben konnte ich jedoch sehr gute Antworten erhalten.",
         "Generalisierung":  "Gezielte Fragen und inhaltliche Vorgaben führen zu sehr guten Antworten von ChatGPT.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "33",
@@ -15,7 +16,8 @@
         "Paraphrase":  "Das größte Problem war, dass sich ChatGPT selbst widersprochen hat.",
         "Generalisierung":  "ChatGPT hat sich selbst widersprochen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "33",
@@ -24,7 +26,8 @@
         "Paraphrase":  "ChatGPT ist beim Verfassen einer Hausarbeit sehr nützlich.",
         "Generalisierung":  "ChatGPT ist nützlich beim Verfassen einer Hausarbeit.",
         "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "33",
@@ -33,7 +36,8 @@
         "Paraphrase":  "Kritisch sehe ich, dass man sich wenig mit dem Thema auskennen muss, um eine akzeptable und logisch zusammenhängende Hausarbeit zu schreiben.",
         "Generalisierung":  "Man muss sich wenig mit dem Thema auskennen, um eine akzeptable Hausarbeit zu schreiben.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "33",
@@ -42,7 +46,8 @@
         "Paraphrase":  "Der größte Nutzen des Chatbots war für mich, die Fragestellungen in angemessenem Umfang und kurzer Zeit zu beantworten.",
         "Generalisierung":  "Chatbot beantwortet Fragestellungen in angemessenem Umfang und kurzer Zeit.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "33",
@@ -51,7 +56,8 @@
         "Paraphrase":  "Lehrende sollten den Einsatz von ChatGPT situationsabhängig erlauben.",
         "Generalisierung":  "Situationsabhängiger Einsatz von ChatGPT durch Lehrende.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "33",
@@ -60,7 +66,8 @@
         "Paraphrase":  "Ein Nachteil ist, dass die Gefahr besteht, dass sich die Studierenden nicht oder wenig mit dem Thema auseinandersetzen.",
         "Generalisierung":  "Gefahr, dass sich Studierende nicht oder wenig mit dem Thema auseinandersetzen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "33",
@@ -69,7 +76,8 @@
         "Paraphrase":  "Auf der anderen Seite muss man sich intensiv mit dem Thema beschäftigen, um die Richtigkeit der Aussagen des Chatbots gewährleisten zu können.",
         "Generalisierung":  "Intensive Beschäftigung mit dem Thema erforderlich, um die Richtigkeit der Aussagen des Chatbots zu gewährleisten.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "33",
@@ -78,7 +86,8 @@
         "Paraphrase":  "Ich kann mir den Einsatz von ChatGPT im Studium bei der Erstellung von Lernzetteln oder bei Definitionsfragen vorstellen.",
         "Generalisierung":  "Einsatz von ChatGPT bei der Erstellung von Lernzetteln oder Definitionsfragen im Studium.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "33",
@@ -87,7 +96,8 @@
         "Paraphrase":  "Ich bin skeptisch, da nicht alle Antworten der Wahrheit entsprechen oder den benötigten Inhalt liefern.",
         "Generalisierung":  "Skepsis, da nicht alle Antworten der Wahrheit entsprechen oder den benötigten Inhalt liefern.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "33",
@@ -96,6 +106,7 @@
         "Paraphrase":  "Mir fiel auf, dass die Antworten meist eine ähnliche Länge haben. Bei Definitionen wird der Begriff auch durch Beispiele oder verschiedene Kontexte erläutert.",
         "Generalisierung":  "Antworten haben meist ähnliche Länge, Definitionen werden durch Beispiele oder verschiedene Kontexte erläutert.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     }
 ]

@@ -5,8 +5,9 @@
         "Textausschnitt":  "Es hat mir geholfen, meine Gedanken klarer auszudrücken und komplexe Inhalte besser zu strukturieren",
         "Paraphrase":  "ChatGPT hilft mir, meine Ideen klarer und strukturierter auszudrücken.",
         "Generalisierung":  "Verbesserung der Klarheit und Strukturierung von Gedanken.",
-        "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "1",
@@ -15,7 +16,8 @@
         "Paraphrase":  "Ich befürchte, dass ich weniger selbst nachdenke, weil ich mich zu sehr auf ChatGPT verlasse.",
         "Generalisierung":  "Abhängigkeit von ChatGPT könnte selbstständiges Denken verringern.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "1",
@@ -24,7 +26,8 @@
         "Paraphrase":  "Manchmal war ChatGPT wegen Serverüberlastung nicht verfügbar, was meinen Arbeitsfluss störte.",
         "Generalisierung":  "Eingeschränkte Verfügbarkeit von ChatGPT durch Serverprobleme.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "1",
@@ -33,7 +36,8 @@
         "Paraphrase":  "Die Formulierungen von ChatGPT sind oft ähnlich und leicht erkennbar.",
         "Generalisierung":  "Wiederholende und erkennbare Formulierungen von ChatGPT.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "1",
@@ -42,7 +46,8 @@
         "Paraphrase":  "ChatGPT neigt dazu, sich zu wiederholen und Zusammenfassungen zu liefern.",
         "Generalisierung":  "Wiederholungen und häufige Zusammenfassungen bei ChatGPT.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "1",
@@ -51,7 +56,8 @@
         "Paraphrase":  "ChatGPT hat nicht immer auf meine speziellen Anforderungen reagiert, was zusätzliche Anpassungen erforderte.",
         "Generalisierung":  "Unzureichende Anpassung von ChatGPT an spezifische Anforderungen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "1",
@@ -60,7 +66,8 @@
         "Paraphrase":  "Ich stimme Elon Musks Kritik zu, dass ChatGPT politisch korrekt programmiert ist und potenziell gefährlich sein kann.",
         "Generalisierung":  "Kritik an politisch korrekter Programmierung und potenzieller Gefahr von ChatGPT.",
         "Kategorie":  "Sonstiges",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "1",
@@ -69,7 +76,8 @@
         "Paraphrase":  "Ich denke, ChatGPT ist gefährlich, weil es falsche Informationen verbreiten kann.",
         "Generalisierung":  "Gefahr durch Verbreitung falscher Informationen durch ChatGPT.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "1",
@@ -78,7 +86,8 @@
         "Paraphrase":  "Es besteht die Gefahr von Arbeitsplatzverlusten durch Automatisierung.",
         "Generalisierung":  "Automatisierung durch ChatGPT könnte Arbeitsplätze gefährden.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "1",
@@ -87,6 +96,7 @@
         "Paraphrase":  "Lehrer sollten ChatGPT nicht nutzen, da es Schüler faul machen und das Wissen oberflächlich halten könnte.",
         "Generalisierung":  "Nutzung von ChatGPT könnte zur Faulheit und oberflächlichem Wissen bei Schülern führen.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     }
 ]

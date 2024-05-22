@@ -22,36 +22,40 @@ function Load-And-Analyze-JSON {
     foreach ($file in $jsonFiles) {
         $jsonContent = Get-Content -Path $file.FullName -Raw -Encoding UTF8 | ConvertFrom-Json
         foreach ($item in $jsonContent) {
-            # Convert the item to a PowerShell object and add the JsonFile property
-            $item = [PSCustomObject]@{
-                ID               = [int]$item.ID
-                Nummer           = [int]$item.Nummer
-                Textausschnitt   = $item.Textausschnitt
-                Paraphrase       = if ($item.Paraphrase) { $item.Paraphrase } else { "" }
-                Generalisierung  = if ($item.Generalisierung) { $item.Generalisierung } else { "" }
-                Kategorie        = if ($item.Kategorie) { $item.Kategorie } else { "" }
-                Subkategorie     = if ($item.Subkategorie) { $item.Subkategorie } else { "" }
-                JsonFile         = $file.FullName
-            }
-
-            $category = $item.Kategorie
-            $subCategory = $item.Subkategorie
-
-            if (-not $categories.ContainsKey($category)) {
-                $categories[$category] = @{}
-                if ($category -ne $null -and $category -ne "") {
-                    $globalCategories += $category
+            # Überprüfen, ob das Item "Visible" auf true steht
+            if ($item.Visible -eq $true) {
+                # Konvertiere das Item zu einem PowerShell-Objekt und füge die JsonFile-Eigenschaft hinzu
+                $item = [PSCustomObject]@{
+                    ID               = [int]$item.ID
+                    Nummer           = [int]$item.Nummer
+                    Textausschnitt   = $item.Textausschnitt
+                    Paraphrase       = if ($item.Paraphrase) { $item.Paraphrase } else { "" }
+                    Generalisierung  = if ($item.Generalisierung) { $item.Generalisierung } else { "" }
+                    Kategorie        = if ($item.Kategorie) { $item.Kategorie } else { "" }
+                    Subkategorie     = if ($item.Subkategorie) { $item.Subkategorie } else { "" }
+                    Visible          = [bool]$item.Visible
+                    JsonFile         = $file.FullName
                 }
-            }
 
-            if (-not $categories[$category].ContainsKey($subCategory)) {
-                $categories[$category][$subCategory] = @()
-                if ($subCategory -ne $null -and $subCategory -ne "") {
-                    $globalSubCategories += $subCategory
+                $category = $item.Kategorie
+                $subCategory = $item.Subkategorie
+
+                if (-not $categories.ContainsKey($category)) {
+                    $categories[$category] = @{}
+                    if ($category -ne $null -and $category -ne "") {
+                        $globalCategories += $category
+                    }
                 }
-            }
 
-            $categories[$category][$subCategory] += $item
+                if (-not $categories[$category].ContainsKey($subCategory)) {
+                    $categories[$category][$subCategory] = @()
+                    if ($subCategory -ne $null -and $subCategory -ne "") {
+                        $globalSubCategories += $subCategory
+                    }
+                }
+
+                $categories[$category][$subCategory] += $item
+            }
         }
 
         $progressBar.Value.Dispatcher.Invoke([action]{ $progressBar.Value.Value += 1 }, [System.Windows.Threading.DispatcherPriority]::Background)
@@ -145,13 +149,15 @@ function Save-Items {
                 $jsonItem.Generalisierung = $item.Generalisierung
                 $jsonItem.Kategorie = $item.Kategorie
                 $jsonItem.Subkategorie = $item.Subkategorie
+                # Falls das Visible-Attribut geändert wird, entsprechend anpassen
+                $jsonItem.Visible = $item.Visible
             }
         }
 
         $jsonContent | ConvertTo-Json -Depth 3 | Set-Content -Path $filePath -Encoding UTF8
     }
 
-    # Reload categories and refresh TreeView only if treeView is not null
+    # Kategorien neu laden und TreeView aktualisieren, wenn treeView nicht null ist
     if ($treeView -ne $null) {
         $folderPath = Split-Path -Parent $groupedByFile[0].Name
         $progressBar = New-Object System.Windows.Controls.ProgressBar
@@ -167,7 +173,7 @@ function Export-ItemsToCSV {
     )
 
     # Remove JsonFile property from items before exporting
-    $itemsToExport = $items | Select-Object -Property ID, Nummer, Textausschnitt, Paraphrase, Generalisierung, Kategorie, Subkategorie
+    $itemsToExport = $items | Select-Object -Property ID, Nummer, Textausschnitt, Paraphrase, Generalisierung, Kategorie, Subkategorie, Visible
 
     $saveFileDialog = New-Object System.Windows.Forms.SaveFileDialog
     $saveFileDialog.Filter = "CSV files (*.csv)|*.csv"
@@ -186,7 +192,7 @@ function Export-ItemsToJSON {
     )
 
     # Remove JsonFile property from items before exporting
-    $itemsToExport = $items | Select-Object -Property ID, Nummer, Textausschnitt, Paraphrase, Generalisierung, Kategorie, Subkategorie
+    $itemsToExport = $items | Select-Object -Property ID, Nummer, Textausschnitt, Paraphrase, Generalisierung, Kategorie, Subkategorie, Visible
 
     $saveFileDialog = New-Object System.Windows.Forms.SaveFileDialog
     $saveFileDialog.Filter = "JSON files (*.json)|*.json"
@@ -198,8 +204,8 @@ function Export-ItemsToJSON {
     }
 }
 
-# Function to create the details window with editable textboxes and combo boxes
-function Show-DetailsWindow {
+# Function to create the details window without Visible column
+function Show-DetailsWindow-NoVisible {
     param (
         [string]$header,
         [array]$items,
@@ -370,6 +376,184 @@ function Show-DetailsWindow {
     $detailsWindow.ShowDialog()
 }
 
+# Function to create the details window with Visible column
+function Show-DetailsWindow-WithVisible {
+    param (
+        [string]$header,
+        [array]$items,
+        [hashtable]$categories,
+        [System.Windows.Controls.TreeView]$treeView,
+        [hashtable]$categoryData
+    )
+
+    if ($items.Count -gt 1) {
+        $sortedItems = $items | Sort-Object -Property ID, Nummer
+    } else {
+        $sortedItems = $items
+    }
+
+    $detailsWindow = New-Object System.Windows.Window
+    $detailsWindow.Title = "Details"
+    $detailsWindow.Height = 600
+    $detailsWindow.Width = 800
+    $detailsWindow.WindowStartupLocation = 'CenterScreen'
+
+    $grid = New-Object System.Windows.Controls.Grid
+
+    $grid.RowDefinitions.Add((New-Object System.Windows.Controls.RowDefinition -Property @{Height = [System.Windows.GridLength]::Auto}))
+    $grid.RowDefinitions.Add((New-Object System.Windows.Controls.RowDefinition -Property @{Height = "*"}))
+    $grid.RowDefinitions.Add((New-Object System.Windows.Controls.RowDefinition -Property @{Height = [System.Windows.GridLength]::Auto}))
+
+    $headerTextBlock = New-Object System.Windows.Controls.TextBlock
+    $headerTextBlock.Text = $header
+    $headerTextBlock.FontWeight = 'Bold'
+    $headerTextBlock.FontSize = 16
+    $headerTextBlock.Margin = 10
+
+    $dataGrid = New-Object System.Windows.Controls.DataGrid
+    $dataGrid.Margin = 10
+    $dataGrid.AutoGenerateColumns = $false
+    $dataGrid.CanUserAddRows = $false
+    $dataGrid.IsReadOnly = $false
+
+    # Alternating row colors
+    $dataGrid.AlternatingRowBackground = [System.Windows.Media.Brushes]::LightBlue
+    $dataGrid.RowBackground = [System.Windows.Media.Brushes]::AliceBlue
+
+    $idColumn = New-Object System.Windows.Controls.DataGridTextColumn
+    $idColumn.Header = "ID"
+    $idColumn.Binding = New-Object System.Windows.Data.Binding("ID")
+    $idColumn.Width = 50
+    $dataGrid.Columns.Add($idColumn)
+
+    $nummerColumn = New-Object System.Windows.Controls.DataGridTextColumn
+    $nummerColumn.Header = "Nummer"
+    $nummerColumn.Binding = New-Object System.Windows.Data.Binding("Nummer")
+    $nummerColumn.Width = 100
+    $dataGrid.Columns.Add($nummerColumn)
+
+    $textausschnittColumn = New-Object System.Windows.Controls.DataGridTextColumn
+    $textausschnittColumn.Header = "Textausschnitt"
+    $textausschnittColumn.Binding = New-Object System.Windows.Data.Binding("Textausschnitt")
+    $textausschnittColumn.Width = 300
+    $textausschnittColumn.ElementStyle = [Windows.Markup.XamlReader]::Parse(
+        "<Style xmlns='http://schemas.microsoft.com/winfx/2006/xaml/presentation' TargetType='TextBlock'>
+            <Setter Property='TextWrapping' Value='Wrap' />
+            <Setter Property='Margin' Value='5' />
+        </Style>"
+    )
+    $dataGrid.Columns.Add($textausschnittColumn)
+
+    $paraphraseColumn = New-Object System.Windows.Controls.DataGridTextColumn
+    $paraphraseColumn.Header = "Paraphrase"
+    $paraphraseColumn.Binding = New-Object System.Windows.Data.Binding("Paraphrase")
+    $paraphraseColumn.Width = 300
+    $paraphraseColumn.ElementStyle = [Windows.Markup.XamlReader]::Parse(
+        "<Style xmlns='http://schemas.microsoft.com/winfx/2006/xaml/presentation' TargetType='TextBlock'>
+            <Setter Property='TextWrapping' Value='Wrap' />
+            <Setter Property='Margin' Value='5' />
+        </Style>"
+    )
+    $dataGrid.Columns.Add($paraphraseColumn)
+
+    $generalisierungColumn = New-Object System.Windows.Controls.DataGridTextColumn
+    $generalisierungColumn.Header = "Generalisierung"
+    $generalisierungColumn.Binding = New-Object System.Windows.Data.Binding("Generalisierung")
+    $generalisierungColumn.Width = 300
+    $generalisierungColumn.ElementStyle = [Windows.Markup.XamlReader]::Parse(
+        "<Style xmlns='http://schemas.microsoft.com/winfx/2006/xaml/presentation' TargetType='TextBlock'>
+            <Setter Property='TextWrapping' Value='Wrap' />
+            <Setter Property='Margin' Value='5' />
+        </Style>"
+    )
+    $dataGrid.Columns.Add($generalisierungColumn)
+
+    $kategorieColumn = New-Object System.Windows.Controls.DataGridComboBoxColumn
+    $kategorieColumn.Header = "Kategorie"
+    $kategorieColumn.SelectedItemBinding = New-Object System.Windows.Data.Binding("Kategorie")
+    $kategorieColumn.ItemsSource = $categoryData.Kategorien
+    $kategorieColumn.Width = 200
+    $dataGrid.Columns.Add($kategorieColumn)
+
+    $subkategorieColumn = New-Object System.Windows.Controls.DataGridComboBoxColumn
+    $subkategorieColumn.Header = "Subkategorie"
+    $subkategorieColumn.SelectedItemBinding = New-Object System.Windows.Data.Binding("Subkategorie")
+    $subkategorieColumn.ItemsSource = $categoryData.Subkategorien
+    $subkategorieColumn.Width = 200
+    $dataGrid.Columns.Add($subkategorieColumn)
+
+    $visibleColumn = New-Object System.Windows.Controls.DataGridCheckBoxColumn
+    $visibleColumn.Header = "Visible"
+    $visibleColumn.Binding = New-Object System.Windows.Data.Binding("Visible")
+    $visibleColumn.Width = 100
+    $dataGrid.Columns.Add($visibleColumn)
+
+    $dataGrid.ItemsSource = $sortedItems
+
+    $buttonPanel = New-Object System.Windows.Controls.StackPanel
+    $buttonPanel.Orientation = 'Horizontal'
+    $buttonPanel.HorizontalAlignment = 'Right'
+    $buttonPanel.Margin = "10"
+
+    $buttonStyle = [Windows.Markup.XamlReader]::Parse(
+        "<Style xmlns='http://schemas.microsoft.com/winfx/2006/xaml/presentation' TargetType='Button'>
+            <Setter Property='Background' Value='Gray' />
+            <Setter Property='Foreground' Value='White' />
+            <Setter Property='FontWeight' Value='Bold' />
+            <Setter Property='BorderBrush' Value='DarkGray' />
+            <Setter Property='BorderThickness' Value='2' />
+            <Setter Property='Padding' Value='5,2' />
+            <Setter Property='Margin' Value='0,0,10,0' />
+            <Setter Property='Cursor' Value='Hand' />
+        </Style>"
+    )
+
+    $saveButton = New-Object System.Windows.Controls.Button
+    $saveButton.Content = "Save"
+    $saveButton.Style = $buttonStyle
+    $saveButton.Add_Click({
+        Save-Items -items $sortedItems -categories $categories -treeView $treeView
+        [System.Windows.MessageBox]::Show("Changes saved successfully.", "Save Complete", [System.Windows.MessageBoxButton]::OK, [System.Windows.MessageBoxImage]::Information)
+    })
+
+    $exportCSVButton = New-Object System.Windows.Controls.Button
+    $exportCSVButton.Content = "Export to CSV"
+    $exportCSVButton.Style = $buttonStyle
+    $exportCSVButton.Add_Click({
+        Export-ItemsToCSV -items $sortedItems
+    })
+
+    $exportJSONButton = New-Object System.Windows.Controls.Button
+    $exportJSONButton.Content = "Export to JSON"
+    $exportJSONButton.Style = $buttonStyle
+    $exportJSONButton.Add_Click({
+        Export-ItemsToJSON -items $sortedItems
+    })
+
+    $buttonPanel.Children.Add($saveButton)
+    $buttonPanel.Children.Add($exportCSVButton)
+    $buttonPanel.Children.Add($exportJSONButton)
+
+    $grid.Children.Add($headerTextBlock)
+    [System.Windows.Controls.Grid]::SetRow($headerTextBlock, 0)
+    $grid.Children.Add($dataGrid)
+    [System.Windows.Controls.Grid]::SetRow($dataGrid, 1)
+    $grid.Children.Add($buttonPanel)
+    [System.Windows.Controls.Grid]::SetRow($buttonPanel, 2)
+
+    $detailsWindow.Content = $grid
+
+    # Add event handler to update TreeView when details window is closed
+    $detailsWindow.add_Closed({
+        $folderPath = Split-Path -Parent $items[0].JsonFile
+        $progressBar = New-Object System.Windows.Controls.ProgressBar
+        $categories = Load-And-Analyze-JSON -folderPath $folderPath -progressBar ([ref]$progressBar)
+        Populate-TreeView -treeView $treeView -categories $categories
+    })
+
+    $detailsWindow.ShowDialog()
+}
+
 # Function to show details of a specific JSON file
 function Show-JsonDetails {
     param (
@@ -391,11 +575,12 @@ function Show-JsonDetails {
             Generalisierung  = $item.Generalisierung
             Kategorie        = $item.Kategorie
             Subkategorie     = $item.Subkategorie
+            Visible          = [bool]$item.Visible
             JsonFile         = $filePath
         }
     }
 
-    Show-DetailsWindow -header "Details for $filePath" -items $items -categories $categories -treeView $treeView -categoryData $categoryData
+    Show-DetailsWindow-WithVisible -header "Details for $filePath" -items $items -categories $categories -treeView $treeView -categoryData $categoryData
 }
 
 # Function to create the enhanced GUI using WPF
@@ -473,7 +658,7 @@ function Create-GUI {
             $header = $selectedItem.Header.ToString()
             $items = $selectedItem.Tag["Items"]
             $categoryData = Load-CategoryData -filePath "$PSScriptRoot\Config\Config.Kategorie.json"
-            Show-DetailsWindow -header $header -items $items -categories $categories -treeView $treeView -categoryData $categoryData
+            Show-DetailsWindow-NoVisible -header $header -items $items -categories $categories -treeView $treeView -categoryData $categoryData
         }
     })
 

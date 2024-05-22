@@ -6,7 +6,8 @@
         "Paraphrase":  "Manchmal musste ich Fragen umformulieren, um gute Ergebnisse zu erzielen, aber es hat gut funktioniert.",
         "Generalisierung":  "Umformulieren von Fragen für bessere Ergebnisse von ChatGPT.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "8",
@@ -15,7 +16,8 @@
         "Paraphrase":  "Die Sätze, die ich selbst geschrieben und von ChatGPT korrigieren ließ, wurden wirklich gut.",
         "Generalisierung":  "Gute Ergebnisse durch Korrektur und Verbesserung von Sätzen durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "8",
@@ -24,7 +26,8 @@
         "Paraphrase":  "ChatGPT hat oft vieles an den Sätzen geändert oder hinzugefügt, was meistens gut funktioniert hat.",
         "Generalisierung":  "Gute Funktion von ChatGPT trotz vieler Änderungen und Ergänzungen an Sätzen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "8",
@@ -33,7 +36,8 @@
         "Paraphrase":  "Wenn ich nicht weiter wusste, hat ChatGPT selbst passende Sätze zum Thema oder der Fragestellung eingebaut.",
         "Generalisierung":  "ChatGPT ergänzt passende Sätze bei Unsicherheit.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "8",
@@ -42,7 +46,8 @@
         "Paraphrase":  "ChatGPT hat keine wissenschaftlichen Quellen und gibt an, dass ihr Wissen bis 2021 reicht. Man muss selbst nach Quellen suchen.",
         "Generalisierung":  "ChatGPT hat keine wissenschaftlichen Quellen und verweist auf eigenes Nachforschen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "8",
@@ -51,7 +56,8 @@
         "Paraphrase":  "Es gab Fehlermeldungen von ChatGPT, die jedoch nicht schlimm waren.",
         "Generalisierung":  "Fehlermeldungen von ChatGPT sind nicht gravierend.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "8",
@@ -60,7 +66,8 @@
         "Paraphrase":  "Bei komplexen Themen sollte man das Thema gut verstehen, da ChatGPT Fehler machen kann.",
         "Generalisierung":  "Gutes Verständnis des Themas erforderlich bei Nutzung von ChatGPT wegen möglicher Fehler.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "8",
@@ -69,7 +76,8 @@
         "Paraphrase":  "ChatGPT schreibt manchmal Dinge, die plausibel klingen, aber nicht korrekt sind.",
         "Generalisierung":  "ChatGPT kann plausible, aber falsche Informationen geben.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "8",
@@ -78,7 +86,8 @@
         "Paraphrase":  "ChatGPT nimmt viel Arbeit ab und erleichtert vieles.",
         "Generalisierung":  "Arbeitserleichterung durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "8",
@@ -87,7 +96,8 @@
         "Paraphrase":  "Man sollte komplexe Themen gut kennen, um Fehler der KI zu vermeiden.",
         "Generalisierung":  "Gutes Verständnis komplexer Themen notwendig zur Fehlervermeidung bei ChatGPT.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "8",
@@ -96,7 +106,8 @@
         "Paraphrase":  "ChatGPT kann beim Verbessern von Sätzen in wissenschaftlichen Arbeiten hilfreich sein.",
         "Generalisierung":  "Hilfreiche Unterstützung von ChatGPT beim Verbessern von Sätzen in wissenschaftlichen Arbeiten.",
         "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "8",
@@ -105,7 +116,8 @@
         "Paraphrase":  "ChatGPT liefert keine Quellenangaben, daher muss man selbst an wissenschaftlichen Arbeiten arbeiten.",
         "Generalisierung":  "ChatGPT liefert keine Quellenangaben; eigenes Arbeiten an wissenschaftlichen Arbeiten nötig.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "8",
@@ -114,7 +126,8 @@
         "Paraphrase":  "Ich denke, dass KI in Zukunft besser wird und die neue Generation lernen sollte, sie zu nutzen. Es sollte nicht verboten werden.",
         "Generalisierung":  "Zukünftige Verbesserung der KI und Erlernen der Nutzung durch neue Generation sollte gefördert, nicht verboten werden.",
         "Kategorie":  "Sonstiges",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "8",
@@ -123,6 +136,7 @@
         "Paraphrase":  "KI sollte nur zu guten Zwecken und nicht für böswillige Absichten genutzt werden.",
         "Generalisierung":  "Nutzung der KI nur zu guten Zwecken, nicht für böswillige Absichten.",
         "Kategorie":  "Sonstiges",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     }
 ]

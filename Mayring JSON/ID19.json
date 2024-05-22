@@ -6,7 +6,8 @@
         "Paraphrase":  "Die Anwendung von ChatGPT ist einfach und unkompliziert.",
         "Generalisierung":  "Einfache und unkomplizierte Anwendung von ChatGPT.",
         "Kategorie":  "Benutzerfreundlichkeit",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "19",
@@ -15,7 +16,8 @@
         "Paraphrase":  "Auch bei nicht optimalen Fragen fragt ChatGPT nach oder beantwortet sie nach bestem Wissen.",
         "Generalisierung":  "ChatGPT fragt nach oder beantwortet nicht optimal gestellte Fragen nach bestem Wissen.",
         "Kategorie":  "Benutzerfreundlichkeit",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "19",
@@ -24,7 +26,8 @@
         "Paraphrase":  "Für die Hausarbeit mussten die Eingaben so gestellt werden, dass ein Fließtext herauskommt. Manchmal musste ich die Frage detaillierter stellen oder angeben, dass ein Fließtext formuliert werden soll.",
         "Generalisierung":  "Eingaben müssen detailliert gestellt werden, um Fließtext zu erhalten.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "19",
@@ -33,7 +36,8 @@
         "Paraphrase":  "ChatGPT hat Optimierungsbedarf beim Satzbau und der Wiederholung von Satzanfängen. Einige Inhalte werden mehrfach genannt und nur etwas umgeschrieben.",
         "Generalisierung":  "Optimierungsbedarf bei Satzbau und Wiederholung von Satzanfängen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "19",
@@ -42,7 +46,8 @@
         "Paraphrase":  "Ich hätte an einigen Stellen andere Satzanfänge gewählt und sie deshalb verändert.",
         "Generalisierung":  "Änderung der Satzanfänge nach persönlichen Vorlieben.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "19",
@@ -51,7 +56,8 @@
         "Paraphrase":  "Es gab Probleme mit sich wiederholenden inhaltlichen Antworten. ChatGPT kam bei einigen Fragen nicht auf den Punkt und erzeugte unterschiedliche Sätze mit sich wiederholendem Inhalt.",
         "Generalisierung":  "Probleme mit sich wiederholenden inhaltlichen Antworten und nicht auf den Punkt kommende Antworten.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "19",
@@ -60,7 +66,8 @@
         "Paraphrase":  "Ich musste nacharbeiten und Sätze herauslöschen, was aufwändig war und den Arbeitsfluss störte.",
         "Generalisierung":  "Nacharbeiten und Herauslöschen von Sätzen störten den Arbeitsfluss.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "19",
@@ -69,7 +76,8 @@
         "Paraphrase":  "Wenn man nur 80% der Leistung erzielen möchte, ist ChatGPT eine gute Möglichkeit, gerade für fiktive Beispiele eine Hausarbeit zu schreiben.",
         "Generalisierung":  "ChatGPT ist gut für das Erreichen von 80% der Leistung bei fiktiven Beispielen in Hausarbeiten.",
         "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "19",
@@ -78,7 +86,8 @@
         "Paraphrase":  "Es schien aufwändiger, Daten über ein echtes Unternehmen zu prüfen, als ein fiktives Unternehmen zu wählen. ChatGPT eignet sich gut zur theoretischen Darstellung von Themen, solange man diese hinterfragt.",
         "Generalisierung":  "Eignung von ChatGPT zur theoretischen Darstellung von Themen bei fiktiven Unternehmen.",
         "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "19",
@@ -87,7 +96,8 @@
         "Paraphrase":  "Um praktische Bezüge zu ziehen, muss kritisch überprüft werden, ob eine Theorie richtig auf ein Praxisbeispiel angewandt wurde.",
         "Generalisierung":  "Kritische Überprüfung notwendig, um praktische Bezüge zu ziehen.",
         "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "19",
@@ -96,7 +106,8 @@
         "Paraphrase":  "Lehrende sollten den Einsatz von ChatGPT erlauben, aber dazu raten, die erzeugten Texte zu hinterfragen und durchzulesen.",
         "Generalisierung":  "Einsatz von ChatGPT sollte erlaubt sein, aber erzeugte Texte sollten hinterfragt und durchgelesen werden.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "19",
@@ -105,7 +116,8 @@
         "Paraphrase":  "Bei Zusammenfassungen oder Ideensammlungen zur Strukturierung einer Hausarbeit oder Bachelorarbeit kann ChatGPT eine große Hilfe sein und den Lern- und Arbeitsprozess effizienter machen.",
         "Generalisierung":  "ChatGPT kann bei Zusammenfassungen und Ideensammlungen zur Strukturierung einer Hausarbeit oder Bachelorarbeit helfen und den Lern- und Arbeitsprozess effizienter machen.",
         "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "19",
@@ -114,7 +126,8 @@
         "Paraphrase":  "Bei der Umformulierung von Sätzen oder dem Generieren von ansprechenden und abwechslungsreichen Sätzen kann ChatGPT den Arbeitsprozess beschleunigen.",
         "Generalisierung":  "ChatGPT kann den Arbeitsprozess bei der Umformulierung und Generierung von Sätzen beschleunigen.",
         "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "19",
@@ -123,7 +136,8 @@
         "Paraphrase":  "Wichtig ist, dass die richtigen Informationen aus eigener Hand oder von ChatGPT kommen. Wissenschaftliches Arbeiten mit ChatGPT ist daher problematisch.",
         "Generalisierung":  "Wissenschaftliches Arbeiten mit ChatGPT ist problematisch wegen der Notwendigkeit der richtigen Informationen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "19",
@@ -132,7 +146,8 @@
         "Paraphrase":  "Es ist nicht klar, woher ChatGPT seine Informationen bezieht, und es gibt keine Quellen an, obwohl es theoretisch könnte.",
         "Generalisierung":  "ChatGPT gibt keine Quellen an und es ist unklar, woher die Informationen stammen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "19",
@@ -141,7 +156,8 @@
         "Paraphrase":  "Dieser Aspekt zeigt, dass ChatGPT nur als Unterstützung und nicht als allwissende KI angesehen werden kann, die die komplette Arbeit abnimmt.",
         "Generalisierung":  "ChatGPT kann nur als Unterstützung und nicht als allwissende KI angesehen werden.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "19",
@@ -150,6 +166,7 @@
         "Paraphrase":  "Der Mensch sollte weiterhin die Kontrolle behalten, auch wenn dieser Aspekt unterschiedlich gesehen werden kann.",
         "Generalisierung":  "Der Mensch sollte die Kontrolle behalten, auch wenn es unterschiedliche Ansichten dazu gibt.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     }
 ]

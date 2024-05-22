@@ -6,7 +6,8 @@
         "Paraphrase":  "Meine ersten Erfahrungen mit ChatGPT waren positiv und ich war beeindruckt von den vielfältigen Antworten.",
         "Generalisierung":  "Positive erste Erfahrungen mit ChatGPT und vielfältige Antworten.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "12",
@@ -15,7 +16,8 @@
         "Paraphrase":  "Es schien, als hätte ChatGPT auf alles eine Antwort und das zeitraubende Suchen im Internet war nicht mehr nötig.",
         "Generalisierung":  "ChatGPT ersetzt zeitraubendes Suchen im Internet durch schnelle Antworten.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "12",
@@ -24,7 +26,8 @@
         "Paraphrase":  "ChatGPT ist benutzerfreundlich und die Anwendung ist unkompliziert.",
         "Generalisierung":  "Hohe Benutzerfreundlichkeit und unkomplizierte Anwendung von ChatGPT.",
         "Kategorie":  "Benutzerfreundlichkeit",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "12",
@@ -33,7 +36,8 @@
         "Paraphrase":  "Ich definierte klare Rahmenbedingungen wie wissenschaftlichen Schreibstil und angemessenen Sprachgebrauch.",
         "Generalisierung":  "Definition klarer Rahmenbedingungen vor der Nutzung von ChatGPT.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "12",
@@ -42,7 +46,8 @@
         "Paraphrase":  "Ich gab dem System eine präzise Zusammenfassung der Vorlesungsinhalte als Input.",
         "Generalisierung":  "Geben einer präzisen Zusammenfassung der Vorlesungsinhalte als Input für ChatGPT.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "12",
@@ -51,7 +56,8 @@
         "Paraphrase":  "Trotz genauer Anforderungen und Präferenzen waren die Antworten unpräzise und unzureichend detailliert.",
         "Generalisierung":  "Unpräzise und unzureichend detaillierte Antworten trotz genauer Anforderungen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "12",
@@ -60,7 +66,8 @@
         "Paraphrase":  "Die Zeit, die ich zur Kommunikation meiner Erwartungen investierte, hätte ausgereicht, um die Texte selbst zu verfassen.",
         "Generalisierung":  "Zeitaufwand für Kommunikation der Erwartungen hätte für eigene Texterstellung ausgereicht.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "12",
@@ -69,7 +76,8 @@
         "Paraphrase":  "Trotz wiederholter Versuche und unterschiedlicher Eingaben konnte ich die gewünschte Qualität nicht erreichen, und die Antworten wurden weniger zufriedenstellend, je umfangreicher die Anforderungen waren.",
         "Generalisierung":  "Weniger zufriedenstellende Antworten bei umfangreichen Anforderungen trotz wiederholter Versuche.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "12",
@@ -78,7 +86,8 @@
         "Paraphrase":  "ChatGPT hat einen speziellen Stil mit wiederkehrender Struktur und wiederholten Inhalten und bestimmten Wörtern.",
         "Generalisierung":  "Spezieller Stil von ChatGPT mit wiederkehrender Struktur und wiederholten Inhalten.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "12",
@@ -87,7 +96,8 @@
         "Paraphrase":  "Um den Lesefluss zu verbessern, mussten Verbindungswörter eingefügt und Sätze umstrukturiert werden.",
         "Generalisierung":  "Verbesserung des Leseflusses durch Einfügen von Verbindungswörtern und Umstrukturierung von Sätzen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "12",
@@ -96,7 +106,8 @@
         "Paraphrase":  "Es gab auffällige Fehler im Satzbau und in der Rechtschreibung bei der Nutzung von ChatGPT.",
         "Generalisierung":  "Auffällige Fehler im Satzbau und in der Rechtschreibung bei ChatGPT.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "12",
@@ -105,7 +116,8 @@
         "Paraphrase":  "Der Inhalt musste immer wieder überprüft werden, da die Informationen nicht aktuell waren und keine transparenten Quellenangaben vorhanden waren.",
         "Generalisierung":  "Überprüfung der Inhalte wegen veralteter Informationen und fehlender Quellenangaben notwendig.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "12",
@@ -114,7 +126,8 @@
         "Paraphrase":  "Viel Zeit wurde für Nacharbeit und Überprüfung der Texte aufgewendet, sodass keine Zeiteinsparung spürbar war.",
         "Generalisierung":  "Keine spürbare Zeiteinsparung durch viel Nacharbeit und Überprüfung der Texte.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "12",
@@ -123,7 +136,8 @@
         "Paraphrase":  "ChatGPT half mir, komplexe Begriffe zu verstehen und Vorlesungsinhalte präzise zusammenzufassen, besonders bei allgemeinen Informationen.",
         "Generalisierung":  "Unterstützung durch ChatGPT beim Verstehen komplexer Begriffe und präzisen Zusammenfassen von Vorlesungsinhalten.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "12",
@@ -132,7 +146,8 @@
         "Paraphrase":  "ChatGPT bot nützliche Impulse und Denkanstöße, die mein weiteres Nachdenken anregten.",
         "Generalisierung":  "Nützliche Impulse und Denkanstöße durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "12",
@@ -141,7 +156,8 @@
         "Paraphrase":  "Die Integration von KI in das Bildungssystem ist gerechtfertigt und bietet viele Vorteile.",
         "Generalisierung":  "Integration von KI in das Bildungssystem ist gerechtfertigt und vorteilhaft.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "12",
@@ -150,7 +166,8 @@
         "Paraphrase":  "Die KI ermöglicht eine effektive Zusammenarbeit, anstatt vollständige Arbeiten zu übernehmen.",
         "Generalisierung":  "KI ermöglicht effektive Zusammenarbeit statt Übernahme vollständiger Arbeiten.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "12",
@@ -159,7 +176,8 @@
         "Paraphrase":  "Eine fachliche Einschränkung von KI an Universitäten ist nicht angebracht, da sie in verschiedenen Fachbereichen helfen kann.",
         "Generalisierung":  "Keine fachliche Einschränkung von KI an Universitäten, da sie in verschiedenen Bereichen hilfreich ist.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "12",
@@ -168,7 +186,8 @@
         "Paraphrase":  "Bei gezielten Fragestellungen und Überprüfung von Inhalten bleibt das eigene Verständnis im Fokus.",
         "Generalisierung":  "Eigenes Verständnis bleibt im Fokus bei gezielten Fragestellungen und Überprüfung von Inhalten.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "12",
@@ -177,7 +196,8 @@
         "Paraphrase":  "Es gibt keine Garantie für die Seriosität und Richtigkeit der Informationen von ChatGPT.",
         "Generalisierung":  "Keine Garantie für Seriosität und Richtigkeit der Informationen von ChatGPT.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "12",
@@ -186,7 +206,8 @@
         "Paraphrase":  "Nach mehreren Stunden Arbeit traten oft Fehlermeldungen auf, wodurch ich meine Arbeit abbrechen musste.",
         "Generalisierung":  "Häufige Fehlermeldungen nach mehreren Stunden Arbeit führten zum Arbeitsabbruch.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "12",
@@ -195,7 +216,8 @@
         "Paraphrase":  "Der Support reagierte erst nach einem Monat auf meine Anfrage, was mir nicht half.",
         "Generalisierung":  "Langsame Reaktion des Supports auf Anfragen, die nicht half.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "12",
@@ -204,6 +226,7 @@
         "Paraphrase":  "Eine Ablehnung von KI im Bildungswesen, Berufsleben oder Alltag wäre ein Versuch, den Fortschritt neuer Technologien aufzuhalten.",
         "Generalisierung":  "Ablehnung von KI im Bildungswesen, Berufsleben oder Alltag würde den Fortschritt neuer Technologien aufhalten.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     }
 ]

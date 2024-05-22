@@ -6,7 +6,8 @@
         "Paraphrase":  "ChatGPT hat ein einfaches Eingabefenster, um Fragen zu stellen oder Informationen einzugeben.",
         "Generalisierung":  "Einfaches Eingabefenster für Fragen und Informationen bei ChatGPT.",
         "Kategorie":  "Benutzerfreundlichkeit",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "21",
@@ -15,7 +16,8 @@
         "Paraphrase":  "Die Komplexität von ChatGPT hängt von der Frage ab. Für detaillierte Antworten muss die Eingabe genau sein.",
         "Generalisierung":  "Komplexität und Genauigkeit der Eingabe beeinflussen die Antworten von ChatGPT.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "21",
@@ -24,7 +26,8 @@
         "Paraphrase":  "ChatGPT lernt mit jeder Eingabe und zieht Verbindungen zwischen Themen im Verlauf eines Chats.",
         "Generalisierung":  "ChatGPT lernt mit jeder Eingabe und verbessert die Verbindungen zwischen Themen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "21",
@@ -33,7 +36,8 @@
         "Paraphrase":  "Grundsätzlich ist die Bedienung des Programms sehr einfach.",
         "Generalisierung":  "Einfache Bedienung von ChatGPT.",
         "Kategorie":  "Benutzerfreundlichkeit",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "21",
@@ -42,7 +46,8 @@
         "Paraphrase":  "Die Detailliertheit der Eingaben hängt stark von der Frage ab. Für einfache Erklärungen und Definitionen reichen kurze Angaben.",
         "Generalisierung":  "Detailliertheit der Eingaben variiert je nach Frage.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "21",
@@ -51,7 +56,8 @@
         "Paraphrase":  "Für längere Textangaben muss man die Eingabe mit gewünschten Details und Aspekten versehen.",
         "Generalisierung":  "Längere Textangaben erfordern detaillierte Eingaben.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "21",
@@ -60,7 +66,8 @@
         "Paraphrase":  "Die meisten Probleme traten bei der Ausführlichkeit und dem Ausformulieren der Texte auf. ChatGPT hat Schwierigkeiten, vage Angaben wie „etwas ausführlicher“ oder „genauer“ zu deuten.",
         "Generalisierung":  "Schwierigkeiten bei der Ausführlichkeit und Ausformulieren der Texte mit vagen Angaben.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "21",
@@ -69,7 +76,8 @@
         "Paraphrase":  "Es ist nicht leicht, vage Angaben wie „etwas“ zu deuten, aber nach mehreren Wiederholungen funktionierte es gut.",
         "Generalisierung":  "Mehrfache Wiederholungen helfen bei der Deutung vager Angaben.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "21",
@@ -78,7 +86,8 @@
         "Paraphrase":  "Die Rechtschreibung und Gliederung mancher Texte war oft nicht optimal.",
         "Generalisierung":  "Nicht optimale Rechtschreibung und Gliederung mancher Texte.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "21",
@@ -87,7 +96,8 @@
         "Paraphrase":  "Die Variation an Begriffen und Satzbauarten ist begrenzt.",
         "Generalisierung":  "Begrenzte Variation an Begriffen und Satzbauarten.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "21",
@@ -96,7 +106,8 @@
         "Paraphrase":  "ChatGPT kann schnell einfache Verständnisfragen beantworten.",
         "Generalisierung":  "Schnelle Beantwortung einfacher Verständnisfragen durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "21",
@@ -105,7 +116,8 @@
         "Paraphrase":  "ChatGPT kann sehr hilfreich bei der Suche nach Quellen sein.",
         "Generalisierung":  "Hilfreich bei der Suche nach Quellen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "21",
@@ -114,7 +126,8 @@
         "Paraphrase":  "Obwohl das Formulieren von Texten nicht immer reibungslos funktionierte, war es eine große Unterstützung und sparte viel Zeit.",
         "Generalisierung":  "Große Unterstützung und Zeitersparnis trotz nicht immer reibungsloser Textformulierungen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "21",
@@ -123,7 +136,8 @@
         "Paraphrase":  "ChatGPT ist besser als Google für einfache Synonyme oder Definitionen, da man nicht extra eine Seite öffnen muss und mehr Auswahl hat.",
         "Generalisierung":  "ChatGPT ist besser als Google für Synonyme oder Definitionen wegen einfacher Bedienung und mehr Auswahl.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "21",
@@ -132,7 +146,8 @@
         "Paraphrase":  "Man kann durch ChatGPT viel Zeit beim Ausformulieren sparen.",
         "Generalisierung":  "Zeitersparnis beim Ausformulieren durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "21",
@@ -141,7 +156,8 @@
         "Paraphrase":  "Die Beantwortung von Fragen durch ChatGPT kann die Meinung des Anwenders verfälschen oder neue Einblicke und Themen geben, auf die der Anwender ohne Hilfe nicht gekommen wäre.",
         "Generalisierung":  "Antworten von ChatGPT können die Meinung verfälschen oder neue Einblicke und Themen geben.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "21",
@@ -150,7 +166,8 @@
         "Paraphrase":  "Es könnte innerhalb einer Vorlesung hilfreich sein, ChatGPT semesterbegleitend zu nutzen und gelegentlich mit Informationen zu füttern.",
         "Generalisierung":  "Semesterbegleitende Nutzung von ChatGPT kann in Vorlesungen hilfreich sein.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "21",
@@ -159,7 +176,8 @@
         "Paraphrase":  "Themen oder einfache Definitionen können schnell und individuell erläutert werden, was zu einem höheren Verständnis führt.",
         "Generalisierung":  "Schnelle und individuelle Erläuterung von Themen oder Definitionen fördert Verständnis.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "21",
@@ -168,7 +186,8 @@
         "Paraphrase":  "Ich finde es nützlich, wenn man den Faden wegen einer fehlenden Definition verliert und so schnell wieder anknüpfen kann.",
         "Generalisierung":  "Nützlich, um schnell wieder anknüpfen zu können, wenn der Faden verloren geht.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "21",
@@ -177,7 +196,8 @@
         "Paraphrase":  "ChatGPT ist mehr als hilfreich bei der Informationsbeschaffung oder Klärung von Begriffen und Konzepten.",
         "Generalisierung":  "Sehr hilfreich bei Informationsbeschaffung und Klärung von Begriffen und Konzepten.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "21",
@@ -186,7 +206,8 @@
         "Paraphrase":  "ChatGPT lernt mit und passt sich den Eingaben an, was Google oder Scholar nicht können.",
         "Generalisierung":  "ChatGPT lernt mit und passt sich den Eingaben an.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "21",
@@ -195,6 +216,7 @@
         "Paraphrase":  "Die nachgeschlagenen Themen müssen nicht angewandt und auf das explizite Thema angepasst werden.",
         "Generalisierung":  "Nachgeschlagene Themen müssen nicht auf das explizite Thema angepasst werden.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     }
 ]

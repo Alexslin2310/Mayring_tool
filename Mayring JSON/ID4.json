@@ -6,7 +6,8 @@
         "Paraphrase":  "ChatGPT liefert viele konstruktive Antworten, basierend auf Wissen bis 2021.",
         "Generalisierung":  "Konstruktive Antworten von ChatGPT basierend auf umfangreichem Wissen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "4",
@@ -15,7 +16,8 @@
         "Paraphrase":  "ChatGPT kann auch mit wenig detaillierten Eingaben relevante Informationen liefern.",
         "Generalisierung":  "Relevante Informationen von ChatGPT trotz wenig detaillierter Eingaben.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "4",
@@ -24,7 +26,8 @@
         "Paraphrase":  "Man kann den Output von ChatGPT durch detailliertere Eingaben steuern.",
         "Generalisierung":  "Steuerung des Outputs von ChatGPT durch detaillierte Eingaben.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "4",
@@ -33,7 +36,8 @@
         "Paraphrase":  "ChatGPT hat mein Wissen erweitert und meinen Denkprozess bereichert, indem ich lernte, richtige Fragen zu stellen.",
         "Generalisierung":  "Erweiterung des Wissens und Bereicherung des Denkprozesses durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "4",
@@ -42,7 +46,8 @@
         "Paraphrase":  "ChatGPT liefert schnelle Antworten, bietet Inspiration und fördert den Wissensaustausch.",
         "Generalisierung":  "Nützlichkeit von ChatGPT für schnelle Antworten, Inspiration und Wissensaustausch.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "4",
@@ -51,7 +56,8 @@
         "Paraphrase":  "Es ist wichtig, Informationen von ChatGPT kritisch zu hinterfragen und zu verifizieren.",
         "Generalisierung":  "Notwendigkeit der kritischen Hinterfragung und Verifizierung von ChatGPT-Informationen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "4",
@@ -60,7 +66,8 @@
         "Paraphrase":  "KI-Modelle sollten als Unterstützung und Ergänzung zur menschlichen Auffassung genutzt werden.",
         "Generalisierung":  "Nutzung von KI-Modellen als Unterstützung und Ergänzung zur menschlichen Auffassung.",
         "Kategorie":  "Sonstiges",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "4",
@@ -69,7 +76,8 @@
         "Paraphrase":  "KI-Modelle sollten nicht die einzige Informationsquelle sein, sondern als Hilfsmittel zur Wissenserweiterung genutzt werden.",
         "Generalisierung":  "KI-Modelle als ergänzendes Hilfsmittel zur Wissenserweiterung, nicht als alleinige Informationsquelle.",
         "Kategorie":  "Sonstiges",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "4",
@@ -78,7 +86,8 @@
         "Paraphrase":  "Dozenten können KI-Modelle nutzen, um Studierende bei Recherchearbeiten zu unterstützen.",
         "Generalisierung":  "Nutzung von KI-Modellen durch Dozenten zur Unterstützung von Studierenden bei Recherchearbeiten.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "4",
@@ -87,6 +96,7 @@
         "Paraphrase":  "Dozenten sollten klare Anweisungen geben und sicherstellen, dass Studierende eigenständig arbeiten und ihre Fähigkeiten entwickeln.",
         "Generalisierung":  "Wichtigkeit klarer Anweisungen und Förderung der Eigenständigkeit von Studierenden bei der Nutzung von KI-Modellen.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     }
 ]

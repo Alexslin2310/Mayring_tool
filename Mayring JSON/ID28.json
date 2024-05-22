@@ -6,7 +6,8 @@
         "Paraphrase":  "Ein Hauptvorteil war die schnelle und umfangreiche Bereitstellung von Informationen.",
         "Generalisierung":  "Schnelle und umfangreiche Bereitstellung von Informationen ist ein Hauptvorteil.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "28",
@@ -15,7 +16,8 @@
         "Paraphrase":  "Ein weiterer Vorteil war die Flexibilität von ChatGPT, das auf viele Themen eingehen und verschiedene Fragen beantworten konnte, was mir half, den Umfang meiner Hausarbeit zu erweitern.",
         "Generalisierung":  "Flexibilität von ChatGPT, die auf viele Themen eingehen und verschiedene Fragen beantworten kann, hilft beim Erweitern des Umfangs der Arbeit.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "28",
@@ -24,7 +26,8 @@
         "Paraphrase":  "Ein Nachteil bei längerer Nutzung von ChatGPT ist, dass man etwas \u0027faul\u0027 wird.",
         "Generalisierung":  "Längere Nutzung von ChatGPT kann dazu führen, dass man \u0027faul\u0027 wird.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "28",
@@ -33,7 +36,8 @@
         "Paraphrase":  "Der Kontrast zwischen herkömmlichem Arbeiten und der Nutzung von ChatGPT macht es schwerer, ohne ChatGPT zu arbeiten, da man komplette Textpassagen durch kurze Befehle schreiben lassen kann.",
         "Generalisierung":  "Nutzung von ChatGPT macht es schwerer, ohne ChatGPT zu arbeiten, da man komplette Textpassagen durch kurze Befehle schreiben lassen kann.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "28",
@@ -42,7 +46,8 @@
         "Paraphrase":  "Bei der Eingabe von Befehlen an ChatGPT muss man sehr ausführlich und präzise sein, um passende Antworten zu erhalten.",
         "Generalisierung":  "Ausführliche und präzise Eingabe von Befehlen erforderlich, um passende Antworten zu erhalten.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "28",
@@ -51,7 +56,8 @@
         "Paraphrase":  "ChatGPT könnte in Bereichen wie Kundenservice, Forschung und Entwicklung oder Bildung als effizientes Werkzeug eingesetzt werden, um Informationen bereitzustellen und komplexe Fragen zu beantworten.",
         "Generalisierung":  "Effizientes Werkzeug in Kundenservice, Forschung und Entwicklung oder Bildung zur Bereitstellung von Informationen und Beantwortung komplexer Fragen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "28",
@@ -60,7 +66,8 @@
         "Paraphrase":  "ChatGPT ist als gängiges Hilfsmittel für Studenten nicht geeignet, da man das wissenschaftliche Schreiben verlernen und in Abhängigkeit von ChatGPT geraten kann.",
         "Generalisierung":  "Nicht geeignet als gängiges Hilfsmittel für Studenten wegen möglichem Verlernen des wissenschaftlichen Schreibens und Abhängigkeit.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "28",
@@ -69,7 +76,8 @@
         "Paraphrase":  "Die Unterstützung von ChatGPT bei dieser Hausarbeit war zeitsparend und hat meinen Arbeitsprozess erleichtert, indem es effizientes Arbeiten ermöglicht hat.",
         "Generalisierung":  "Zeitsparende Unterstützung und Erleichterung des Arbeitsprozesses durch effizientes Arbeiten mit ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "28",
@@ -78,7 +86,8 @@
         "Paraphrase":  "Die präzisen Antworten und schnelle Reaktionszeit haben meine Effizienz gesteigert und mir geholfen, umfassende Informationen zu erhalten.",
         "Generalisierung":  "Präzise Antworten und schnelle Reaktionszeit steigern Effizienz und helfen, umfassende Informationen zu erhalten.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "28",
@@ -87,6 +96,7 @@
         "Paraphrase":  "Ich schätze die Leistungsfähigkeit von ChatGPT und sehe großes Potenzial, bin jedoch unsicher, ob es als erlaubtes Hilfsmittel etabliert werden sollte.",
         "Generalisierung":  "Unsicherheit über die Etablierung von ChatGPT als erlaubtes Hilfsmittel trotz Leistungsfähigkeit und Potenzial.",
         "Kategorie":  "Sonstiges",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     }
 ]

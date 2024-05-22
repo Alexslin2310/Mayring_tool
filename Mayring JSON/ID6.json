@@ -6,7 +6,8 @@
         "Paraphrase":  "ChatGPT ist vorteilhaft für Menschen mit Schwierigkeiten beim Schreiben, sodass sie sich auf ihre Stärken wie Mathematik konzentrieren können.",
         "Generalisierung":  "ChatGPT unterstützt Personen mit Schreibschwierigkeiten und ermöglicht Fokussierung auf Stärken.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "6",
@@ -15,7 +16,8 @@
         "Paraphrase":  "KI-Systeme sollten integriert werden, solange klar ist, welche Teile von ChatGPT erstellt wurden.",
         "Generalisierung":  "Integration von KI mit klarer Kennzeichnung der von ChatGPT erstellten Teile.",
         "Kategorie":  "Sonstiges",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "6",
@@ -24,7 +26,8 @@
         "Paraphrase":  "Alleinige Nutzung von ChatGPT könnte den Lerneffekt beeinträchtigen, da Schüler keine eigenen Denk- und Recherchefähigkeiten entwickeln.",
         "Generalisierung":  "Alleinige Nutzung von ChatGPT kann die Entwicklung eigener Denk- und Recherchefähigkeiten beeinträchtigen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "6",
@@ -33,7 +36,8 @@
         "Paraphrase":  "ChatGPT liefert mehr Informationen als gefragt.",
         "Generalisierung":  "ChatGPT liefert umfangreichere Informationen als angefragt.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "6",
@@ -42,7 +46,8 @@
         "Paraphrase":  "ChatGPT hilft, komplexe Fragen zu beantworten, Ideen zu generieren und Gedanken zu strukturieren.",
         "Generalisierung":  "Unterstützung durch ChatGPT bei komplexen Fragen, Ideenfindung und Strukturierung von Gedanken.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "6",
@@ -51,7 +56,8 @@
         "Paraphrase":  "ChatGPT ermöglicht schnellen Informationszugriff und Fokus auf Inhalte der Hausarbeit statt auf das Schreiben.",
         "Generalisierung":  "Schneller Informationszugriff und Fokus auf Inhalte durch ChatGPT.",
         "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "6",
@@ -60,7 +66,8 @@
         "Paraphrase":  "ChatGPT hilft bei Rechtschreibung, Grammatik und Formulierung, was die Qualität meiner Arbeit verbessert.",
         "Generalisierung":  "Verbesserung der Arbeitsqualität durch Unterstützung bei Rechtschreibung, Grammatik und Formulierung durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "6",
@@ -69,7 +76,8 @@
         "Paraphrase":  "ChatGPT hat meine Produktivität gesteigert und mir geholfen, mich auf meine Stärken zu konzentrieren, während ich viele Informationen und Hilfestellungen erhalte.",
         "Generalisierung":  "Steigerung der Produktivität und Fokussierung auf Stärken durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "6",
@@ -78,7 +86,8 @@
         "Paraphrase":  "Es ist wichtig, die Ergebnisse von ChatGPT kritisch zu bewerten und die Texte zu überprüfen, um wissenschaftliche Standards zu gewährleisten.",
         "Generalisierung":  "Kritische Bewertung und Überprüfung der Ergebnisse von ChatGPT für wissenschaftliche Standards.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "6",
@@ -87,6 +96,7 @@
         "Paraphrase":  "ChatGPT ist ein wertvolles Werkzeug, das meinen Schreibprozess effizienter und effektiver macht und zu einer erfolgreichen Hausarbeit beiträgt.",
         "Generalisierung":  "Wertvolles Werkzeug ChatGPT für effizienten und effektiven Schreibprozess.",
         "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     }
 ]

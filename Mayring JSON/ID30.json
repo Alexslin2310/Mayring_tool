@@ -6,7 +6,8 @@
         "Paraphrase":  "Jeder Nutzer muss sich registrieren, aber OpenAI unterliegt nicht der europäischen Datenschutzverordnung (DSGVO), was zu Bedenken hinsichtlich der Speicherung und Verarbeitung personenbezogener Daten führt.",
         "Generalisierung":  "Registrierung erforderlich, aber OpenAI unterliegt nicht der DSGVO, was Bedenken bezüglich Datenschutz verursacht.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "30",
@@ -15,7 +16,8 @@
         "Paraphrase":  "Nach wenigen Minuten verstand man die KI und wusste, wie man sie bedienen muss. ChatGPT ist strukturiert, übersichtlich und nachvollziehbar, was die Bedienung erleichtert.",
         "Generalisierung":  "ChatGPT ist strukturiert, übersichtlich und nachvollziehbar, was die Bedienung erleichtert.",
         "Kategorie":  "Benutzerfreundlichkeit",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "30",
@@ -24,7 +26,8 @@
         "Paraphrase":  "Die KI verwechselte die Firma häufig mit einer anderen und konnte nicht die erwarteten Texte generieren.",
         "Generalisierung":  "KI verwechselte die Firma häufig und generierte nicht die erwarteten Texte.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "30",
@@ -33,7 +36,8 @@
         "Paraphrase":  "Die KI verlangte viel eigenen Input, um grundlegendes Basiswissen zu erlangen, was als Nachteil empfunden wurde, da erwartet wurde, dass die KI Daten aus dem Internet extrahiert, um Texte zu schreiben.",
         "Generalisierung":  "KI verlangte viel eigenen Input, um Basiswissen zu erlangen, was als Nachteil empfunden wurde.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "30",
@@ -42,7 +46,8 @@
         "Paraphrase":  "Der Schutz der Unternehmensdaten konnte nicht sichergestellt werden, da die Anwendung nicht DSGVO-konform ist.",
         "Generalisierung":  "Schutz der Unternehmensdaten nicht sichergestellt, da Anwendung nicht DSGVO-konform.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "30",
@@ -51,7 +56,8 @@
         "Paraphrase":  "Nachdem viel Input in einzelne Chats übertragen wurde, stellte sich heraus, dass alle Informationen in einen Chat übertragen werden können, damit die KI auf vorherige Daten zurückgreifen kann.",
         "Generalisierung":  "Alle Informationen können in einen Chat übertragen werden, damit die KI auf vorherige Daten zurückgreifen kann.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "30",
@@ -60,7 +66,8 @@
         "Paraphrase":  "Positiv war, dass ChatGPT fachliche Theorien und Modelle korrekt erläutern und weiterverarbeiten konnte, was auf umfangreiches Fachwissen hinweist.",
         "Generalisierung":  "ChatGPT kann fachliche Theorien und Modelle korrekt erläutern und weiterverarbeiten, zeigt umfangreiches Fachwissen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "30",
@@ -69,7 +76,8 @@
         "Paraphrase":  "Die Arbeit mit der KI war verständlich, aber es dauerte einige Zeit, die Anwendung zu verstehen. Eine kurze Einführung hätte geholfen.",
         "Generalisierung":  "Verständliche Arbeit mit der KI, aber Einführung notwendig.",
         "Kategorie":  "Benutzerfreundlichkeit",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "30",
@@ -78,7 +86,8 @@
         "Paraphrase":  "In Zukunft könnte die KI in verschiedenen Unternehmensbereichen eingesetzt werden, z.B. bei der Formulierung von Texten für die Internetseite oder der Erstellung von Arbeitsanweisungen.",
         "Generalisierung":  "KI könnte in Zukunft in verschiedenen Unternehmensbereichen eingesetzt werden.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "30",
@@ -87,7 +96,8 @@
         "Paraphrase":  "KI könnte auch im E-Mail-Verkehr eingesetzt werden, besonders bei internationalen Geschäftsbeziehungen als Übersetzer für die Mitarbeiter.",
         "Generalisierung":  "Einsatz der KI im E-Mail-Verkehr, besonders bei internationalen Geschäftsbeziehungen als Übersetzer.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "30",
@@ -96,7 +106,8 @@
         "Paraphrase":  "Die Arbeit mit der KI sollte an Hochschulen nicht zur Gewohnheit werden, sondern nur als Ergänzung dienen und das eigene Schreiben sowie die ausführliche Auseinandersetzung mit einem Thema nicht ersetzen.",
         "Generalisierung":  "Arbeit mit der KI sollte an Hochschulen nicht zur Gewohnheit werden, sondern nur als Ergänzung dienen.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "30",
@@ -105,7 +116,8 @@
         "Paraphrase":  "Es besteht die Gefahr, dass falsche oder ungenaue Informationen durch die KI generiert werden, weshalb die Überprüfung der Daten erforderlich ist.",
         "Generalisierung":  "Gefahr von falschen oder ungenauen Informationen durch die KI, Überprüfung der Daten erforderlich.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "30",
@@ -114,7 +126,8 @@
         "Paraphrase":  "Der Datenschutz von KI wie ChatGPT ist noch verbesserungswürdig.",
         "Generalisierung":  "Datenschutz von KI ist verbesserungswürdig.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "30",
@@ -123,6 +136,7 @@
         "Paraphrase":  "Die Arbeit mit der KI war wertvoll und aufschlussreich, aber die Fähigkeit zur eigenständigen Recherche und Texterstellung bleibt essenziell.",
         "Generalisierung":  "Arbeit mit der KI war wertvoll, aber eigenständige Recherche und Texterstellung bleibt essenziell.",
         "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     }
 ]

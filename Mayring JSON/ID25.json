@@ -6,7 +6,8 @@
         "Paraphrase":  "ChatGPT bietet viele Vorteile und sollte im Studium öfter erlaubt werden.",
         "Generalisierung":  "Viele Vorteile von ChatGPT, sollte im Studium öfter erlaubt werden.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "25",
@@ -15,7 +16,8 @@
         "Paraphrase":  "Die Anwendung von ChatGPT war einfach und lieferte schnelle Antworten bei grundlegender Formulierung der Fragen.",
         "Generalisierung":  "Einfache Anwendung und schnelle Antworten bei grundlegender Formulierung der Fragen.",
         "Kategorie":  "Benutzerfreundlichkeit",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "25",
@@ -24,7 +26,8 @@
         "Paraphrase":  "Die Detailliertheit der Eingaben hing von der Fragestellung ab. Präzisere und spezifischere Fragen führten zu besseren und relevanteren Antworten.",
         "Generalisierung":  "Präzisere und spezifischere Fragen führen zu besseren und relevanteren Antworten.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "25",
@@ -33,7 +36,8 @@
         "Paraphrase":  "Allgemeinere Eingaben führten manchmal zu fehlerhaften Informationen, was zu Problemen beim Kontextverständnis führte.",
         "Generalisierung":  "Allgemeinere Eingaben können zu fehlerhaften Informationen und Problemen beim Kontextverständnis führen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "25",
@@ -42,7 +46,8 @@
         "Paraphrase":  "Das Modell erfasste manchmal den Kontext der Frage nicht vollständig und gab unpassende oder zu allgemeine Antworten.",
         "Generalisierung":  "Unvollständiges Erfassen des Kontexts führt zu unpassenden oder allgemeinen Antworten.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "25",
@@ -51,7 +56,8 @@
         "Paraphrase":  "In solchen Fällen musste ich die Fragen klarer formulieren oder zusätzliche Informationen geben, um bessere Ergebnisse zu erzielen.",
         "Generalisierung":  "Klarere Formulierung der Fragen oder zusätzliche Informationen führen zu besseren Ergebnissen.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "25",
@@ -60,7 +66,8 @@
         "Paraphrase":  "ChatGPT kann nützliche Unterstützung bei Hausarbeiten bieten, wenn es richtig eingesetzt wird.",
         "Generalisierung":  "ChatGPT kann nützliche Unterstützung bei Hausarbeiten bieten.",
         "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "25",
@@ -69,7 +76,8 @@
         "Paraphrase":  "ChatGPT ermöglicht den Studierenden, Informationen zu recherchieren, komplexe Fragen zu klären und bietet Formulierungshilfen.",
         "Generalisierung":  "Ermöglicht Recherche, Klärung komplexer Fragen und bietet Formulierungshilfen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "25",
@@ -78,7 +86,8 @@
         "Paraphrase":  "Studierende sollten weiterhin über eigenes Verständnis des Themas verfügen und kritisch bewerten, welche Informationen sie verwenden.",
         "Generalisierung":  "Eigenes Verständnis des Themas und kritische Bewertung der Informationen sind notwendig.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "25",
@@ -87,7 +96,8 @@
         "Paraphrase":  "Lehrende sollten den Einsatz von ChatGPT in bestimmten Bereichen des Studiums erlauben, wie beim Sammeln von Informationen, Formulieren von Texten oder Klären von Verständnisfragen. ChatGPT kann die Arbeitsprozesse der Studierenden optimieren und ihre Arbeit effizienter gestalten.",
         "Generalisierung":  "Einsatz von ChatGPT in bestimmten Bereichen des Studiums sollte erlaubt werden, um Arbeitsprozesse zu optimieren und Effizienz zu steigern.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "25",
@@ -96,7 +106,8 @@
         "Paraphrase":  "ChatGPT kann helfen, die Kreativität anzuregen und neue Perspektiven zu finden.",
         "Generalisierung":  "Hilft, Kreativität anzuregen und neue Perspektiven zu finden.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "25",
@@ -105,7 +116,8 @@
         "Paraphrase":  "ChatGPT kann ein wertvolles Tool für Studierende sein, da es schnellen Zugang zu Informationen ermöglicht und den Lernprozess unterstützt.",
         "Generalisierung":  "ChatGPT kann wertvolles Tool sein, das schnellen Zugang zu Informationen ermöglicht und den Lernprozess unterstützt.",
         "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "25",
@@ -114,6 +126,7 @@
         "Paraphrase":  "Durch die Einbeziehung von ChatGPT in Prüfungsleistungen können Studierende ihr Wissen und ihre Fähigkeiten unter Beweis stellen, da die Informationen auf Richtigkeit überprüft werden müssen.",
         "Generalisierung":  "Einbeziehung von ChatGPT in Prüfungsleistungen ermöglicht es Studierenden, ihr Wissen und ihre Fähigkeiten zu beweisen, da die Informationen auf Richtigkeit überprüft werden müssen.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     }
 ]

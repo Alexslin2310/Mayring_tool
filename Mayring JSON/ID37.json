@@ -6,7 +6,8 @@
         "Paraphrase":  "ChatGPT kann helfen, eine Richtung vorzugeben und ein allgemeines Konzept für die Arbeit zu entwickeln.",
         "Generalisierung":  "ChatGPT hilft, Richtung und Konzept für die Arbeit zu entwickeln.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "37",
@@ -15,7 +16,8 @@
         "Paraphrase":  "Es ist besonders nützlich, um grundlegende Informationen zu liefern, alternative Ansätze zu diskutieren und mögliche Quellen zu identifizieren.",
         "Generalisierung":  "Nützlich für grundlegende Informationen, alternative Ansätze und Quellenidentifikation.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "37",
@@ -24,7 +26,8 @@
         "Paraphrase":  "Darüber hinaus kann ChatGPT bei der Formulierung von Gedanken und Ideen unterstützen.",
         "Generalisierung":  "Unterstützt bei der Formulierung von Gedanken und Ideen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "37",
@@ -33,7 +36,8 @@
         "Paraphrase":  "Ein Hauptproblem ist, dass ChatGPT keinen Zugang zu Vorlesungsinhalten oder aktualisierten Informationen hat, die für die Hausarbeit relevant sein könnten.",
         "Generalisierung":  "Kein Zugang zu Vorlesungsinhalten oder aktualisierten Informationen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "37",
@@ -42,7 +46,8 @@
         "Paraphrase":  "Studierende müssen diese Informationen selbst recherchieren und ihre eigenen Kenntnisse in die Hausarbeit einfließen lassen.",
         "Generalisierung":  "Studierende müssen Informationen selbst recherchieren und eigenes Wissen einbringen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "37",
@@ -51,7 +56,8 @@
         "Paraphrase":  "Ein weiteres Problem ist, dass ChatGPT möglicherweise keine zuverlässigen oder aktuellen Quellen berücksichtigt und Schwierigkeiten hat, die Qualität und Relevanz von Informationen aus dem Internet zu bewerten.",
         "Generalisierung":  "Probleme mit der Berücksichtigung zuverlässiger und aktueller Quellen, Schwierigkeiten bei der Bewertung von Qualität und Relevanz von Informationen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "37",
@@ -60,7 +66,8 @@
         "Paraphrase":  "Studierende sollten immer kritisch prüfen, ob die von ChatGPT vorgeschlagenen Quellen vertrauenswürdig und akademisch angemessen sind. Es ist ratsam, die Ergebnisse von ChatGPT mit anderen Quellen abzugleichen, um sicherzustellen, dass die Informationen korrekt und zuverlässig sind.",
         "Generalisierung":  "Studierende sollten die von ChatGPT vorgeschlagenen Quellen kritisch prüfen und mit anderen Quellen abgleichen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "37",
@@ -69,7 +76,8 @@
         "Paraphrase":  "Ein weiterer Aspekt ist die Aufgabenbeschreibung. ChatGPT kann die Aufgabenstellung möglicherweise nicht vollständig verstehen oder alle spezifischen Anforderungen erfassen.",
         "Generalisierung":  "ChatGPT kann Aufgabenstellung möglicherweise nicht vollständig verstehen oder spezifische Anforderungen erfassen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "37",
@@ -78,7 +86,8 @@
         "Paraphrase":  "Es ist wichtig, die Aufgabenstellung klar und präzise zu formulieren, um sicherzustellen, dass ChatGPT die richtigen Informationen und Antworten liefern kann.",
         "Generalisierung":  "Aufgabenstellung klar und präzise formulieren, um richtige Informationen und Antworten zu erhalten.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "37",
@@ -87,7 +96,8 @@
         "Paraphrase":  "Es sollte beachtet werden, dass ChatGPT möglicherweise nicht in der Lage ist, komplexe Aufgabenstellungen vollständig zu bearbeiten.",
         "Generalisierung":  "ChatGPT kann möglicherweise komplexe Aufgabenstellungen nicht vollständig bearbeiten.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "37",
@@ -96,7 +106,8 @@
         "Paraphrase":  "Die Verwendung von ChatGPT bei Hausarbeiten kann für die Hochschule eine nützliche Ergänzung sein, um Denkanstöße zu erhalten, verschiedene Perspektiven zu erkunden und ein grundlegendes Konzept zu entwickeln.",
         "Generalisierung":  "Verwendung von ChatGPT bei Hausarbeiten kann nützliche Ergänzung sein für Denkanstöße, Perspektiven und Konzeptentwicklung.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "37",
@@ -105,7 +116,8 @@
         "Paraphrase":  "Es ist wichtig, die Ergebnisse von ChatGPT kritisch zu hinterfragen, eigene Recherchen durchzuführen und die Informationen mit zuverlässigen Quellen abzugleichen.",
         "Generalisierung":  "Ergebnisse von ChatGPT kritisch hinterfragen, eigene Recherchen durchführen und mit zuverlässigen Quellen abgleichen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "37",
@@ -114,7 +126,8 @@
         "Paraphrase":  "Studierende sollten wissen, dass ChatGPT nicht als Ersatz für eigene Arbeit und kritisches Denken dient, sondern als Werkzeug, um sie bei Forschung und Schreibprozess zu unterstützen.",
         "Generalisierung":  "ChatGPT ist Werkzeug, kein Ersatz für eigene Arbeit und kritisches Denken.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "37",
@@ -123,7 +136,8 @@
         "Paraphrase":  "Ein vielversprechender Aspekt ist der potenzielle Zugriff auf aktuelle Forschungsergebnisse. Zukünftige ChatGPT-Versionen könnten auf hochwertige und aktuelle Informationen aus Forschungsdatenbanken zugreifen, wodurch Studierende von den neuesten Erkenntnissen profitieren und ihre Hausarbeiten bereichern könnten.",
         "Generalisierung":  "Zukünftige Versionen könnten auf aktuelle Forschungsergebnisse zugreifen, um Studierende zu unterstützen.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "37",
@@ -132,7 +146,8 @@
         "Paraphrase":  "Eine weitere Entwicklungsmöglichkeit besteht in der Unterstützung bei der Zitationsarbeit. Zukünftige ChatGPT-Versionen könnten automatische Quellenangaben und verschiedene Zitierstile bieten, was den Studierenden Zeit bei der Formatierung spart und eine korrekte Zitationspraxis erleichtert.",
         "Generalisierung":  "Zukünftige Versionen könnten bei der Zitationsarbeit unterstützen und die Quellenangaben automatisieren.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "37",
@@ -141,7 +156,8 @@
         "Paraphrase":  "Zukünftige Versionen von ChatGPT könnten eine stärkere Personalisierung und Anpassung an die individuellen Bedürfnisse der Studierenden ermöglichen, indem sie den individuellen Fortschritt, Interessen und Fachwissen berücksichtigen und personalisierte Empfehlungen und Anleitungen bieten.",
         "Generalisierung":  "Zukünftige Versionen könnten stärkere Personalisierung und Anpassung an individuelle Bedürfnisse bieten.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "37",
@@ -150,7 +166,8 @@
         "Paraphrase":  "Es ist wichtig zu beachten, dass der Einsatz von ChatGPT auch zukünftig seine Grenzen haben wird. Studierende sollten ihre kritischen Denk- und Forschungsfähigkeiten weiterentwickeln und einsetzen.",
         "Generalisierung":  "Einsatz von ChatGPT hat Grenzen, Studierende sollten kritische Denk- und Forschungsfähigkeiten weiterentwickeln.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "37",
@@ -159,7 +176,8 @@
         "Paraphrase":  "ChatGPT kann als hilfreiches Werkzeug dienen, um Denkanstöße zu geben und Informationen bereitzustellen, aber es sollte nicht als Ersatz für eigenständiges Lernen und Denken betrachtet werden.",
         "Generalisierung":  "ChatGPT ist ein Werkzeug für Denkanstöße und Informationen, aber kein Ersatz für eigenständiges Lernen und Denken.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "37",
@@ -168,6 +186,7 @@
         "Paraphrase":  "Der verantwortungsbewusste Einsatz von ChatGPT kann den Schreibprozess erleichtern, sollte aber immer als Ergänzung zum eigenen Lernen und Denken betrachtet werden.",
         "Generalisierung":  "Verantwortungsbewusster Einsatz von ChatGPT erleichtert den Schreibprozess, sollte als Ergänzung zum eigenen Lernen und Denken betrachtet werden.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     }
 ]

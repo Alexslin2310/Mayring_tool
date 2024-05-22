@@ -6,7 +6,8 @@
         "Paraphrase":  "ChatGPT kann beeindruckend auf verschiedene Fragen und Anliegen reagieren.",
         "Generalisierung":  "Beeindruckende Fähigkeit von ChatGPT, auf verschiedene Fragen und Anliegen zu reagieren.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "10",
@@ -15,7 +16,8 @@
         "Paraphrase":  "ChatGPT half mir, Informationen und Lösungen für meine Anfragen zu finden.",
         "Generalisierung":  "Hilfestellung von ChatGPT bei der Informationsbeschaffung und Lösungssuche.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "10",
@@ -24,7 +26,8 @@
         "Paraphrase":  "Ein Vorteil von ChatGPT ist das Wissen aus einer umfangreichen Datenbank bis 2021.",
         "Generalisierung":  "Vorteil von ChatGPT ist die umfangreiche Wissensdatenbank bis 2021.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "10",
@@ -33,7 +36,8 @@
         "Paraphrase":  "ChatGPT konnte auf viele Themen zugreifen und Antworten basierend auf vorhandenem Wissen liefern, was mir half, ohne aufwendige Recherche Informationen zu erhalten.",
         "Generalisierung":  "ChatGPT kann auf viele Themen zugreifen und Antworten ohne aufwendige Recherche liefern.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "10",
@@ -42,7 +46,8 @@
         "Paraphrase":  "ChatGPT ist anpassungsfähig und liefert individuelle Antworten auf spezifische Anfragen, was eine personalisierte Interaktion und effiziente Kommunikation ermöglicht.",
         "Generalisierung":  "Anpassungsfähigkeit von ChatGPT ermöglicht personalisierte Interaktion und effiziente Kommunikation.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "10",
@@ -51,7 +56,8 @@
         "Paraphrase":  "ChatGPT hat eine umfangreiche Wissensdatenbank, aber aufgrund der Begrenzung bis 2021 kann es keine aktuellen Informationen bereitstellen.",
         "Generalisierung":  "ChatGPT hat Begrenzungen bei aktuellen Informationen wegen der Wissensdatenbank bis 2021.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "10",
@@ -60,7 +66,8 @@
         "Paraphrase":  "Es ist notwendig, die von ChatGPT bereitgestellten Informationen zu überprüfen und zu aktualisieren.",
         "Generalisierung":  "Überprüfung und Aktualisierung der Informationen von ChatGPT sind notwendig.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "10",
@@ -69,7 +76,8 @@
         "Paraphrase":  "ChatGPT hat moralische und kulturelle Begrenzungen und kann Vorurteile und Voreingenommenheiten aufweisen. Es ist wichtig, dies zu beachten und die Informationen kritisch zu hinterfragen.",
         "Generalisierung":  "Moralische und kulturelle Begrenzungen von ChatGPT erfordern kritische Hinterfragung der Informationen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "10",
@@ -78,7 +86,8 @@
         "Paraphrase":  "Ich sehe Potenzial für den zukünftigen Einsatz von ChatGPT, besonders für schnellen Informationszugriff und Unterstützung bei kreativen Aufgaben.",
         "Generalisierung":  "Zukünftiges Potenzial von ChatGPT für schnellen Informationszugriff und kreative Aufgaben.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "10",
@@ -87,7 +96,8 @@
         "Paraphrase":  "Es ist sinnvoll, ChatGPT durch menschliche Experten zu ergänzen, um aktuelle Informationen, moralische Aspekte und eine menschliche Perspektive zu berücksichtigen.",
         "Generalisierung":  "Ergänzung von ChatGPT durch menschliche Experten für aktuelle Informationen und moralische Aspekte.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "10",
@@ -96,7 +106,8 @@
         "Paraphrase":  "ChatGPT bietet schnellen Wissenszugriff und Unterstützung bei verschiedenen Aufgaben.",
         "Generalisierung":  "Schneller Wissenszugriff und Unterstützung bei Aufgaben durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "10",
@@ -105,7 +116,8 @@
         "Paraphrase":  "Es ist wichtig, die Grenzen von ChatGPT zu verstehen und die Informationen kritisch zu bewerten.",
         "Generalisierung":  "Verständnis der Grenzen von ChatGPT und kritische Bewertung der Informationen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "10",
@@ -114,6 +126,7 @@
         "Paraphrase":  "Eine Kombination aus ChatGPT und menschlicher Expertise kann optimale Ergebnisse liefern.",
         "Generalisierung":  "Optimale Ergebnisse durch Kombination von ChatGPT und menschlicher Expertise.",
         "Kategorie":  "Sonstiges",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     }
 ]

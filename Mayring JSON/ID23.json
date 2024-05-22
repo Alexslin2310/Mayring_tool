@@ -6,7 +6,8 @@
         "Paraphrase":  "Das Verfassen einer Hausarbeit mit ChatGPT war länger und komplexer als erwartet.",
         "Generalisierung":  "Verfassen einer Hausarbeit mit ChatGPT war länger und komplexer als erwartet.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "23",
@@ -15,7 +16,8 @@
         "Paraphrase":  "ChatGPT ist hilfreich bei Texterstellung, Korrektur und Umformulierung.",
         "Generalisierung":  "ChatGPT ist hilfreich bei Texterstellung, Korrektur und Umformulierung.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "23",
@@ -24,7 +26,8 @@
         "Paraphrase":  "Für die Erstellung eines Textes für eine wissenschaftliche Arbeit mit ChatGPT muss der Anwender bei komplexen Fragen sehr detaillierte Eingaben machen, da ansonsten die Antworten zu allgemein sind.",
         "Generalisierung":  "Sehr detaillierte Eingaben notwendig für präzise Antworten bei wissenschaftlichen Arbeiten.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "23",
@@ -33,7 +36,8 @@
         "Paraphrase":  "Bei längeren Konversationen bezieht sich die KI auf frühere Textelemente und lernt dazu, um präzisere Antworten zu liefern.",
         "Generalisierung":  "KI lernt bei längeren Konversationen dazu und liefert präzisere Antworten.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "23",
@@ -42,7 +46,8 @@
         "Paraphrase":  "Ein Problem war, dass die Texte sich oft ähnelten, selbst bei alternativen Formulierungen oder veränderten Fragestellungen, und Aufzählungen manchmal zusammenhangslos waren.",
         "Generalisierung":  "Texte ähnelten sich oft und Aufzählungen waren manchmal zusammenhangslos.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "23",
@@ -51,7 +56,8 @@
         "Paraphrase":  "ChatGPT war am hilfreichsten bei der Erstellung eines Grundgerüsts für den Text, wodurch das Verfassen schneller ging als aus dem Kopf heraus.",
         "Generalisierung":  "Hilfreich bei der Erstellung eines Grundgerüsts für den Text und schneller als aus dem Kopf heraus.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "23",
@@ -60,7 +66,8 @@
         "Paraphrase":  "ChatGPT hilft zuverlässig beim Aufbau komplizierter Sätze, beim Finden von Synonymen und bei der Fehlervermeidung in der Rechtschreibung.",
         "Generalisierung":  "Zuverlässige Hilfe bei komplizierten Sätzen, Synonymen und Rechtschreibfehlervermeidung.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "23",
@@ -69,7 +76,8 @@
         "Paraphrase":  "ChatGPT kann Fließtext generieren und gleichzeitig Verständnisfragen klären, was der KI hilft, das Thema besser zu verstehen und präzisere Antworten zu geben.",
         "Generalisierung":  "Fließtextgenerierung und gleichzeitige Klärung von Verständnisfragen helfen der KI, das Thema besser zu verstehen und präzisere Antworten zu geben.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "23",
@@ -78,7 +86,8 @@
         "Paraphrase":  "Ich bin skeptisch gegenüber dem Einsatz von ChatGPT im Studium.",
         "Generalisierung":  "Skepsis gegenüber dem Einsatz von ChatGPT im Studium.",
         "Kategorie":  "Sonstiges",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "23",
@@ -87,7 +96,8 @@
         "Paraphrase":  "Die KI ist sehr hilfreich, aber es besteht die Gefahr, dass der Student sich zu sehr auf den Chatbot verlässt, was das eigene Denken und die Kreativität einschränkt und den Lerneffekt vermindert.",
         "Generalisierung":  "Gefahr der Abhängigkeit vom Chatbot, Einschränkung des eigenen Denkens und der Kreativität, Verminderung des Lerneffekts.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "23",
@@ -96,7 +106,8 @@
         "Paraphrase":  "Bei hochschulweiter Legalisierung kann bei Haus-, Projekt-, Bachelor- oder Masterarbeiten nicht mehr von Eigenleistung gesprochen werden.",
         "Generalisierung":  "Hochschulweite Legalisierung führt zu mangelnder Eigenleistung bei Arbeiten.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "23",
@@ -105,7 +116,8 @@
         "Paraphrase":  "Mögliche Einsatzbereiche von ChatGPT im Studium sind Prüfungsvorbereitung, Erstellung von Übungsaufgaben, Zusammenfassung von Lehrinhalten und detaillierte Beschreibung von Sachverhalten.",
         "Generalisierung":  "Einsatzbereiche von ChatGPT im Studium: Prüfungsvorbereitung, Übungsaufgaben, Zusammenfassung von Lehrinhalten, Beschreibung von Sachverhalten.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "23",
@@ -114,6 +126,7 @@
         "Paraphrase":  "Zukünftige Studierende sollten auf solche Hilfsmittel verzichten, da der Lerneffekt darunter leiden könnte.",
         "Generalisierung":  "Verzicht auf solche Hilfsmittel empfohlen wegen möglicher Verminderung des Lerneffekts.",
         "Kategorie":  "Sonstiges",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     }
 ]

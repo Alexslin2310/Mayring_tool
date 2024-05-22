@@ -6,7 +6,8 @@
         "Paraphrase":  "Die Kapitel konnten reibungslos erstellt werden.",
         "Generalisierung":  "Reibungslose Erstellung von Kapiteln mit ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "16",
@@ -15,7 +16,8 @@
         "Paraphrase":  "Die Herausforderung bestand darin, ChatGPT die richtigen Befehle zu geben.",
         "Generalisierung":  "Herausforderung bei der Eingabe der richtigen Befehle an ChatGPT.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "16",
@@ -24,7 +26,8 @@
         "Paraphrase":  "Die Möglichkeit, Befehle immer wieder zu optimieren, ist ein großer Vorteil.",
         "Generalisierung":  "Großer Vorteil: Möglichkeit zur ständigen Optimierung der Befehle.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "16",
@@ -33,7 +36,8 @@
         "Paraphrase":  "Ein Vorteil ist die Zeitersparnis durch gute Befehlseingabe, da das Schreiben von 1-2 Seiten zu einem Kapitel weniger Zeit benötigt, wenn man dem Chat die wichtigsten Kennzahlen liefert.",
         "Generalisierung":  "Zeitersparnis durch gute Befehlseingabe und Nutzung von ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "16",
@@ -42,7 +46,8 @@
         "Paraphrase":  "Die Sprache von ChatGPT ist neutral und sauber.",
         "Generalisierung":  "Neutrale und saubere Sprache von ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "16",
@@ -51,7 +56,8 @@
         "Paraphrase":  "Ein weiterer Vorteil ist die Möglichkeit der Optimierung, indem man den Befehl umschreibt und eine andere Lösung erhält.",
         "Generalisierung":  "Optimierung der Ergebnisse durch Umschreiben der Befehle.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "16",
@@ -60,7 +66,8 @@
         "Paraphrase":  "Man kann ChatGPT problemlos bitten, einen Text länger oder kürzer zu verfassen.",
         "Generalisierung":  "Problemlose Anpassung der Textlänge mit ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "16",
@@ -69,7 +76,8 @@
         "Paraphrase":  "Die Sprache von ChatGPT ist immer im gleichen Stil und dieser Stil lässt sich nicht ändern.",
         "Generalisierung":  "Unveränderlicher Stil der Sprache von ChatGPT.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "16",
@@ -78,7 +86,8 @@
         "Paraphrase":  "Die Aufzählungen und Erklärungen sind alle ähnlich.",
         "Generalisierung":  "Ähnliche Aufzählungen und Erklärungen von ChatGPT.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "16",
@@ -87,7 +96,8 @@
         "Paraphrase":  "Der größte Nachteil war, dass ChatGPT oft ausgelastet ist und nach jeder Anfrage entschuldigte sich und schrieb, dass der Chat ausgelastet ist.",
         "Generalisierung":  "Häufige Auslastung von ChatGPT als großer Nachteil.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "16",
@@ -96,7 +106,8 @@
         "Paraphrase":  "ChatGPT verwies immer darauf, einen Account zu erstellen, um die Auslastung zu umgehen, was mich beim Bearbeiten störte.",
         "Generalisierung":  "Hinweis auf Account-Erstellung zur Umgehung der Auslastung störend.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     },
     {
         "ID":  "16",
@@ -105,6 +116,7 @@
         "Paraphrase":  "Zukünftig werden Kenntnisse in ChatGPT oder Midjourney neben Word und PowerPoint in Bewerbungen erforderlich sein.",
         "Generalisierung":  "Zukünftig erforderliche Kenntnisse in ChatGPT und Midjourney in Bewerbungen.",
         "Kategorie":  "Sonstiges",
-        "Subkategorie":  ""
+        "Subkategorie":  "",
+        "Visible":  true
     }
 ]
