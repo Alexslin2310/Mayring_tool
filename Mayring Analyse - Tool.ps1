@@ -77,6 +77,19 @@ function Load-CategoryData {
     }
 }
 
+# Function to create colored header
+function Create-ColoredHeader {
+    param (
+        [string]$text,
+        [string]$color
+    )
+
+    $header = [Windows.Markup.XamlReader]::Parse(
+        "<TextBlock xmlns='http://schemas.microsoft.com/winfx/2006/xaml/presentation' Text='$text' Foreground='$color' />"
+    )
+    return $header
+}
+
 # Function to populate TreeView with analysis results
 function Populate-TreeView {
     param (
@@ -100,8 +113,15 @@ function Populate-TreeView {
         # Sort category items by ID and Nummer
         $categoryItems = $categoryItems | Sort-Object -Property ID, Nummer
 
+        $uniqueIDsCount = ($categoryItems | Select-Object -Unique -Property ID).Count
+
         $categoryNode = New-Object System.Windows.Controls.TreeViewItem
-        $categoryNode.Header = "$category (Count: $($categoryItems.Count))"
+        $headerPanel = New-Object System.Windows.Controls.StackPanel
+        $headerPanel.Orientation = "Horizontal"
+        $headerPanel.Children.Add((Create-ColoredHeader -text "$category" -color "Black"))
+        $headerPanel.Children.Add((Create-ColoredHeader -text " (Total: $($categoryItems.Count))" -color "Blue"))
+        $headerPanel.Children.Add((Create-ColoredHeader -text " (Unique IDs: $uniqueIDsCount)" -color "Green"))
+        $categoryNode.Header = $headerPanel
         $categoryNode.Tag = @{"Type"="Category"; "Items"=$categoryItems}
         $treeView.Items.Add($categoryNode)
 
@@ -114,8 +134,15 @@ function Populate-TreeView {
             # Sort subcategory items by ID and Nummer
             $subCategoryItems = $subCategoryItems | Sort-Object -Property ID, Nummer
 
+            $uniqueIDsCountSub = ($subCategoryItems | Select-Object -Unique -Property ID).Count
+
             $subCategoryNode = New-Object System.Windows.Controls.TreeViewItem
-            $subCategoryNode.Header = "$subCategory (Count: $($subCategoryItems.Count))"
+            $headerPanelSub = New-Object System.Windows.Controls.StackPanel
+            $headerPanelSub.Orientation = "Horizontal"
+            $headerPanelSub.Children.Add((Create-ColoredHeader -text "$subCategory" -color "Black"))
+            $headerPanelSub.Children.Add((Create-ColoredHeader -text " (Total: $($subCategoryItems.Count))" -color "Blue"))
+            $headerPanelSub.Children.Add((Create-ColoredHeader -text " (Unique IDs: $uniqueIDsCountSub)" -color "Green"))
+            $subCategoryNode.Header = $headerPanelSub
             $subCategoryNode.Tag = @{"Type"="SubCategory"; "Items"=$subCategoryItems}
             $categoryNode.Items.Add($subCategoryNode)
         }

@@ -34,10 +34,10 @@
         "Nummer":  "4",
         "Textausschnitt":  "Die größten Probleme traten auf, wenn meine Fragen unklar oder nicht spezifisch genug formuliert waren. In solchen Fällen konnte ChatGPT keine präzisen Antworten liefern und bat oft um weitere Details.",
         "Paraphrase":  "Probleme entstanden, wenn die Fragen unklar oder unspezifisch waren, ChatGPT konnte dann keine präzisen Antworten liefern und bat um weitere Details.",
-        "Generalisierung":  "Unklare oder unspezifische Fragen führen zu unpräzisen Antworten von ChatGPT und erfordern weitere Details.",
-        "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
-        "Visible":  false
+        "Generalisierung":  "Problem von unpräzisen Antworten, wenn die Frage unklar war.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  "Qualität der Antworten",
+        "Visible":  true
     },
     {
         "ID":  "9",
