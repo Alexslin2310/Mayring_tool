@@ -6,8 +6,8 @@
         "Paraphrase":  "ChatGPT bietet viele Vorteile und sollte im Studium öfter erlaubt werden.",
         "Generalisierung":  "Viele Vorteile von ChatGPT, sollte im Studium öfter erlaubt werden.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Subkategorie":  "Erlauben",
+        "Visible":  false
     },
     {
         "ID":  "25",
@@ -16,7 +16,7 @@
         "Paraphrase":  "Die Anwendung von ChatGPT war einfach und lieferte schnelle Antworten bei grundlegender Formulierung der Fragen.",
         "Generalisierung":  "Einfache Anwendung und schnelle Antworten bei grundlegender Formulierung der Fragen.",
         "Kategorie":  "Benutzerfreundlichkeit",
-        "Subkategorie":  "",
+        "Subkategorie":  "Einfache Bedienung",
         "Visible":  true
     },
     {
@@ -36,7 +36,7 @@
         "Paraphrase":  "Allgemeinere Eingaben führten manchmal zu fehlerhaften Informationen, was zu Problemen beim Kontextverständnis führte.",
         "Generalisierung":  "Allgemeinere Eingaben können zu fehlerhaften Informationen und Problemen beim Kontextverständnis führen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Benutzererfahrung",
         "Visible":  true
     },
     {
@@ -47,7 +47,7 @@
         "Generalisierung":  "Unvollständiges Erfassen des Kontexts führt zu unpassenden oder allgemeinen Antworten.",
         "Kategorie":  "Herausforderungen",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "25",
@@ -57,7 +57,7 @@
         "Generalisierung":  "Klarere Formulierung der Fragen oder zusätzliche Informationen führen zu besseren Ergebnissen.",
         "Kategorie":  "Eingabedetaillierung",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "25",
@@ -65,19 +65,19 @@
         "Textausschnitt":  "Ich bin der Meinung, dass ChatGPT eine nützliche Unterstützung bei Hausarbeiten sein kann, wenn es richtig eingesetzt wird.",
         "Paraphrase":  "ChatGPT kann nützliche Unterstützung bei Hausarbeiten bieten, wenn es richtig eingesetzt wird.",
         "Generalisierung":  "ChatGPT kann nützliche Unterstützung bei Hausarbeiten bieten.",
-        "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  "",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  "Anwendung im akademischen Kontext",
         "Visible":  true
     },
     {
         "ID":  "25",
         "Nummer":  "8",
-        "Textausschnitt":  "Es ermöglicht den Studierenden, Informationen zu recherchieren, komplexe Fragen zu klären und unterstützt dazu noch mit Formulierungshilfen.",
-        "Paraphrase":  "ChatGPT ermöglicht den Studierenden, Informationen zu recherchieren, komplexe Fragen zu klären und bietet Formulierungshilfen.",
-        "Generalisierung":  "Ermöglicht Recherche, Klärung komplexer Fragen und bietet Formulierungshilfen.",
+        "Textausschnitt":  "Es ermöglicht den Studierenden, Informationen zu recherchieren, komplexe Fragen zu klären.",
+        "Paraphrase":  "ChatGPT ermöglicht den Studierenden, Informationen zu recherchieren, komplexe Fragen zu klären.",
+        "Generalisierung":  "Ermöglicht Recherche, Klärung komplexer Fragen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Subkategorie":  "Wissenszugang und -erweiterung",
+        "Visible":  false
     },
     {
         "ID":  "25",
@@ -86,7 +86,7 @@
         "Paraphrase":  "Studierende sollten weiterhin über eigenes Verständnis des Themas verfügen und kritisch bewerten, welche Informationen sie verwenden.",
         "Generalisierung":  "Eigenes Verständnis des Themas und kritische Bewertung der Informationen sind notwendig.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kritisches Denken und Eigenleistung",
         "Visible":  true
     },
     {
@@ -96,7 +96,7 @@
         "Paraphrase":  "Lehrende sollten den Einsatz von ChatGPT in bestimmten Bereichen des Studiums erlauben, wie beim Sammeln von Informationen, Formulieren von Texten oder Klären von Verständnisfragen. ChatGPT kann die Arbeitsprozesse der Studierenden optimieren und ihre Arbeit effizienter gestalten.",
         "Generalisierung":  "Einsatz von ChatGPT in bestimmten Bereichen des Studiums sollte erlaubt werden, um Arbeitsprozesse zu optimieren und Effizienz zu steigern.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Subkategorie":  "Erlauben",
         "Visible":  true
     },
     {
@@ -106,7 +106,7 @@
         "Paraphrase":  "ChatGPT kann helfen, die Kreativität anzuregen und neue Perspektiven zu finden.",
         "Generalisierung":  "Hilft, Kreativität anzuregen und neue Perspektiven zu finden.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kreativität und Ideenfindung",
         "Visible":  true
     },
     {
@@ -115,8 +115,8 @@
         "Textausschnitt":  "Insgesamt denke ich, dass ChatGPT ein wertvolles Tool für Studierende sein kann. Es ermöglicht einen schnellen Zugang zu Informationen und unterstützt den Lernprozess.",
         "Paraphrase":  "ChatGPT kann ein wertvolles Tool für Studierende sein, da es schnellen Zugang zu Informationen ermöglicht und den Lernprozess unterstützt.",
         "Generalisierung":  "ChatGPT kann wertvolles Tool sein, das schnellen Zugang zu Informationen ermöglicht und den Lernprozess unterstützt.",
-        "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  "",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  "Wissenszugang und -erweiterung",
         "Visible":  true
     },
     {
@@ -126,7 +126,7 @@
         "Paraphrase":  "Durch die Einbeziehung von ChatGPT in Prüfungsleistungen können Studierende ihr Wissen und ihre Fähigkeiten unter Beweis stellen, da die Informationen auf Richtigkeit überprüft werden müssen.",
         "Generalisierung":  "Einbeziehung von ChatGPT in Prüfungsleistungen ermöglicht es Studierenden, ihr Wissen und ihre Fähigkeiten zu beweisen, da die Informationen auf Richtigkeit überprüft werden müssen.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Subkategorie":  "Erlauben",
         "Visible":  true
     }
 ]

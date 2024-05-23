@@ -6,7 +6,7 @@
         "Paraphrase":  "Die Anwendung von ChatGPT für meine wissenschaftliche Hausarbeit war sowohl einfach als auch kompliziert.",
         "Generalisierung":  "Anwendung von ChatGPT für wissenschaftliche Hausarbeit war einfach und kompliziert.",
         "Kategorie":  "Benutzerfreundlichkeit",
-        "Subkategorie":  "",
+        "Subkategorie":  "Einfache Bedienung",
         "Visible":  true
     },
     {
@@ -16,7 +16,7 @@
         "Paraphrase":  "Die Benutzeroberfläche war intuitiv und einfach zu bedienen, und das Modell konnte auf meine Fragen mit ersten Antworten reagieren.",
         "Generalisierung":  "Intuitive und einfache Benutzeroberfläche, Modell reagiert auf Fragen mit ersten Antworten.",
         "Kategorie":  "Benutzerfreundlichkeit",
-        "Subkategorie":  "",
+        "Subkategorie":  "Einfache Bedienung",
         "Visible":  true
     },
     {
@@ -56,7 +56,7 @@
         "Paraphrase":  "Meine größten Probleme traten auf, wenn das Modell falsche oder ungenaue Informationen lieferte. Obwohl ChatGPT einen Algorithmus zur Textgenerierung nutzt, ist es anfällig für Fehler und kann irreführende oder unzuverlässige Antworten liefern.",
         "Generalisierung":  "Probleme mit falschen oder ungenauen Informationen; ChatGPT kann irreführende oder unzuverlässige Antworten liefern.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Qualität der Antworten",
         "Visible":  true
     },
     {
@@ -67,7 +67,7 @@
         "Generalisierung":  "Kritische Bewertung und Überprüfung der Informationen erforderlich, um Korrektheit und Vertrauenswürdigkeit sicherzustellen.",
         "Kategorie":  "Herausforderungen",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "36",
@@ -76,8 +76,8 @@
         "Paraphrase":  "ChatGPT konnte mir am meisten helfen, indem es mir eine breite Palette von Informationen und Perspektiven zu meinem Thema zur Verfügung stellte.",
         "Generalisierung":  "Breite Palette von Informationen und Perspektiven zu einem Thema verfügbar.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Subkategorie":  "Wissenszugang und -erweiterung",
+        "Visible":  false
     },
     {
         "ID":  "36",
@@ -86,7 +86,7 @@
         "Paraphrase":  "Es konnte mir helfen, komplexe Konzepte zu erklären und mir neue Denkanstöße zu geben. Es war besonders nützlich, wenn ich schnell einen Überblick über ein Thema oder eine grundlegende Orientierung benötigte.",
         "Generalisierung":  "Hilft bei der Erklärung komplexer Konzepte und gibt neue Denkanstöße, besonders nützlich für schnellen Überblick oder grundlegende Orientierung.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Wissenszugang und -erweiterung",
         "Visible":  true
     },
     {
@@ -96,7 +96,7 @@
         "Paraphrase":  "ChatGPT kann als ergänzendes Tool zur Recherche und zum Brainstorming verwendet werden, um neue Ideen zu generieren und verschiedene Perspektiven zu erkunden.",
         "Generalisierung":  "Ergänzendes Tool zur Recherche und zum Brainstorming, um neue Ideen zu generieren und verschiedene Perspektiven zu erkunden.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kreativität und Ideenfindung",
         "Visible":  true
     },
     {
@@ -106,8 +106,8 @@
         "Paraphrase":  "Es kann auch hilfreich sein, um schnell auf allgemeine Fragen zuzugreifen oder grundlegende Informationen zu erhalten.",
         "Generalisierung":  "Hilfreich für schnellen Zugriff auf allgemeine Fragen oder grundlegende Informationen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Subkategorie":  "Wissenszugang und -erweiterung",
+        "Visible":  false
     },
     {
         "ID":  "36",
@@ -116,7 +116,7 @@
         "Paraphrase":  "Es ist wichtig, die Antworten kritisch zu bewerten und zusätzliche Quellen für die Überprüfung heranzuziehen, um die Genauigkeit und Verlässlichkeit der Informationen sicherzustellen.",
         "Generalisierung":  "Kritische Bewertung der Antworten und Hinzuziehung zusätzlicher Quellen erforderlich, um Genauigkeit und Verlässlichkeit sicherzustellen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kritisches Denken und Eigenleistung",
         "Visible":  true
     },
     {
@@ -126,7 +126,7 @@
         "Paraphrase":  "Wenn das Ziel ist, eigenständige Recherche- und Denkfähigkeiten zu entwickeln, sollte der Einsatz von ChatGPT möglicherweise eingeschränkt oder überwacht werden.",
         "Generalisierung":  "Einsatz von ChatGPT sollte eingeschränkt oder überwacht werden, um eigenständige Recherche- und Denkfähigkeiten zu entwickeln.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Subkategorie":  "Empfehlung",
         "Visible":  true
     },
     {
@@ -136,7 +136,7 @@
         "Paraphrase":  "Es kann als nützliches Werkzeug zur Unterstützung des Lernprozesses dienen, besonders wenn es klare Anweisungen zur Verwendung und Bewertung der Informationen gibt.",
         "Generalisierung":  "Nützliches Werkzeug zur Unterstützung des Lernprozesses, besonders mit klaren Anweisungen zur Verwendung und Bewertung der Informationen.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Subkategorie":  "Empfehlung",
         "Visible":  true
     },
     {
@@ -146,7 +146,7 @@
         "Paraphrase":  "Lehrende sollten den Einsatz von ChatGPT erlauben, aber den Studierenden Anleitungen geben, wie sie es effektiv nutzen können.",
         "Generalisierung":  "Lehrende sollten den Einsatz von ChatGPT erlauben und Anleitungen zur effektiven Nutzung geben.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Subkategorie":  "Erlauben",
         "Visible":  true
     },
     {
@@ -156,7 +156,7 @@
         "Paraphrase":  "ChatGPT kann als Hilfsmittel bei der Recherche dienen, indem es grundlegende Informationen zu einem Thema liefert, Literaturvorschläge macht oder bei der Identifizierung relevanter Quellen unterstützt.",
         "Generalisierung":  "Hilfsmittel bei der Recherche: grundlegende Informationen, Literaturvorschläge, Identifizierung relevanter Quellen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Wissenszugang und -erweiterung",
         "Visible":  true
     },
     {
@@ -166,7 +166,7 @@
         "Paraphrase":  "ChatGPT kann beim Brainstorming helfen, indem es verschiedene Perspektiven, Ideen und Ansätze zu einem Thema liefert. Es kann dabei helfen, neue Denkanstöße zu bekommen und die Kreativität anzuregen.",
         "Generalisierung":  "Hilfreich beim Brainstorming: verschiedene Perspektiven, Ideen und Ansätze, neue Denkanstöße und Kreativität.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kreativität und Ideenfindung",
         "Visible":  true
     },
     {
@@ -176,7 +176,7 @@
         "Paraphrase":  "ChatGPT kann bei der Überwindung von Schreibblockaden oder der Generierung von ersten Textentwürfen behilflich sein.",
         "Generalisierung":  "Hilfreich bei Überwindung von Schreibblockaden und Generierung von ersten Textentwürfen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     }
 ]

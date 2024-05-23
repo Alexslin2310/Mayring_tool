@@ -6,7 +6,7 @@
         "Paraphrase":  "Wenn ChatGPT in wissenschaftlichen Arbeiten benutzt und als eigene Leistung ausgegeben wird, ist es Betrug. Es ist sehr einfach, dies zu tun.",
         "Generalisierung":  "Verwendung von ChatGPT in wissenschaftlichen Arbeiten als eigene Leistung ist Betrug und leicht zu machen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Ethische Bedenken",
         "Visible":  true
     },
     {
@@ -16,7 +16,7 @@
         "Paraphrase":  "Man stellt eine Frage und bekommt direkt eine Antwort, was die Arbeit erleichtert.",
         "Generalisierung":  "Direkte Antworten von ChatGPT erleichtern die Arbeit.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Sonstiges",
         "Visible":  true
     },
     {
@@ -36,7 +36,7 @@
         "Paraphrase":  "ChatGPT interpretiert Fragen manchmal falsch, daher muss man sie neu formulieren oder genauer nachfragen.",
         "Generalisierung":  "Falsche Interpretation von Fragen durch ChatGPT erfordert erneute Formulierung.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Benutzererfahrung",
         "Visible":  true
     },
     {
@@ -46,7 +46,7 @@
         "Paraphrase":  "ChatGPT gibt keine Quellen an, was die Nachvollziehbarkeit der Antworten erschwert.",
         "Generalisierung":  "Fehlende Quellenangaben von ChatGPT erschweren die Nachvollziehbarkeit.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fehlende Quellen und Verlässlichkeit",
         "Visible":  true
     },
     {
@@ -56,7 +56,7 @@
         "Paraphrase":  "Man muss auf Ausdrucksweise und Grammatik achten, da diese oft fehlerhaft sind.",
         "Generalisierung":  "Fehlerhafte Ausdrucksweise und Grammatik bei ChatGPT erfordern Aufmerksamkeit.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Sprachliche und stilistische Aspekte",
         "Visible":  true
     },
     {
@@ -66,7 +66,7 @@
         "Paraphrase":  "Das Wissen von ChatGPT ist bis September 2021 begrenzt.",
         "Generalisierung":  "Zeitliche Begrenzung des Wissens von ChatGPT.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Einschränkungen und Begrenzungen",
         "Visible":  true
     },
     {
@@ -76,7 +76,7 @@
         "Paraphrase":  "ChatGPT hilft beim Zusammenfassen, Kürzen und Korrigieren von Texten.",
         "Generalisierung":  "Nützliche Hilfe von ChatGPT beim Bearbeiten von Texten.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -86,7 +86,7 @@
         "Paraphrase":  "ChatGPT hilft beim freien Erstellen von Texten, wenn die eigene Kreativität begrenzt ist.",
         "Generalisierung":  "Unterstützung durch ChatGPT beim freien Erstellen von Texten.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -94,9 +94,9 @@
         "Nummer":  "10",
         "Textausschnitt":  "Bei Hausarbeiten ist ChatGPT sehr nützlich, denn es kann bei verschiedenen Formulierungen helfen oder die Texte korrigieren.",
         "Paraphrase":  "ChatGPT ist bei Hausarbeiten nützlich, da es bei Formulierungen hilft und Texte korrigiert.",
-        "Generalisierung":  "Nützlichkeit von ChatGPT bei Hausarbeiten für Formulierungen und Korrekturen.",
-        "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  "",
+        "Generalisierung":  "Nützlichkeit von ChatGPT bei Hausarbeiten für textliche Korrekturen.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -106,7 +106,7 @@
         "Paraphrase":  "Texte von ChatGPT sollten nicht einfach kopiert werden, da der Lerneffekt gering ist. Man muss prüfen, ob sie zu den Vorgaben passen.",
         "Generalisierung":  "ChatGPT-Texte sollten nicht einfach kopiert, sondern auf ihre Eignung geprüft werden.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kritisches Denken und Eigenleistung",
         "Visible":  true
     },
     {
@@ -116,7 +116,7 @@
         "Paraphrase":  "Lehrende sollten ChatGPT für Hausarbeiten und wissenschaftliche Arbeiten im Studium verbieten.",
         "Generalisierung":  "Verbot von ChatGPT in Hausarbeiten und wissenschaftlichen Arbeiten im Studium.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Subkategorie":  "Verbieten",
         "Visible":  true
     },
     {
@@ -124,9 +124,9 @@
         "Nummer":  "13",
         "Textausschnitt":  "nur durch das eigenständige Erarbeiten von Themen und das Schreiben von Texten erhalten die Studierenden einen Lerneffekt und vertiefen das Wissen.",
         "Paraphrase":  "Studierende lernen und vertiefen Wissen nur durch eigenständiges Arbeiten und Schreiben.",
-        "Generalisierung":  "Eigenständiges Arbeiten und Schreiben fördert den Lerneffekt und vertieft Wissen.",
-        "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Generalisierung":  "Nur das eigenständiges Arbeiten und Schreiben fördert den Lerneffekt und vertieft Wissen.",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  "Auswirkungen auf das Lernen und kognitive Prozesse",
         "Visible":  true
     },
     {
@@ -136,7 +136,7 @@
         "Paraphrase":  "ChatGPT kann im Studium helfen, sollte aber im Rahmen der Vorlesung und in Absprache mit Lehrenden genutzt werden.",
         "Generalisierung":  "Nutzung von ChatGPT im Studium unter Anleitung und in Absprache mit Lehrenden.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Subkategorie":  "Erlauben",
         "Visible":  true
     },
     {
@@ -147,7 +147,7 @@
         "Generalisierung":  "Gemeinsames Erarbeiten von Inhalten und Lösen von Aufgaben mit ChatGPT.",
         "Kategorie":  "Einsatz in der Lehre",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "5",
@@ -156,7 +156,7 @@
         "Paraphrase":  "Lehrpersonen können Vorgaben geben und zeigen, wie man mit den Ergebnissen von ChatGPT umgeht.",
         "Generalisierung":  "Lehrpersonen geben Anleitung im Umgang mit Ergebnissen von ChatGPT.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Subkategorie":  "Empfehlung",
         "Visible":  true
     },
     {
@@ -166,7 +166,7 @@
         "Paraphrase":  "Studierende können Zusammenfassungen zum Lernen erstellen oder komplexe Themen aus anderer Sicht erklärt bekommen.",
         "Generalisierung":  "Nutzung von ChatGPT durch Studierende zur Erstellung von Zusammenfassungen und Erklärungen komplexer Themen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Anwendung im akademischen Kontext",
         "Visible":  true
     },
     {
@@ -175,8 +175,8 @@
         "Textausschnitt":  "Das Potenzial von KI’s ist in der Industrie besonders groß. Dort können zum Beispiel komplexe Probleme einfacher gelöst werden",
         "Paraphrase":  "KI hat großes Potenzial in der Industrie, um komplexe Probleme zu lösen.",
         "Generalisierung":  "Großes Potenzial von KI zur Lösung komplexer Probleme in der Industrie.",
-        "Kategorie":  "Sonstiges",
-        "Subkategorie":  "",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  "Anwendung in der Praxis",
         "Visible":  true
     },
     {
@@ -185,8 +185,8 @@
         "Textausschnitt":  "Aber auch im Kundenservice kann sie eine große Hilfe sein",
         "Paraphrase":  "KI kann auch im Kundenservice sehr hilfreich sein.",
         "Generalisierung":  "Nützlichkeit von KI im Kundenservice.",
-        "Kategorie":  "Sonstiges",
-        "Subkategorie":  "",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  "Anwendung in der Praxis",
         "Visible":  true
     },
     {
@@ -196,7 +196,7 @@
         "Paraphrase":  "In Schule und Studium sollte die aktive Nutzung von KI vermieden werden, um den Lerneffekt zu erhalten.",
         "Generalisierung":  "Vermeidung der aktiven Nutzung von KI in Schule und Studium zur Erhaltung des Lerneffekts.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Subkategorie":  "Verbieten",
         "Visible":  true
     }
 ]

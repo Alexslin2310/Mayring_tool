@@ -6,7 +6,7 @@
         "Paraphrase":  "Zu Beginn war es notwendig, die Funktionsweise zu verstehen. YouTube-Videos halfen mir zu lernen, wie eine Chat-Bot-KI arbeitet und was Prompts sind.",
         "Generalisierung":  "Notwendigkeit, die Funktionsweise und den Einsatz von Prompts zu verstehen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Benutzererfahrung",
         "Visible":  true
     },
     {
@@ -16,7 +16,7 @@
         "Paraphrase":  "ChatGPT kann keine aktuellen Informationen liefern, da es nur Daten bis September 2021 hat.",
         "Generalisierung":  "Keine aktuellen Informationen von ChatGPT wegen Datenbegrenzung bis September 2021.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Einschränkungen und Begrenzungen",
         "Visible":  true
     },
     {
@@ -27,7 +27,7 @@
         "Generalisierung":  "Nicht alle Informationen vor September 2021 und manchmal ungenaue Informationen von ChatGPT.",
         "Kategorie":  "Herausforderungen",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "26",
@@ -36,7 +36,7 @@
         "Paraphrase":  "Die Antworten von ChatGPT sind bei längeren Texten erkennbar, da sie viele Füllwörter und Wiederholungen enthalten.",
         "Generalisierung":  "Längere Texte von ChatGPT enthalten viele Füllwörter und Wiederholungen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Sprachliche und stilistische Aspekte",
         "Visible":  true
     },
     {
@@ -46,7 +46,7 @@
         "Paraphrase":  "Studenten mit Zugang zur kostenpflichtigen Version haben einen großen Vorteil.",
         "Generalisierung":  "Zugang zur kostenpflichtigen Version bietet einen großen Vorteil.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Einschränkungen und Begrenzungen",
         "Visible":  true
     },
     {
@@ -56,7 +56,7 @@
         "Paraphrase":  "Der Lerneffekt wurde durch ChatGPT deutlich geschmälert. Einige Folien halfen beim Verständnis, aber viele Inhalte waren für die Aufgabenbearbeitung nicht relevant.",
         "Generalisierung":  "ChatGPT schmälert den Lerneffekt, einige Inhalte sind nicht relevant.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Auswirkungen auf das Lernen und kognitive Prozesse",
         "Visible":  true
     },
     {
@@ -67,7 +67,7 @@
         "Generalisierung":  "Intensivere Behandlung des Themas künstliche Intelligenz gewünscht.",
         "Kategorie":  "Sonstiges",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "26",
@@ -75,8 +75,8 @@
         "Textausschnitt":  "Ich bin der Meinung, dass es sehr wichtig ist, bis zu einem gewissen Grad zu verstehen, was KI überhaupt ist und wie sie funktioniert (Stichworte: Machine Learning, Deep Learning, überwachtes/ nicht überwachtes Lernen, Klassifikation, Regression, Test- und Trainingsdaten, exemplarisch ein bis zwei Algorithmen oberflächlich behandeln). Dies könnte z. B. im Rahmen von ein bis zwei Vorlesungen geschehen.",
         "Paraphrase":  "Es ist wichtig zu verstehen, was KI ist und wie sie funktioniert. Dies könnte in ein bis zwei Vorlesungen geschehen.",
         "Generalisierung":  "Verständnis der KI und ihrer Funktionsweise ist wichtig und könnte in Vorlesungen vermittelt werden.",
-        "Kategorie":  "Sonstiges",
-        "Subkategorie":  "",
+        "Kategorie":  "Einsatz in der Lehre",
+        "Subkategorie":  "Empfehlung",
         "Visible":  true
     },
     {
@@ -87,7 +87,7 @@
         "Generalisierung":  "ChatGPT eignet sich momentan nicht für längere Fließtexte.",
         "Kategorie":  "Herausforderungen",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "26",
@@ -96,7 +96,7 @@
         "Paraphrase":  "ChatGPT eignet sich als Ideengeber oder Informationslieferant für kurze und präzise Fragen.",
         "Generalisierung":  "Eignet sich als Ideengeber oder Informationslieferant für kurze und präzise Fragen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Wissenszugang und -erweiterung",
         "Visible":  true
     }
 ]

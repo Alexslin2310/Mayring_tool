@@ -6,8 +6,8 @@
         "Paraphrase":  "Die Fähigkeit von ChatGPT, auf Fragen einzugehen und umfangreiche Informationen bereitzustellen, war beeindruckend.",
         "Generalisierung":  "Beeindruckende Fähigkeit von ChatGPT, auf Fragen einzugehen und umfangreiche Informationen bereitzustellen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Subkategorie":  "Wissenszugang und -erweiterung",
+        "Visible":  false
     },
     {
         "ID":  "24",
@@ -16,7 +16,7 @@
         "Paraphrase":  "ChatGPT konnte auf viele Themen eingehen und viele Informationen liefern, was mir geholfen hat, einen umfassenden Überblick zu erhalten.",
         "Generalisierung":  "ChatGPT kann auf viele Themen eingehen und umfassende Informationen liefern.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Wissenszugang und -erweiterung",
         "Visible":  true
     },
     {
@@ -26,7 +26,7 @@
         "Paraphrase":  "Die Antworten von ChatGPT basieren auf einer Wissensdatenbank, die nur bis 2021 aktualisiert ist.",
         "Generalisierung":  "ChatGPTs Antworten basieren auf einer Wissensdatenbank, die nur bis 2021 aktualisiert ist.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Einschränkungen und Begrenzungen",
         "Visible":  true
     },
     {
@@ -36,7 +36,7 @@
         "Paraphrase":  "Obwohl ChatGPT darauf hinweist, dass Informationen möglicherweise nicht vollständig sind, hätte ich mir zusätzliche Quellenangaben gewünscht, um sie besser überprüfen und vertiefen zu können.",
         "Generalisierung":  "Wunsch nach zusätzlichen Quellenangaben, um Informationen besser überprüfen und vertiefen zu können.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fehlende Quellen und Verlässlichkeit",
         "Visible":  true
     },
     {
@@ -46,7 +46,7 @@
         "Paraphrase":  "Es ist ratsam, weiterführende Recherchen durchzuführen, um sicherzustellen, dass die Informationen korrekt und aktuell sind.",
         "Generalisierung":  "Weiterführende Recherchen sind ratsam, um die Korrektheit und Aktualität der Informationen sicherzustellen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kritisches Denken und Eigenleistung",
         "Visible":  true
     },
     {
@@ -57,7 +57,7 @@
         "Generalisierung":  "ChatGPT berücksichtigt keine individuellen Unternehmenszyklen und greift auf allgemeine Prinzipien und Annahmen zurück.",
         "Kategorie":  "Herausforderungen",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "24",
@@ -67,7 +67,7 @@
         "Generalisierung":  "Keine maßgeschneiderten Lösungen für spezifische Unternehmenssituationen, kritisches Hinterfragen und Konsultation von Fachleuten sind ratsam.",
         "Kategorie":  "Herausforderungen",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "24",
@@ -76,7 +76,7 @@
         "Paraphrase":  "Trotz dieser Einschränkungen war die Zusammenarbeit mit ChatGPT effizient und zeitsparend.",
         "Generalisierung":  "Effiziente und zeitsparende Zusammenarbeit mit ChatGPT trotz Einschränkungen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Sonstiges",
         "Visible":  true
     },
     {
@@ -86,7 +86,7 @@
         "Paraphrase":  "ChatGPT hat mir geholfen, mein Wissen zu erweitern und neue Perspektiven zu finden.",
         "Generalisierung":  "Wissenserweiterung und neue Perspektiven durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Wissenszugang und -erweiterung",
         "Visible":  true
     },
     {
@@ -96,8 +96,8 @@
         "Paraphrase":  "Die klaren und präzisen Antworten halfen mir, meine Gedanken zu strukturieren und meine Arbeit voranzutreiben.",
         "Generalisierung":  "Klare und präzise Antworten helfen bei der Strukturierung von Gedanken und der Arbeit.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Subkategorie":  "Sonstiges",
+        "Visible":  false
     },
     {
         "ID":  "24",
@@ -107,7 +107,7 @@
         "Generalisierung":  "Nützliches Werkzeug zum schnellen Abrufen von Informationen und Beantworten grundlegender Fragen.",
         "Kategorie":  "Unterstützungsbereiche",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "24",
@@ -117,6 +117,6 @@
         "Generalisierung":  "Wichtig, die Grenzen von ChatGPT zu erkennen und Informationen kritisch zu bewerten, um die Eignung für den spezifischen Kontext und die Anforderungen zu gewährleisten.",
         "Kategorie":  "Herausforderungen",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     }
 ]

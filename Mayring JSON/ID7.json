@@ -16,7 +16,7 @@
         "Paraphrase":  "Die Antworten von ChatGPT sind oft strukturell ähnlich, wiederholen sich und kommen nicht auf den Punkt.",
         "Generalisierung":  "Strukturelle Ähnlichkeit und Wiederholungen in den Antworten von ChatGPT.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Sprachliche und stilistische Aspekte",
         "Visible":  true
     },
     {
@@ -26,7 +26,7 @@
         "Paraphrase":  "Die Antworten von ChatGPT sind oft schwerfällig und wenig aussagekräftig.",
         "Generalisierung":  "Schwerfällige und wenig aussagekräftige Antworten von ChatGPT.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Qualität der Antworten",
         "Visible":  true
     },
     {
@@ -36,7 +36,7 @@
         "Paraphrase":  "ChatGPT formuliert oft im Konjunktiv, um keine klaren Festlegungen oder Handlungsempfehlungen zu geben, wahrscheinlich um falsche Informationen oder verbotene Handlungen zu vermeiden.",
         "Generalisierung":  "ChatGPT formuliert im Konjunktiv, um vorsichtig zu sein und keine klaren Festlegungen zu treffen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Sprachliche und stilistische Aspekte",
         "Visible":  true
     },
     {
@@ -46,7 +46,7 @@
         "Paraphrase":  "ChatGPT basiert auf einem probabilistischen Modell und generiert Antworten basierend auf trainierten Daten und Prompts.",
         "Generalisierung":  "ChatGPT nutzt ein probabilistisches Modell und trainierte Daten zur Generierung von Antworten.",
         "Kategorie":  "Sonstiges",
-        "Subkategorie":  "",
+        "Subkategorie":  "Anmerkung",
         "Visible":  true
     },
     {
@@ -56,7 +56,7 @@
         "Paraphrase":  "Bei der Nutzung von ChatGPT können Rechtschreibfehler auftreten, besonders bei \u0027dass\u0027 und \u0027das\u0027.",
         "Generalisierung":  "Rechtschreibfehler bei der Nutzung von ChatGPT, insbesondere bei \u0027dass\u0027 und \u0027das\u0027.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Sprachliche und stilistische Aspekte",
         "Visible":  true
     },
     {
@@ -66,7 +66,7 @@
         "Paraphrase":  "ChatGPT ist besonders nützlich für die Recherche von Informationen und das Beantworten grundlegender Fragen.",
         "Generalisierung":  "Nützlichkeit von ChatGPT für Informationsrecherche und Beantwortung grundlegender Fragen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Wissenszugang und -erweiterung",
         "Visible":  true
     },
     {
@@ -76,7 +76,7 @@
         "Paraphrase":  "Es ist wichtig, die Antworten von ChatGPT kritisch zu hinterfragen, sorgfältig zu prüfen und bei komplexen Themen zusätzliche Quellen oder Expertenwissen zu nutzen.",
         "Generalisierung":  "Kritische Hinterfragung und sorgfältige Prüfung der Antworten von ChatGPT sowie Nutzung zusätzlicher Quellen bei komplexen Themen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kritisches Denken und Eigenleistung",
         "Visible":  true
     },
     {
@@ -85,8 +85,8 @@
         "Textausschnitt":  "KI kann als Hilfsmittel dienen, aber sie kann menschliches Urteilsvermögen und Erfahrung nicht ersetzen.",
         "Paraphrase":  "KI ist ein Hilfsmittel, aber sie kann menschliches Urteilsvermögen und Erfahrung nicht ersetzen.",
         "Generalisierung":  "KI dient als Hilfsmittel, ersetzt aber nicht menschliches Urteilsvermögen und Erfahrung.",
-        "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Kategorie":  "Sonstiges",
+        "Subkategorie":  "Zusammenarbeit",
         "Visible":  true
     }
 ]

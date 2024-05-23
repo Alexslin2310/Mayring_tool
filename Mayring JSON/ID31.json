@@ -6,7 +6,7 @@
         "Paraphrase":  "Die Anwendung des Chatbots war einfach und wurde mit zunehmender Vertrautheit intuitiver und nützlicher.",
         "Generalisierung":  "Einfache und zunehmend intuitive Anwendung des Chatbots.",
         "Kategorie":  "Benutzerfreundlichkeit",
-        "Subkategorie":  "",
+        "Subkategorie":  "Einfache Bedienung",
         "Visible":  true
     },
     {
@@ -26,7 +26,7 @@
         "Paraphrase":  "Zu Beginn musste ich verstehen, dass ChatGPT nicht fehlerfrei ist und die Ausgaben sorgfältig geprüft werden müssen.",
         "Generalisierung":  "Verständnis, dass ChatGPT nicht fehlerfrei ist, und sorgfältige Prüfung der Ausgaben erforderlich.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kritisches Denken und Eigenleistung",
         "Visible":  true
     },
     {
@@ -36,7 +36,7 @@
         "Paraphrase":  "Es kam zu inhaltlichen und wiederholt auch zu grammatikalischen Fehlern.",
         "Generalisierung":  "Inhaltliche und grammatikalische Fehler traten auf.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Sprachliche und stilistische Aspekte",
         "Visible":  true
     },
     {
@@ -46,7 +46,7 @@
         "Paraphrase":  "Die Ausgabe muss teilweise überarbeitet werden, um sie in einem wissenschaftlichen Kontext zu veröffentlichen.",
         "Generalisierung":  "Teilweise Überarbeitung der Ausgabe für wissenschaftlichen Kontext erforderlich.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Nacharbeit und Mehraufwand",
         "Visible":  true
     },
     {
@@ -56,7 +56,7 @@
         "Paraphrase":  "Nach einer kurzen Einarbeitungsphase hatte ich keine Probleme.",
         "Generalisierung":  "Keine Probleme nach kurzer Einarbeitungsphase.",
         "Kategorie":  "Benutzerfreundlichkeit",
-        "Subkategorie":  "",
+        "Subkategorie":  "Einarbeitung",
         "Visible":  true
     },
     {
@@ -66,7 +66,7 @@
         "Paraphrase":  "ChatGPT half mir, Ideen in ausformulierte Texte zu transformieren und war dabei ein begleitender Prosaist.",
         "Generalisierung":  "Hilft bei der Transformation von Ideen in ausformulierte Texte.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -76,8 +76,8 @@
         "Paraphrase":  "Dies war eine enorme zeitliche Erleichterung und half mir, mich inhaltlich auf das Thema zu konzentrieren.",
         "Generalisierung":  "Enorme zeitliche Erleichterung und inhaltliche Konzentration auf das Thema.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Subkategorie":  "Effizienz und Zeitersparnis",
+        "Visible":  false
     },
     {
         "ID":  "31",
@@ -86,7 +86,7 @@
         "Paraphrase":  "Die Zeitersparnis ist enorm, sodass man sich auf den Inhalt konzentrieren kann.",
         "Generalisierung":  "Enorme Zeitersparnis ermöglicht Konzentration auf den Inhalt.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Sonstiges",
         "Visible":  true
     },
     {
@@ -96,7 +96,7 @@
         "Paraphrase":  "Kein Leeres-Blatt-Syndrom, da man in kürzester Zeit einen generierten Text hat, den man als Ausgangsbasis nutzen kann.",
         "Generalisierung":  "Kein Leeres-Blatt-Syndrom dank schneller Textgenerierung als Ausgangsbasis.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -106,8 +106,8 @@
         "Paraphrase":  "Lehrende sollten den Einsatz von ChatGPT erlauben.",
         "Generalisierung":  "Einsatz von ChatGPT sollte erlaubt werden.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Subkategorie":  "Erlauben",
+        "Visible":  false
     },
     {
         "ID":  "31",
@@ -115,8 +115,8 @@
         "Textausschnitt":  "Dies kann dazu beitragen, dass der Inhalt von Arbeiten in den Vordergrund rückt. Dadurch wird weniger Zeit in die Ausformulierung investiert und die Arbeitszeit kann in die Erschließung eines Themas investiert werden.",
         "Paraphrase":  "Dies kann dazu beitragen, dass der Inhalt von Arbeiten in den Vordergrund rückt, weniger Zeit in die Ausformulierung investiert und mehr in die Erschließung eines Themas.",
         "Generalisierung":  "Inhalt von Arbeiten rückt in den Vordergrund, weniger Zeit in Ausformulierung und mehr in Erschließung eines Themas investiert.",
-        "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -125,8 +125,8 @@
         "Textausschnitt":  "Des Weiteren können Personen mit Lese-Rechtschreibstörung wissenschaftliche Arbeiten leichter erstellen.",
         "Paraphrase":  "Personen mit Lese-Rechtschreibstörung können wissenschaftliche Arbeiten leichter erstellen.",
         "Generalisierung":  "Erleichterung der Erstellung wissenschaftlicher Arbeiten für Personen mit Lese-Rechtschreibstörung.",
-        "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -136,7 +136,7 @@
         "Paraphrase":  "Softwarebausteine können von nicht ausgebildeten Programmierern erstellt werden.",
         "Generalisierung":  "Erstellung von Softwarebausteinen durch nicht ausgebildete Programmierer möglich.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Sonstiges",
         "Visible":  true
     },
     {
@@ -146,7 +146,7 @@
         "Paraphrase":  "Die Chancen von generativen Sprachmodellen sollten in der Lehre genutzt werden. Lehrende sollten den Inhalt bewerten und weniger Zeit auf die sprachliche Richtigkeit verwenden.",
         "Generalisierung":  "Chancen von generativen Sprachmodellen sollten in der Lehre genutzt werden, Lehrende sollten den Inhalt bewerten.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Subkategorie":  "Erlauben",
         "Visible":  true
     }
 ]

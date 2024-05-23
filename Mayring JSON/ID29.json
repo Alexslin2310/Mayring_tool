@@ -7,7 +7,7 @@
         "Generalisierung":  "Direkte Fragen führen nicht immer zu den gewünschten Ergebnissen.",
         "Kategorie":  "Herausforderungen",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "29",
@@ -36,7 +36,7 @@
         "Paraphrase":  "ChatGPT liefert Links zu Quellen, aber diese sind oft nicht verfügbar oder enthalten keine relevanten Informationen.",
         "Generalisierung":  "Links zu Quellen oft nicht verfügbar oder irrelevant.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fehlende Quellen und Verlässlichkeit",
         "Visible":  true
     },
     {
@@ -47,7 +47,7 @@
         "Generalisierung":  "Eher geeignet für Zusammenfassungen und Umformulierungen.",
         "Kategorie":  "Unterstützungsbereiche",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "29",
@@ -56,7 +56,7 @@
         "Paraphrase":  "Es ist hilfreich, um Informationen kompakt darzustellen oder Texte umzuformulieren.",
         "Generalisierung":  "Hilfreich zur kompakten Darstellung von Informationen und Umformulierung von Texten.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Wissenszugang und -erweiterung",
         "Visible":  true
     },
     {
@@ -67,7 +67,7 @@
         "Generalisierung":  "Menschliche Expertise und Überprüfung weiterhin erforderlich für detaillierte und umfangreiche Analysen oder wissenschaftliche Arbeiten.",
         "Kategorie":  "Herausforderungen",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "29",
@@ -76,7 +76,7 @@
         "Paraphrase":  "Die Datenbasis von ChatGPT ist bis September 2021 begrenzt, daher konnte ich nur Informationen bis zu diesem Zeitpunkt erhalten.",
         "Generalisierung":  "Datenbasis von ChatGPT ist bis September 2021 begrenzt.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Einschränkungen und Begrenzungen",
         "Visible":  true
     },
     {
@@ -85,8 +85,8 @@
         "Textausschnitt":  "Allerdings stellte ich fest, dass durch die Verwendung einer Chrome-Erweiterung, die den Zugriff auf das Web ermöglicht, aktuellere Antworten erzielt werden konnten.",
         "Paraphrase":  "Durch eine Chrome-Erweiterung, die den Zugriff auf das Web ermöglicht, konnten aktuellere Antworten erzielt werden.",
         "Generalisierung":  "Chrome-Erweiterung ermöglicht Zugriff auf aktuellere Antworten.",
-        "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Kategorie":  "Sonstiges",
+        "Subkategorie":  "Anmerkung",
         "Visible":  true
     },
     {
@@ -96,7 +96,7 @@
         "Paraphrase":  "Es ist wichtig, sich nicht ausschließlich auf die Chrome-Erweiterung zu verlassen, da die Antworten trotzdem nicht immer ausgereift oder nicht über ChatGPT verfügbar sind.",
         "Generalisierung":  "Nicht ausschließlich auf Chrome-Erweiterung verlassen, da Antworten nicht immer ausgereift oder verfügbar sind.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Qualität der Antworten",
         "Visible":  true
     },
     {
@@ -106,7 +106,7 @@
         "Paraphrase":  "Eine kritische Betrachtung und Ergänzung durch menschliche Expertise sind unerlässlich, um genaue und verlässliche Informationen zu erhalten.",
         "Generalisierung":  "Kritische Betrachtung und Ergänzung durch menschliche Expertise unerlässlich für genaue und verlässliche Informationen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kritisches Denken und Eigenleistung",
         "Visible":  true
     }
 ]

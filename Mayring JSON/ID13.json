@@ -7,7 +7,7 @@
         "Generalisierung":  "Nutzung innovativer Technologie für neue Ansätze und moderne Lösungen.",
         "Kategorie":  "Unterstützungsbereiche",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "13",
@@ -17,7 +17,7 @@
         "Generalisierung":  "Schnelligkeit und Effizienz der Antworten als großer Vorteil.",
         "Kategorie":  "Unterstützungsbereiche",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "13",
@@ -26,7 +26,7 @@
         "Paraphrase":  "Ich konnte direkt auf relevante Informationen zugreifen, ohne lange zu recherchieren.",
         "Generalisierung":  "Direkter Zugriff auf relevante Informationen ohne lange Recherche.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Wissenszugang und -erweiterung",
         "Visible":  true
     },
     {
@@ -36,7 +36,7 @@
         "Paraphrase":  "ChatGPT beschleunigte meinen Schreibprozess und sparte mir Zeit für andere Aufgaben.",
         "Generalisierung":  "Beschleunigung des Schreibprozesses und Zeitersparnis durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -47,7 +47,7 @@
         "Generalisierung":  "Schwierigkeit der präzisen und klaren Formulierung der Fragen für gewünschte Informationen.",
         "Kategorie":  "Eingabedetaillierung",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "13",
@@ -65,9 +65,9 @@
         "Textausschnitt":  "Es erforderte ein gewisses Feingefühl, um die richtigen Informationen von ChatGPT zu extrahieren und sicherzustellen, dass sie mit meinem vorhandenen Wissen und den Inhalten der Vorlesungen übereinstimmen.",
         "Paraphrase":  "Es erforderte Feingefühl, um die richtigen Informationen von ChatGPT zu extrahieren und mit meinem Wissen und Vorlesungsinhalten abzugleichen.",
         "Generalisierung":  "Feingefühl erforderlich, um richtige Informationen zu extrahieren und mit Wissen und Vorlesungsinhalten abzugleichen.",
-        "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  "Kritisches Denken und Eigenleistung",
+        "Visible":  false
     },
     {
         "ID":  "13",
@@ -76,7 +76,7 @@
         "Paraphrase":  "ChatGPT ermöglichte es mir, verschiedene Perspektiven in meiner Hausarbeit einzunehmen.",
         "Generalisierung":  "Möglichkeit der Einnahme verschiedener Perspektiven durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kreativität und Ideenfindung",
         "Visible":  true
     },
     {
@@ -86,7 +86,7 @@
         "Paraphrase":  "Bevor ich ChatGPT fragte, überlegte ich mir die Antwort selbst und erhielt durch die generierte Antwort neue Denkanstöße.",
         "Generalisierung":  "Neue Denkanstöße durch generierte Antworten von ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kreativität und Ideenfindung",
         "Visible":  true
     },
     {
@@ -96,7 +96,7 @@
         "Paraphrase":  "Ein Hindernis war, dass ChatGPT kein menschlicher Experte ist und manchmal nicht detaillierte oder spezifische Antworten liefern konnte.",
         "Generalisierung":  "Fehlende detaillierte oder spezifische Antworten durch ChatGPT als Hindernis.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Qualität der Antworten",
         "Visible":  true
     },
     {
@@ -106,7 +106,7 @@
         "Paraphrase":  "Es erforderte Geduld und Zeitaufwand, um sicherzustellen, dass die Antworten den Anforderungen entsprachen.",
         "Generalisierung":  "Geduld und Zeitaufwand erforderlich, um passende Antworten zu erhalten.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Nacharbeit und Mehraufwand",
         "Visible":  true
     },
     {
@@ -117,17 +117,17 @@
         "Generalisierung":  "Vertiefung des Themenverständnisses und Einnahme verschiedener Perspektiven durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "13",
         "Nummer":  "13",
         "Textausschnitt":  "Rückblickend auf meine Erfahrung mit ChatGPT in meiner Hausarbeit im Modul Change Management erkenne ich, dass der Einsatz von künstlicher Intelligenz und neuen Technologien ein enormes Potenzial bietet, um den Wissensaustausch und die Arbeitsprozesse zu verbessern.",
         "Paraphrase":  "Meine Erfahrung mit ChatGPT in der Hausarbeit zeigt, dass KI und neue Technologien großes Potenzial zur Verbesserung von Wissensaustausch und Arbeitsprozessen haben.",
-        "Generalisierung":  "Großes Potenzial von KI und neuen Technologien zur Verbesserung von Wissensaustausch und Arbeitsprozessen.",
+        "Generalisierung":  "Großes Potenzial von KI und neuen Technologien zur Verbesserung von Wissensaustausch.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Subkategorie":  "Wissenszugang und -erweiterung",
+        "Visible":  false
     },
     {
         "ID":  "13",
@@ -136,17 +136,7 @@
         "Paraphrase":  "Die Zusammenarbeit mit ChatGPT zeigte mir, dass der menschliche Faktor unersetzlich ist und kritisches Denken, eigenes Wissen und Reflexion entscheidend sind.",
         "Generalisierung":  "Unersetzlichkeit des menschlichen Faktors und Bedeutung von kritischem Denken, eigenem Wissen und Reflexion.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
-        "Visible":  true
-    },
-    {
-        "ID":  "13",
-        "Nummer":  "15",
-        "Textausschnitt":  "Die Zusammenarbeit mit ChatGPT hat mir gezeigt, dass der menschliche Faktor weiterhin unersetzlich ist und dass kritisches Denken, eigenes Wissen und die Reflexion über die generierten Antworten von entscheidender Bedeutung sind.",
-        "Paraphrase":  "Die Zusammenarbeit mit ChatGPT zeigte mir, dass der menschliche Faktor unersetzlich ist und kritisches Denken, eigenes Wissen und Reflexion entscheidend sind.",
-        "Generalisierung":  "Unersetzlichkeit des menschlichen Faktors und Bedeutung von kritischem Denken, eigenem Wissen und Reflexion.",
-        "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kritisches Denken und Eigenleistung",
         "Visible":  true
     }
 ]

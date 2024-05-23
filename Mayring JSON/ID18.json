@@ -7,7 +7,7 @@
         "Generalisierung":  "Qualität der Ergebnisse ist stark von der Qualität der Fragestellung abhängig.",
         "Kategorie":  "Eingabedetaillierung",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "18",
@@ -36,7 +36,7 @@
         "Paraphrase":  "Einige Informationen waren inkorrekt. ChatGPT gab falsche Informationen über den Geschäftsführer. Den Aussagen von ChatGPT kann nicht bedingungslos vertraut werden.",
         "Generalisierung":  "Inkorrekte Informationen von ChatGPT und bedingungsloses Vertrauen ist nicht möglich.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Qualität der Antworten",
         "Visible":  true
     },
     {
@@ -47,7 +47,7 @@
         "Generalisierung":  "Bereitstellung notwendiger Informationen in Stichpunkten und Ausformulieren durch ChatGPT führte zu den größten Erfolgen.",
         "Kategorie":  "Eingabedetaillierung",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "18",
@@ -57,7 +57,7 @@
         "Generalisierung":  "Ideale Eignung von ChatGPT für allgemeine Fragestellungen.",
         "Kategorie":  "Unterstützungsbereiche",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "18",
@@ -66,7 +66,7 @@
         "Paraphrase":  "Ich hatte große Probleme mit ChatGPT, da die Aufgabenstellungen immer stärker auf Anwendungsbezug abzielten und die Arbeit aufwendiger wurde.",
         "Generalisierung":  "Große Probleme bei ChatGPT mit zunehmendem Anwendungsbezug und steigendem Arbeitsaufwand.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Benutzererfahrung",
         "Visible":  true
     },
     {
@@ -74,9 +74,9 @@
         "Nummer":  "8",
         "Textausschnitt":  "Ich habe den Chat-Bot weiterhin nur Texte ausformulieren lassen, allerdings haben diese Ausformulierungen auch nicht meinen Ansprüchen genügt. Sie waren entweder sehr komplex formuliert oder die Aussagen meiner Stichpunkte wurden nicht konkret genug übernommen.",
         "Paraphrase":  "Die von ChatGPT ausformulierten Texte genügten meinen Ansprüchen nicht. Sie waren entweder zu komplex oder die Aussagen meiner Stichpunkte wurden nicht konkret genug übernommen.",
-        "Generalisierung":  "Ausformulierungen von ChatGPT genügten den Ansprüchen nicht, da sie zu komplex oder nicht konkret genug waren.",
+        "Generalisierung":  "Ausformulierungen von ChatGPT genügten den Ansprüchen nicht, da sie nicht konkret genug waren.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Qualität der Antworten",
         "Visible":  true
     },
     {
@@ -86,7 +86,7 @@
         "Paraphrase":  "Es war hilfreich, dass ChatGPT die Ausfertigungen anhand von Kommentaren mehrmals überarbeitet, aber die Qualität hat sich dadurch nicht immer verbessert.",
         "Generalisierung":  "Überarbeitungen durch ChatGPT anhand von Kommentaren verbessern nicht immer die Qualität.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Qualität der Antworten",
         "Visible":  true
     },
     {
@@ -96,7 +96,7 @@
         "Paraphrase":  "Die Arbeit mit ChatGPT eignet sich gut für allgemeine Fragestellungen ohne konkreten Anwendungsbezug.",
         "Generalisierung":  "Geeignet für allgemeine Fragestellungen ohne konkreten Anwendungsbezug.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Wissenszugang und -erweiterung",
         "Visible":  true
     },
     {
@@ -106,7 +106,7 @@
         "Paraphrase":  "Das Wissen von ChatGPT ist in spezialisierten Themengebieten oft nicht verfügbar, zu allgemein oder faktisch inkorrekt. Die Vermittlung von falschem Wissen ist eine Gefahr.",
         "Generalisierung":  "In spezialisierten Themengebieten ist das Wissen von ChatGPT oft nicht verfügbar, zu allgemein oder inkorrekt, was eine Gefahr darstellt.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Qualität der Antworten",
         "Visible":  true
     },
     {
@@ -116,7 +116,7 @@
         "Paraphrase":  "Insgesamt ist ChatGPT für mich eine bessere Suchmaschine.",
         "Generalisierung":  "ChatGPT ist eine bessere Suchmaschine.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Wissenszugang und -erweiterung",
         "Visible":  true
     },
     {
@@ -126,7 +126,7 @@
         "Paraphrase":  "Vielleicht konnte ich das Programm nicht richtig nutzen. Es sollte eine Schulung geben, um ChatGPT richtig für eigene Zwecke einsetzen zu können.",
         "Generalisierung":  "Schulung notwendig, um ChatGPT richtig für eigene Zwecke einsetzen zu können.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Subkategorie":  "Empfehlung",
         "Visible":  true
     }
 ]

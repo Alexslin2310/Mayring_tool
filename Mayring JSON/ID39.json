@@ -5,8 +5,8 @@
         "Textausschnitt":  "Ich habe mich erst informiert und versucht mir Texte schreiben zu lassen. Dies hat gut geklappt, jedoch nicht in Bezug auf die Hausarbeit. Nach einigen Dialogen mit ChatGPT konnte ich das System etwas verstehen und auch anwenden. So gelang es mir mit einer einfachen Eingabe einen wissenschaftlich soliden Text über die Unternehmensvorstellung zu erhalten.",
         "Paraphrase":  "Nach einigen Versuchen und Dialogen mit ChatGPT konnte ich das System verstehen und erfolgreich einen wissenschaftlich soliden Text zur Unternehmensvorstellung erstellen.",
         "Generalisierung":  "Verständnis des Systems führte zu erfolgreicher Erstellung eines wissenschaftlichen Textes.",
-        "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Kategorie":  "Sonstiges",
+        "Subkategorie":  "Anmerkung",
         "Visible":  true
     },
     {
@@ -16,7 +16,7 @@
         "Paraphrase":  "Je nach Aufgabenstellung konnte ich komplette Antworten von ChatGPT unverändert in die Hausarbeit einfügen.",
         "Generalisierung":  "Komplette Antworten von ChatGPT konnten unverändert verwendet werden.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Sonstiges",
         "Visible":  true
     },
     {
@@ -26,7 +26,7 @@
         "Paraphrase":  "Ein Problem war der unterschiedliche Sprachstil, wodurch ich meinen Schreibstil anpassen musste, um einen fließenden Übergang zu gewährleisten.",
         "Generalisierung":  "Unterschiedlicher Sprachstil erforderte Anpassung des eigenen Schreibstils für fließenden Übergang.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Nacharbeit und Mehraufwand",
         "Visible":  true
     },
     {
@@ -36,7 +36,7 @@
         "Paraphrase":  "Bei einigen Eingaben kam es zu vielen Wortwiederholungen, die den Text schwer lesbar machten. Prompts konnten dies teilweise beheben, aber der Text war nicht immer zufriedenstellend.",
         "Generalisierung":  "Wortwiederholungen machten Text schwer lesbar, Prompts konnten teilweise helfen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Sprachliche und stilistische Aspekte",
         "Visible":  true
     },
     {
@@ -46,7 +46,7 @@
         "Paraphrase":  "Die KI konnte Beschreibungen und Erklärungen von Theorien gut verschriftlichen.",
         "Generalisierung":  "Gute Verschriftlichung von Beschreibungen und Erklärungen von Theorien durch die KI.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -56,7 +56,7 @@
         "Paraphrase":  "Es besteht die Gefahr, dass Informationen nicht korrekt sind, was mir mehrfach aufgefallen ist.",
         "Generalisierung":  "Gefahr von inkorrekten Informationen besteht.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Qualität der Antworten",
         "Visible":  true
     },
     {
@@ -64,9 +64,9 @@
         "Nummer":  "7",
         "Textausschnitt":  "Leider haben sich die Texte immer gut und richtig angehört, was bei wissenschaftlichen Arbeiten gefährlich sein kann. Ich habe die Aussagen von ChatGPT manchmal als vollkommen richtig angesehen, da der Schreibstil und die Antworten sehr souverän formuliert waren.",
         "Paraphrase":  "Die Texte klangen immer gut und richtig, was bei wissenschaftlichen Arbeiten gefährlich sein kann. Ich habe die Aussagen von ChatGPT manchmal als vollkommen richtig angesehen, da der Schreibstil sehr souverän war.",
-        "Generalisierung":  "Texte klangen gut und richtig, was bei wissenschaftlichen Arbeiten gefährlich sein kann.",
+        "Generalisierung":  "Texte klangen gut und richtig, was bei objektiven und faktischen Arbeiten gefährlich sein kann.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fehlende Quellen und Verlässlichkeit",
         "Visible":  true
     },
     {
@@ -77,16 +77,16 @@
         "Generalisierung":  "Gefühl, bei manchen Aufgaben ohne KI-Hilfe effizienter zu sein.",
         "Kategorie":  "Herausforderungen",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "39",
         "Nummer":  "9",
         "Textausschnitt":  "Es braucht Zeit, die Prompts zu formulieren, die Texte zu lesen und eventuell neue Eingaben zu tätigen. Daher ist ChatGPT nicht immer nützlich und man als Anwender muss abwägen, wie und wann man diese Hilfe nutzt.",
         "Paraphrase":  "Es braucht Zeit, die Prompts zu formulieren, die Texte zu lesen und eventuell neue Eingaben zu tätigen. Daher ist ChatGPT nicht immer nützlich und man muss abwägen, wann man es nutzt.",
-        "Generalisierung":  "Zeitaufwand für Formulierung der Prompts und Lesen der Texte, ChatGPT nicht immer nützlich.",
+        "Generalisierung":  "Hoher Zeitaufwand für Formulierung der Prompts und Lesen der Texte. ChatGPT nicht immer nützlich.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Nacharbeit und Mehraufwand",
         "Visible":  true
     },
     {
@@ -96,7 +96,7 @@
         "Paraphrase":  "Ich war erstaunt über viele Aussagen, auf die ich selbst nicht gekommen wäre.",
         "Generalisierung":  "Erstaunen über Aussagen, auf die man selbst nicht gekommen wäre.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kreativität und Ideenfindung",
         "Visible":  true
     },
     {
@@ -107,7 +107,7 @@
         "Generalisierung":  "ChatGPT für Denkanstöße genutzt, ähnlich einem unterstützenden Dialog.",
         "Kategorie":  "Unterstützungsbereiche",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "39",
@@ -116,7 +116,7 @@
         "Paraphrase":  "Lehrende sollten dieses Tool erlauben, da es einen großen Vorteil bei Aufgaben bietet.",
         "Generalisierung":  "Lehrende sollten Tool erlauben, da es großen Vorteil bietet.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Subkategorie":  "Erlauben",
         "Visible":  true
     },
     {
@@ -126,7 +126,7 @@
         "Paraphrase":  "Menschen mit einem schlecht lesbaren Schreibstil können diesen mit solchen Programmen verändern und verbessern.",
         "Generalisierung":  "Programme können schlecht lesbaren Schreibstil verändern und verbessern.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -136,7 +136,7 @@
         "Paraphrase":  "Informationen müssen weiterhin belegt werden, was bei ChatGPT schwer zu prüfen ist.",
         "Generalisierung":  "Belegbarkeit von Informationen bei ChatGPT schwer zu prüfen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fehlende Quellen und Verlässlichkeit",
         "Visible":  true
     },
     {
@@ -145,8 +145,8 @@
         "Textausschnitt":  "Ich musste immer wieder nachlesen, ob die Aussagen korrekt sind oder nicht und habe ein großes Auge auf die Texte geworfen. Dadurch kann der Lerneffekt eventuell auch höher sein, was jedoch, wie eben erwähnt, sehr schwer zu beurteilen ist.",
         "Paraphrase":  "Ich musste immer wieder nachlesen, ob die Aussagen korrekt sind, was den Lerneffekt erhöhen kann, aber schwer zu beurteilen ist.",
         "Generalisierung":  "Nachlesen der Aussagen zur Korrektheit kann den Lerneffekt erhöhen, aber schwer zu beurteilen.",
-        "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Kategorie":  "Sonstiges",
+        "Subkategorie":  "Anmerkung",
         "Visible":  true
     },
     {
@@ -155,8 +155,8 @@
         "Textausschnitt":  "Außerdem kommt es auf die Einzelpersonen an, wie viel diese lernen möchten. Jedes Individuum ist anders und kann dementsprechend mehr oder weniger Vorteile beziehungsweise Nachteile daraus ziehen.",
         "Paraphrase":  "Es hängt von der Einzelperson ab, wie viel sie lernen möchte. Jeder ist anders und kann unterschiedlich von den Vorteilen und Nachteilen profitieren.",
         "Generalisierung":  "Lernbereitschaft und individuelle Unterschiede beeinflussen die Vorteile und Nachteile.",
-        "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Kategorie":  "Sonstiges",
+        "Subkategorie":  "Anmerkung",
         "Visible":  true
     },
     {
@@ -166,7 +166,7 @@
         "Paraphrase":  "Beim eigenen Schreiben weiß ich genau, wo Informationen stehen. Bei der Hausarbeit musste ich oft intensiver nachlesen, ob Informationen bereits vorhanden sind.",
         "Generalisierung":  "Beim eigenen Schreiben kennt man die Informationen besser als bei Nutzung von ChatGPT.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Benutzererfahrung",
         "Visible":  true
     }
 ]

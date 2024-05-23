@@ -3,10 +3,10 @@
         "ID":  "2",
         "Nummer":  "1",
         "Textausschnitt":  "Einer der offensichtlichen Vorteile war die Effizienz und Geschwindigkeit, mit der ChatGPT umfangreiche Texte erstellen konnte.",
-        "Paraphrase":  "ChatGPT kann schnell und effizient lange Texte erstellen.",
-        "Generalisierung":  "Hohe Effizienz und Geschwindigkeit bei der Texterstellung durch ChatGPT.",
-        "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  "",
+        "Paraphrase":  "Hohe Effizienz und Geschwindigkeit bei der Texterstellung durch ChatGPT.",
+        "Generalisierung":  "ChatGPT kann schnell und effizient lange Texte erstellen.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -15,9 +15,9 @@
         "Textausschnitt":  "Die Technologie ermöglichte es mir, schnell auf Informationen zuzugreifen und sie in meine Hausarbeit einzubinden.",
         "Paraphrase":  "ChatGPT ermöglichte mir schnellen Zugriff auf Informationen für meine Hausarbeit.",
         "Generalisierung":  "Schneller Informationszugriff für akademische Arbeiten durch ChatGPT.",
-        "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  "Wissenszugang und -erweiterung",
+        "Visible":  false
     },
     {
         "ID":  "2",
@@ -26,17 +26,17 @@
         "Paraphrase":  "Die Bedienung von ChatGPT ist sehr einfach.",
         "Generalisierung":  "Einfache Bedienung von ChatGPT.",
         "Kategorie":  "Benutzerfreundlichkeit",
-        "Subkategorie":  "",
+        "Subkategorie":  "Einfache Bedienung",
         "Visible":  true
     },
     {
         "ID":  "2",
         "Nummer":  "4",
         "Textausschnitt":  "Ein weiterer Vorteil des Schreibens mit ChatGPT war die Möglichkeit, verschiedene Perspektiven und Ideen zu erhalten",
-        "Paraphrase":  "ChatGPT bietet verschiedene Perspektiven und Ideen.",
-        "Generalisierung":  "Vielseitigkeit von ChatGPT in der Ideen- und Perspektivenfindung.",
+        "Paraphrase":  "Vielseitigkeit von ChatGPT in der Ideen- und Perspektivenfindung.",
+        "Generalisierung":  "ChatGPT bietet verschiedene Perspektiven und Ideen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kreativität und Ideenfindung",
         "Visible":  true
     },
     {
@@ -46,7 +46,7 @@
         "Paraphrase":  "Es war hilfreich, Theorien durch ChatGPT auf Fallbeispiele anwenden zu lassen.",
         "Generalisierung":  "Hilfreiche Anwendung von Theorien auf Fallbeispiele durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Anwendung im akademischen Kontext",
         "Visible":  true
     },
     {
@@ -56,7 +56,7 @@
         "Paraphrase":  "Ich war überrascht, wie genau und gut formuliert ChatGPT Ergebnisse lieferte.",
         "Generalisierung":  "Überraschend präzise und gut formulierte Ergebnisse von ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -66,7 +66,7 @@
         "Paraphrase":  "Manchmal waren die von ChatGPT generierten Texte ungenau, unpassend oder falsch.",
         "Generalisierung":  "Ungenaue, unpassende oder falsche Textgenerierung durch ChatGPT.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Qualität der Antworten",
         "Visible":  true
     },
     {
@@ -74,9 +74,9 @@
         "Nummer":  "8",
         "Textausschnitt":  "Obwohl die Bedienung sehr einfach ist, hat es einige Zeit gebraucht, bis ich das richtige Arbeiten mit der Software herausgefunden hatte.",
         "Paraphrase":  "Trotz einfacher Bedienung brauchte ich Zeit, um die richtige Nutzung von ChatGPT zu lernen.",
-        "Generalisierung":  "Lernkurve bei der Nutzung von ChatGPT trotz einfacher Bedienung.",
+        "Generalisierung":  "Einarbeitung in ChatGPT trotz einfacher Bedienung.",
         "Kategorie":  "Benutzerfreundlichkeit",
-        "Subkategorie":  "",
+        "Subkategorie":  "Einarbeitung",
         "Visible":  true
     },
     {
@@ -95,8 +95,8 @@
         "Textausschnitt":  "Die Möglichkeit, Texte mithilfe von KI zu erstellen, wird zweifellos die Art und Weise verändern, wie Hausarbeiten und andere schriftliche Arbeiten in Zukunft erstellt werden. Ich finde jedoch, dass diese Entwicklung nicht grundsätzlich negativ sein muss.",
         "Paraphrase":  "KI wird die Erstellung von Hausarbeiten verändern, aber das muss nicht negativ sein.",
         "Generalisierung":  "Veränderung der Erstellung von akademischen Arbeiten durch KI, nicht unbedingt negativ.",
-        "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  "",
+        "Kategorie":  "Sonstiges",
+        "Subkategorie":  "Anmerkung",
         "Visible":  true
     },
     {
@@ -105,18 +105,18 @@
         "Textausschnitt":  "Sollte von vornherein das Arbeiten mit KI für eine Hausarbeit ausgeschlossen werden, gibt es mittlerweile Tools, die Text dahingehend überprüfen können",
         "Paraphrase":  "Es gibt Tools, die überprüfen können, ob KI für Hausarbeiten genutzt wurde.",
         "Generalisierung":  "Verfügbarkeit von Tools zur Überprüfung der Nutzung von KI in akademischen Arbeiten.",
-        "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Kategorie":  "Sonstiges",
+        "Subkategorie":  "Anmerkung",
         "Visible":  true
     },
     {
         "ID":  "2",
         "Nummer":  "12",
-        "Textausschnitt":  "Die Möglichkeit, Texte mithilfe von KI zu generieren und auf umfangreiche Datenbanken und Wissensressourcen zuzugreifen, bietet eine effiziente und zeitsparende Alternative für die Informationsbeschaffung und Texterstellung.",
-        "Paraphrase":  "KI ermöglicht effiziente und zeitsparende Informationsbeschaffung und Texterstellung.",
-        "Generalisierung":  "Effiziente und zeitsparende Informationsbeschaffung und Texterstellung durch KI.",
-        "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  "",
+        "Textausschnitt":  "Die Möglichkeit, Texte mithilfe von KI zu generieren und auf umfangreiche Datenbanken und Wissensressourcen zuzugreifen, bietet eine effiziente und zeitsparende Alternative für die Informationsbeschaffung.",
+        "Paraphrase":  "KI ermöglicht effiziente und zeitsparende Informationsbeschaffung.",
+        "Generalisierung":  "Effiziente und zeitsparende Informationsbeschaffung durch KI.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  "Wissenszugang und -erweiterung",
         "Visible":  true
     },
     {
@@ -125,8 +125,8 @@
         "Textausschnitt":  "Die Nutzung von KI kann den Schreibprozess beschleunigen und den Studierenden mehr Zeit für die kritische Analyse und das tiefergehende Verständnis des Themas ermöglichen",
         "Paraphrase":  "KI kann den Schreibprozess beschleunigen und mehr Zeit für Analyse und Verständnis bieten.",
         "Generalisierung":  "Beschleunigung des Schreibprozesses und mehr Zeit für Analyse durch KI.",
-        "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  "",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -136,7 +136,7 @@
         "Paraphrase":  "Es ist wichtig, kritisch zu denken und KI-generierte Texte unabhängig zu überprüfen, da Fehler und Verzerrungen möglich sind.",
         "Generalisierung":  "Notwendigkeit kritischen Denkens und unabhängiger Überprüfung von KI-generierten Texten.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kritisches Denken und Eigenleistung",
         "Visible":  true
     }
 ]

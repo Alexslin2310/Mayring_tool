@@ -5,8 +5,8 @@
         "Textausschnitt":  "Es hat mir geholfen, meine Gedanken klarer auszudrücken und komplexe Inhalte besser zu strukturieren",
         "Paraphrase":  "ChatGPT hilft mir, meine Ideen klarer und strukturierter auszudrücken.",
         "Generalisierung":  "Verbesserung der Klarheit und Strukturierung von Gedanken.",
-        "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  "Sonstiges",
         "Visible":  true
     },
     {
@@ -16,7 +16,7 @@
         "Paraphrase":  "Ich befürchte, dass ich weniger selbst nachdenke, weil ich mich zu sehr auf ChatGPT verlasse.",
         "Generalisierung":  "Abhängigkeit von ChatGPT könnte selbstständiges Denken verringern.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Auswirkungen auf das Lernen und kognitive Prozesse",
         "Visible":  true
     },
     {
@@ -26,7 +26,7 @@
         "Paraphrase":  "Manchmal war ChatGPT wegen Serverüberlastung nicht verfügbar, was meinen Arbeitsfluss störte.",
         "Generalisierung":  "Eingeschränkte Verfügbarkeit von ChatGPT durch Serverprobleme.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Technische Probleme und Verfügbarkeit",
         "Visible":  true
     },
     {
@@ -37,7 +37,7 @@
         "Generalisierung":  "Wiederholende und erkennbare Formulierungen von ChatGPT.",
         "Kategorie":  "Herausforderungen",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "1",
@@ -46,7 +46,7 @@
         "Paraphrase":  "ChatGPT neigt dazu, sich zu wiederholen und Zusammenfassungen zu liefern.",
         "Generalisierung":  "Wiederholungen und häufige Zusammenfassungen bei ChatGPT.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Sprachliche und stilistische Aspekte",
         "Visible":  true
     },
     {
@@ -56,7 +56,7 @@
         "Paraphrase":  "ChatGPT hat nicht immer auf meine speziellen Anforderungen reagiert, was zusätzliche Anpassungen erforderte.",
         "Generalisierung":  "Unzureichende Anpassung von ChatGPT an spezifische Anforderungen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Korrektur und Verbesserung",
         "Visible":  true
     },
     {
@@ -65,8 +65,8 @@
         "Textausschnitt":  "Ich teile die Bedenken von Elon Musk bezüglich ChatGPT. Musk kri sierte in einem Interview, dass der aktuelle Platzhirsch ChatGPT so programmiert werde, dass er \u0027poli sch korrekte\u0027 Ergebnisse liefere, also lüge. Darüber hinaus habe Künstliche Intelligenz insgesamt \u0027das Potenzial zur Zerstörung der Zivilisa on\u0027",
         "Paraphrase":  "Ich stimme Elon Musks Kritik zu, dass ChatGPT politisch korrekt programmiert ist und potenziell gefährlich sein kann.",
         "Generalisierung":  "Kritik an politisch korrekter Programmierung und potenzieller Gefahr von ChatGPT.",
-        "Kategorie":  "Sonstiges",
-        "Subkategorie":  "",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  "Ethische Bedenken",
         "Visible":  true
     },
     {
@@ -76,7 +76,7 @@
         "Paraphrase":  "Ich denke, ChatGPT ist gefährlich, weil es falsche Informationen verbreiten kann.",
         "Generalisierung":  "Gefahr durch Verbreitung falscher Informationen durch ChatGPT.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fehlende Quellen und Verlässlichkeit",
         "Visible":  true
     },
     {
@@ -86,17 +86,17 @@
         "Paraphrase":  "Es besteht die Gefahr von Arbeitsplatzverlusten durch Automatisierung.",
         "Generalisierung":  "Automatisierung durch ChatGPT könnte Arbeitsplätze gefährden.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Ethische Bedenken",
         "Visible":  true
     },
     {
         "ID":  "1",
         "Nummer":  "10",
-        "Textausschnitt":  "Aus meiner Sicht sollten Lehrkrä e den Einsatz von ChatGPT nicht gesta en, da dies dazu führen kann, dass Schüler und Studierende nachlässig werden, sich weniger anstrengen und möglicherweise die Gefahr einer Verflachung des Wissens besteht.",
+        "Textausschnitt":  "Aus meiner Sicht sollten Lehrkräfte den Einsatz von ChatGPT nicht gesta en, da dies dazu führen kann, dass Schüler und Studierende nachlässig werden, sich weniger anstrengen und möglicherweise die Gefahr einer Verflachung des Wissens besteht.",
         "Paraphrase":  "Lehrer sollten ChatGPT nicht nutzen, da es Schüler faul machen und das Wissen oberflächlich halten könnte.",
         "Generalisierung":  "Nutzung von ChatGPT könnte zur Faulheit und oberflächlichem Wissen bei Schülern führen.",
-        "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Kategorie":  "Herausforderungen",
+        "Subkategorie":  "Auswirkungen auf das Lernen und kognitive Prozesse",
         "Visible":  true
     }
 ]

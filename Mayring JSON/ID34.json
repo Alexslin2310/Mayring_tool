@@ -5,8 +5,8 @@
         "Textausschnitt":  "Die Arbeit mit ChatGPT bei einer Hausarbeit stellt für mich eine äußerst nützliche Hilfe dar, die vor allem bei dem Prozess Ideen zu finden und dem Schreiben von Fließtexten hilft.",
         "Paraphrase":  "Die Arbeit mit ChatGPT bei einer Hausarbeit ist eine nützliche Hilfe, besonders beim Finden von Ideen und Schreiben von Fließtexten.",
         "Generalisierung":  "Nützliche Hilfe bei Ideenfindung und Schreiben von Fließtexten.",
-        "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  "",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -16,7 +16,7 @@
         "Paraphrase":  "Die Arbeit mit ChatGPT ist wegen der einfachen Benutzeroberfläche und der kostenfreien Verfügbarkeit nicht kompliziert, auch für Menschen mit weniger guten Computerkenntnissen.",
         "Generalisierung":  "Einfache Benutzeroberfläche und kostenfreie Verfügbarkeit machen die Arbeit mit ChatGPT unkompliziert.",
         "Kategorie":  "Benutzerfreundlichkeit",
-        "Subkategorie":  "",
+        "Subkategorie":  "Einfache Bedienung",
         "Visible":  true
     },
     {
@@ -36,7 +36,7 @@
         "Paraphrase":  "Die größten Probleme hatte ich bei der Erreichbarkeit der KI. Morgens wurden oft Netzwerkprobleme angezeigt, weshalb ich nicht mit ChatGPT arbeiten konnte.",
         "Generalisierung":  "Probleme bei der Erreichbarkeit der KI, oft Netzwerkprobleme morgens.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Technische Probleme und Verfügbarkeit",
         "Visible":  true
     },
     {
@@ -46,7 +46,7 @@
         "Paraphrase":  "Das Problem liegt wahrscheinlich daran, dass zu viele Menschen gleichzeitig auf den Chatbot zugreifen und die Server überlastet sind. Dies kann man durch den Kauf der Premiumversion für 20$ im Monat umgehen.",
         "Generalisierung":  "Serverüberlastung durch zu viele gleichzeitige Zugriffe, kann durch Premiumversion umgangen werden.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Technische Probleme und Verfügbarkeit",
         "Visible":  true
     },
     {
@@ -56,7 +56,7 @@
         "Paraphrase":  "Ein Kritikpunkt ist, dass die Antworten oft in Nummerierungen und nicht im Fließtext gegeben werden. Dies kann durch eine weitere Aufforderung, die Antwort im Fließtext zu geben, behoben werden.",
         "Generalisierung":  "Antworten oft in Nummerierungen statt im Fließtext, kann durch Aufforderung zur Fließtextwiedergabe behoben werden.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Sprachliche und stilistische Aspekte",
         "Visible":  true
     },
     {
@@ -65,8 +65,8 @@
         "Textausschnitt":  "Für mich ist ChatGPT sehr hilfreich bei einer Hausarbeit, da ich dadurch einen einfacheren Start in den Text erhalte und schneller in einen Flow komme.",
         "Paraphrase":  "ChatGPT ist bei einer Hausarbeit sehr hilfreich, da es einen einfacheren Start in den Text ermöglicht und hilft, schneller in den Flow zu kommen.",
         "Generalisierung":  "Hilfreich für einen einfacheren Start und schnellen Flow bei Hausarbeiten.",
-        "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  "",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  "Anwendung im akademischen Kontext",
         "Visible":  true
     },
     {
@@ -75,8 +75,8 @@
         "Textausschnitt":  "zudem hilft es mir enorm Informationen in sehr kurzer Zeit zu sammeln, ohne viele Quellen durchzulesen.",
         "Paraphrase":  "Es hilft enorm, Informationen in sehr kurzer Zeit zu sammeln, ohne viele Quellen durchlesen zu müssen.",
         "Generalisierung":  "Enorme Hilfe beim schnellen Sammeln von Informationen ohne viele Quellen durchzulesen.",
-        "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  "",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  "Wissenszugang und -erweiterung",
         "Visible":  true
     },
     {
@@ -86,7 +86,7 @@
         "Paraphrase":  "Lehrende sollten den Einsatz von ChatGPT erlauben, sofern die Texte der KI kenntlich gemacht und nicht im Überfluss genutzt werden.",
         "Generalisierung":  "Einsatz von ChatGPT sollte erlaubt werden, wenn Texte der KI kenntlich gemacht und nicht im Überfluss genutzt werden.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Subkategorie":  "Erlauben",
         "Visible":  true
     },
     {
@@ -96,7 +96,7 @@
         "Paraphrase":  "Die KI sollte genutzt werden dürfen, um Arbeiten zu strukturieren und inhaltlich sowie formell aufzuwerten.",
         "Generalisierung":  "KI sollte zur Strukturierung und inhaltlichen sowie formellen Aufwertung von Arbeiten genutzt werden dürfen.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Subkategorie":  "Erlauben",
         "Visible":  true
     },
     {
@@ -106,7 +106,7 @@
         "Paraphrase":  "Die Quellen der KI müssen möglicherweise gegengecheckt und auf Seriosität überprüft werden.",
         "Generalisierung":  "Quellen der KI müssen auf Seriosität überprüft werden.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fehlende Quellen und Verlässlichkeit",
         "Visible":  true
     }
 ]

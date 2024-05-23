@@ -16,7 +16,7 @@
         "Paraphrase":  "Für allgemeine und breit gefasste Fragen ist die Nutzung von ChatGPT einfach.",
         "Generalisierung":  "Einfache Nutzung von ChatGPT für allgemeine und breit gefasste Fragen.",
         "Kategorie":  "Benutzerfreundlichkeit",
-        "Subkategorie":  "",
+        "Subkategorie":  "Einfache Bedienung",
         "Visible":  true
     },
     {
@@ -36,7 +36,7 @@
         "Paraphrase":  "ChatGPT hatte keine Informationen ab 2021, weshalb man selbst auf der Webseite recherchieren musste.",
         "Generalisierung":  "Fehlende Informationen ab 2021 bei ChatGPT erfordern eigene Recherche.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Einschränkungen und Begrenzungen",
         "Visible":  true
     },
     {
@@ -46,8 +46,8 @@
         "Paraphrase":  "ChatGPT konnte mir bei fast allen Fragen weiterhelfen.",
         "Generalisierung":  "ChatGPT hilft bei fast allen Fragen weiter.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Subkategorie":  "Wissenszugang und -erweiterung",
+        "Visible":  false
     },
     {
         "ID":  "15",
@@ -55,8 +55,8 @@
         "Textausschnitt":  "Ja, ChatGPT kann bei einer Hausarbeit durchaus nützlich sein, insbesondere wenn es darum geht, allgemeine Informationen zu erhalten oder eine breitere Perspektive zu einem Thema zu erhalten.",
         "Paraphrase":  "ChatGPT kann bei Hausarbeiten nützlich sein, besonders um allgemeine Informationen oder eine breitere Perspektive zu erhalten.",
         "Generalisierung":  "Nützlichkeit von ChatGPT bei Hausarbeiten für allgemeine Informationen und breitere Perspektiven.",
-        "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  "",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  "Anwendung im akademischen Kontext",
         "Visible":  true
     },
     {
@@ -65,8 +65,8 @@
         "Textausschnitt":  "Man kann ChatGPT verwenden, um grundlegende Fakten, Erklärungen oder Ansichten zu bestimmten Themen zu erhalten, die in der Hausarbeit relevant sind.",
         "Paraphrase":  "ChatGPT kann verwendet werden, um grundlegende Fakten, Erklärungen oder Ansichten zu relevanten Themen für Hausarbeiten zu erhalten.",
         "Generalisierung":  "Verwendung von ChatGPT für grundlegende Fakten, Erklärungen und Ansichten zu relevanten Themen.",
-        "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  "",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  "Wissenszugang und -erweiterung",
         "Visible":  true
     },
     {
@@ -76,7 +76,7 @@
         "Paraphrase":  "Lehrende sollten den Einsatz von ChatGPT erlauben, da es nützlich ist.",
         "Generalisierung":  "Erlaubnis des Einsatzes von ChatGPT durch Lehrende wegen Nützlichkeit.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Subkategorie":  "Erlauben",
         "Visible":  true
     },
     {
@@ -86,7 +86,7 @@
         "Paraphrase":  "ChatGPT ist eine gute Hilfe bei Fragenkatalogen. Ich nutzte es meistens, um Fragenkataloge zu erstellen.",
         "Generalisierung":  "Gute Hilfe von ChatGPT bei der Erstellung von Fragenkatalogen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Anwendung im akademischen Kontext",
         "Visible":  true
     }
 ]

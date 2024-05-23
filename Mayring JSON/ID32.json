@@ -6,7 +6,7 @@
         "Paraphrase":  "Die Anwendung des Systems bzw. der Künstlichen Intelligenz (KI) war relativ einfach und benutzerfreundlich.",
         "Generalisierung":  "Einfache und benutzerfreundliche Anwendung des KI-Systems.",
         "Kategorie":  "Benutzerfreundlichkeit",
-        "Subkategorie":  "",
+        "Subkategorie":  "Einfache Bedienung",
         "Visible":  true
     },
     {
@@ -27,7 +27,7 @@
         "Generalisierung":  "Wichtige Vorabinformation des Systems bei unbekanntem Unternehmen erforderlich.",
         "Kategorie":  "Eingabedetaillierung",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "32",
@@ -36,17 +36,17 @@
         "Paraphrase":  "Der Einsatz von ChatGPT war nicht für alle Themen geeignet, aber die KI konnte zu allen Fragestellungen Ansätze liefern.",
         "Generalisierung":  "ChatGPT kann nicht alle Themen abdecken, liefert aber Ansätze zu allen Fragestellungen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Subkategorie":  "Wissenszugang und -erweiterung",
+        "Visible":  false
     },
     {
         "ID":  "32",
         "Nummer":  "5",
         "Textausschnitt":  "Besonders in den gene rellen Bereichen, wie den externen Wandelauslösern in der Branche oder den Gründen warum die Marketingleitung als Verantwortungsperson für den Wandel am geeignetsten ist, konnten sehr gut mithilfe der KI beantwortet werden.",
         "Paraphrase":  "Besonders in den allgemeinen Bereichen, wie externen Wandelauslösern in der Branche oder den Gründen, warum die Marketingleitung als Verantwortungsperson für den Wandel am geeignetsten ist, konnte die KI sehr gut Antworten liefern.",
-        "Generalisierung":  "Gute Antworten in allgemeinen Bereichen wie externen Wandelauslösern oder Verantwortlichkeiten.",
+        "Generalisierung":  "Gute Antworten in allgemeinen Bereichen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Wissenszugang und -erweiterung",
         "Visible":  true
     },
     {
@@ -56,7 +56,7 @@
         "Paraphrase":  "Ein negativer Punkt ist, dass ChatGPT zwar lange Texte formulieren konnte, diese jedoch oft nur allgemeine Aussagen enthielten und viele Wiederholungen aufwiesen.",
         "Generalisierung":  "Lange Texte von ChatGPT enthalten oft nur allgemeine Aussagen und viele Wiederholungen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Sprachliche und stilistische Aspekte",
         "Visible":  true
     },
     {
@@ -66,7 +66,7 @@
         "Paraphrase":  "Viel Text enthielt wenig informativen Inhalt, was die Aussagen schwerfällig und wenig aussagekräftig machte.",
         "Generalisierung":  "Viel Text, wenig informativer Inhalt, schwerfällige und wenig aussagekräftige Aussagen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Qualität der Antworten",
         "Visible":  true
     },
     {
@@ -76,7 +76,7 @@
         "Paraphrase":  "ChatGPT verwendet oft den Konjunktiv, um weniger falsche Aussagen zu liefern, was bedeutet, dass meistens keine klaren Antworten generiert wurden.",
         "Generalisierung":  "Verwendung des Konjunktivs führt zu unklaren Antworten.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Sprachliche und stilistische Aspekte",
         "Visible":  true
     },
     {
@@ -87,7 +87,7 @@
         "Generalisierung":  "Superintelligentes Sprachverständnis der KI, wenige verbleibende Rechtschreibfehler können beseitigt werden.",
         "Kategorie":  "Unterstützungsbereiche",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "32",
@@ -96,7 +96,7 @@
         "Paraphrase":  "Insgesamt hat ChatGPT mir sehr beim Schreiben der Hausarbeit geholfen, indem es immer gute Ideen und Ansätze lieferte. Auch Modellanwendungen waren kein Problem.",
         "Generalisierung":  "ChatGPT hilft beim Schreiben, liefert gute Ideen und Ansätze, Modellanwendungen sind kein Problem.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -106,7 +106,7 @@
         "Paraphrase":  "Alle von der KI gegebenen Antworten sollten sorgfältig auf ihre Richtigkeit geprüft werden, da die KI keine Quellen angibt. Daher sehe ich den Einsatz in Projekt-, Bachelor- und Masterarbeiten als kritisch an.",
         "Generalisierung":  "Sorgfältige Prüfung der Antworten erforderlich, keine Quellenangaben, Einsatz in wissenschaftlichen Arbeiten kritisch.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kritisches Denken und Eigenleistung",
         "Visible":  true
     },
     {
@@ -117,6 +117,6 @@
         "Generalisierung":  "Texte können hervorragend umgeschrieben werden, gleiche Aussagen und Inhalte, aber klingen nicht mehr wie der Originaltext.",
         "Kategorie":  "Unterstützungsbereiche",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     }
 ]

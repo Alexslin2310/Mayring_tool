@@ -6,7 +6,7 @@
         "Paraphrase":  "Ein Hauptvorteil war die schnelle und umfangreiche Bereitstellung von Informationen.",
         "Generalisierung":  "Schnelle und umfangreiche Bereitstellung von Informationen ist ein Hauptvorteil.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Wissenszugang und -erweiterung",
         "Visible":  true
     },
     {
@@ -16,8 +16,8 @@
         "Paraphrase":  "Ein weiterer Vorteil war die Flexibilität von ChatGPT, das auf viele Themen eingehen und verschiedene Fragen beantworten konnte, was mir half, den Umfang meiner Hausarbeit zu erweitern.",
         "Generalisierung":  "Flexibilität von ChatGPT, die auf viele Themen eingehen und verschiedene Fragen beantworten kann, hilft beim Erweitern des Umfangs der Arbeit.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Subkategorie":  "Wissenszugang und -erweiterung",
+        "Visible":  false
     },
     {
         "ID":  "28",
@@ -27,7 +27,7 @@
         "Generalisierung":  "Längere Nutzung von ChatGPT kann dazu führen, dass man \u0027faul\u0027 wird.",
         "Kategorie":  "Herausforderungen",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "28",
@@ -36,7 +36,7 @@
         "Paraphrase":  "Der Kontrast zwischen herkömmlichem Arbeiten und der Nutzung von ChatGPT macht es schwerer, ohne ChatGPT zu arbeiten, da man komplette Textpassagen durch kurze Befehle schreiben lassen kann.",
         "Generalisierung":  "Nutzung von ChatGPT macht es schwerer, ohne ChatGPT zu arbeiten, da man komplette Textpassagen durch kurze Befehle schreiben lassen kann.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Auswirkungen auf das Lernen und kognitive Prozesse",
         "Visible":  true
     },
     {
@@ -56,7 +56,7 @@
         "Paraphrase":  "ChatGPT könnte in Bereichen wie Kundenservice, Forschung und Entwicklung oder Bildung als effizientes Werkzeug eingesetzt werden, um Informationen bereitzustellen und komplexe Fragen zu beantworten.",
         "Generalisierung":  "Effizientes Werkzeug in Kundenservice, Forschung und Entwicklung oder Bildung zur Bereitstellung von Informationen und Beantwortung komplexer Fragen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Anwendung in der Praxis",
         "Visible":  true
     },
     {
@@ -65,8 +65,8 @@
         "Textausschnitt":  "Als gängiges Hilfsmittel für Studenten finde ich ChatGPT aber nicht geeignet, da man eben im Laufe der Zeit das wissenschaftliche Schreiben \u0027verlernen\u0027 würde und in eine Abhängigkeit von ChatGPT geraten kann.",
         "Paraphrase":  "ChatGPT ist als gängiges Hilfsmittel für Studenten nicht geeignet, da man das wissenschaftliche Schreiben verlernen und in Abhängigkeit von ChatGPT geraten kann.",
         "Generalisierung":  "Nicht geeignet als gängiges Hilfsmittel für Studenten wegen möglichem Verlernen des wissenschaftlichen Schreibens und Abhängigkeit.",
-        "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Kategorie":  "Einsatz in der Lehre",
+        "Subkategorie":  "Verbieten",
         "Visible":  true
     },
     {
@@ -77,7 +77,7 @@
         "Generalisierung":  "Zeitsparende Unterstützung und Erleichterung des Arbeitsprozesses durch effizientes Arbeiten mit ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "28",
@@ -86,8 +86,8 @@
         "Paraphrase":  "Die präzisen Antworten und schnelle Reaktionszeit haben meine Effizienz gesteigert und mir geholfen, umfassende Informationen zu erhalten.",
         "Generalisierung":  "Präzise Antworten und schnelle Reaktionszeit steigern Effizienz und helfen, umfassende Informationen zu erhalten.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Subkategorie":  "Wissenszugang und -erweiterung",
+        "Visible":  false
     },
     {
         "ID":  "28",
@@ -95,8 +95,8 @@
         "Textausschnitt":  "Ich schätze zwar die Leistungsfähigkeit von ChatGPT und sehe auch großes Potenzial für seinen weiteren Einsatz, bin jedoch trotzdem unsicher, ob man es als erlaubtes Hilfsmittel etablieren sollte.",
         "Paraphrase":  "Ich schätze die Leistungsfähigkeit von ChatGPT und sehe großes Potenzial, bin jedoch unsicher, ob es als erlaubtes Hilfsmittel etabliert werden sollte.",
         "Generalisierung":  "Unsicherheit über die Etablierung von ChatGPT als erlaubtes Hilfsmittel trotz Leistungsfähigkeit und Potenzial.",
-        "Kategorie":  "Sonstiges",
-        "Subkategorie":  "",
+        "Kategorie":  "Einsatz in der Lehre",
+        "Subkategorie":  "Sonstiges",
         "Visible":  true
     }
 ]

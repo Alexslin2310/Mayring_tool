@@ -6,7 +6,7 @@
         "Paraphrase":  "Der Aufbau von ChatGPT ähnelt Social-Media-Chats, sodass ich mich schnell zurechtfinden konnte.",
         "Generalisierung":  "Vertrauter Aufbau von ChatGPT ermöglicht schnelles Zurechtfinden.",
         "Kategorie":  "Benutzerfreundlichkeit",
-        "Subkategorie":  "",
+        "Subkategorie":  "Einfache Bedienung",
         "Visible":  true
     },
     {
@@ -27,7 +27,7 @@
         "Generalisierung":  "Einfaches Kopieren der Aufgaben liefert nicht immer die gewünschten Informationen.",
         "Kategorie":  "Eingabedetaillierung",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "11",
@@ -45,7 +45,7 @@
         "Textausschnitt":  "Ich stieß auf Probleme, wenn die Antworten des Chatbots oberflächlich waren und ich mehrfach nachfragen oder die Fragen anpassen musste, um bessere Antworten zu erhalten.",
         "Paraphrase":  "Wenn die Antworten oberflächlich waren, musste ich mehrfach nachfragen oder die Fragen anpassen.",
         "Generalisierung":  "Oberflächliche Antworten erfordern mehrfaches Nachfragen oder Anpassen der Fragen.",
-        "Kategorie":  "Herausforderungen",
+        "Kategorie":  "Eingabedetaillierung",
         "Subkategorie":  "",
         "Visible":  true
     },
@@ -57,7 +57,7 @@
         "Generalisierung":  "Unterschiedliche Ergebnisse bei der Anwendung von Theorien oder Modellen aus Vorlesungen durch ChatGPT.",
         "Kategorie":  "Herausforderungen",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "11",
@@ -66,7 +66,7 @@
         "Paraphrase":  "Verwirrung und Unsicherheit durch unterschiedliche Ergebnisse machten es schwer, Konzepte anzuwenden.",
         "Generalisierung":  "Verwirrung und Unsicherheit durch unterschiedliche Ergebnisse bei der Anwendung von Konzepten.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Benutzererfahrung",
         "Visible":  true
     },
     {
@@ -76,7 +76,7 @@
         "Paraphrase":  "Zusätzliche Recherche und Anpassungen waren notwendig, um die gewünschten Ergebnisse zu erzielen.",
         "Generalisierung":  "Zusätzliche Recherche und Anpassungen notwendig für gewünschte Ergebnisse.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Nacharbeit und Mehraufwand",
         "Visible":  true
     },
     {
@@ -86,7 +86,7 @@
         "Paraphrase":  "ChatGPT hat mir sehr geholfen, besonders bei der Formulierung von Texten.",
         "Generalisierung":  "Hilfreich bei der Textformulierung durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -96,7 +96,7 @@
         "Paraphrase":  "ChatGPT konnte in wenigen Sekunden Aufgaben beantworten und Texte verfassen.",
         "Generalisierung":  "Schnelle Beantwortung von Aufgaben und Verfassen von Texten durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -106,7 +106,7 @@
         "Paraphrase":  "ChatGPT konnte Korrektur lesen und unterstützen.",
         "Generalisierung":  "Unterstützung und Korrekturlesen durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -116,7 +116,7 @@
         "Paraphrase":  "ChatGPT half mir, erste Informationen zu einem Thema zu filtern, ohne im Internet zu recherchieren.",
         "Generalisierung":  "Erste Informationsfilterung durch ChatGPT ohne Internetrecherche.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Wissenszugang und -erweiterung",
         "Visible":  true
     },
     {
@@ -125,8 +125,8 @@
         "Textausschnitt":  "Ja, ChatGPT ist definitiv nützlich bei der Erstellung einer Hausarbeit.",
         "Paraphrase":  "ChatGPT ist nützlich bei der Erstellung einer Hausarbeit.",
         "Generalisierung":  "Nützlichkeit von ChatGPT bei der Erstellung von Hausarbeiten.",
-        "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  "",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  "Anwendung im akademischen Kontext",
         "Visible":  true
     },
     {
@@ -135,8 +135,8 @@
         "Textausschnitt":  "Der Bot kann dabei helfen, die Struktur der Arbeit, wie zum Beispiel ein Inhaltsverzeichnis, zu erstellen.",
         "Paraphrase":  "ChatGPT kann bei der Erstellung der Struktur einer Arbeit, wie eines Inhaltsverzeichnisses, helfen.",
         "Generalisierung":  "Hilfe von ChatGPT bei der Erstellung der Struktur einer Arbeit.",
-        "Kategorie":  "Nützlichkeit für akademische Arbeiten",
-        "Subkategorie":  "",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  "Anwendung im akademischen Kontext",
         "Visible":  true
     },
     {
@@ -146,7 +146,7 @@
         "Paraphrase":  "ChatGPT vereinfacht die Arbeit, indem es die Informationen in einen Text umwandelt und man sich auf die Informationsbeschaffung konzentrieren kann.",
         "Generalisierung":  "Arbeitserleichterung durch ChatGPT durch Umwandlung von Informationen in Text.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -156,7 +156,7 @@
         "Paraphrase":  "Lehrende sollten ChatGPT erlauben, da es eine hilfreiche Arbeitshilfe ist.",
         "Generalisierung":  "Erlaubnis von ChatGPT durch Lehrende wegen hilfreicher Unterstützung.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Subkategorie":  "Erlauben",
         "Visible":  true
     },
     {
@@ -167,7 +167,7 @@
         "Generalisierung":  "Strenge Prüfung der von ChatGPT gelieferten Informationen.",
         "Kategorie":  "Herausforderungen",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "11",
@@ -176,7 +176,7 @@
         "Paraphrase":  "Es ist ratsam, Informationen durch Fachbücher oder andere zuverlässige Quellen zu überprüfen, um Missverständnisse oder Fehlinformationen zu vermeiden.",
         "Generalisierung":  "Überprüfung der Informationen durch zuverlässige Quellen zur Vermeidung von Missverständnissen oder Fehlinformationen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kritisches Denken und Eigenleistung",
         "Visible":  true
     },
     {
@@ -185,8 +185,8 @@
         "Textausschnitt":  "Ich kann mir die Nutzung von ChatGPT in verschiedenen Bereichen des Studiums vorstellen. Beispielsweise kann der Chatbot beim Erstellen von Fragekatalogen, Zusammenfassungen oder Präsentationen sehr hilfreich sein.",
         "Paraphrase":  "ChatGPT kann in verschiedenen Bereichen des Studiums nützlich sein, wie beim Erstellen von Fragekatalogen, Zusammenfassungen oder Präsentationen.",
         "Generalisierung":  "Nutzung von ChatGPT in verschiedenen Bereichen des Studiums, z. B. bei Fragekatalogen, Zusammenfassungen oder Präsentationen.",
-        "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  "Anwendung im akademischen Kontext",
         "Visible":  true
     },
     {
@@ -195,8 +195,8 @@
         "Textausschnitt":  "Im Rahmen meines Praktikums in Angewandter Marktforschung haben wir beispielsweise einen Leitfaden für einen Fragebogen erstellt, bei dem der Einsatz von ChatGPT eine wertvolle Unterstützung gewesen war.",
         "Paraphrase":  "In meinem Praktikum half ChatGPT beim Erstellen eines Leitfadens für einen Fragebogen.",
         "Generalisierung":  "Wertvolle Unterstützung durch ChatGPT beim Erstellen eines Leitfadens für einen Fragebogen.",
-        "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  "Anwendung im akademischen Kontext",
         "Visible":  true
     }
 ]

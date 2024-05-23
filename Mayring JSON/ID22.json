@@ -6,7 +6,7 @@
         "Paraphrase":  "Ein offensichtlicher Vorteil ist, dass ChatGPT kaum Rechtschreib- und Zeichensetzungsfehler macht, was zu qualitativ hochwertigeren Texten führt.",
         "Generalisierung":  "Kaum Rechtschreib- und Zeichensetzungsfehler durch ChatGPT führen zu hochwertigen Texten.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -16,7 +16,7 @@
         "Paraphrase":  "Die automatische Korrekturfunktion spart dem Studenten Zeit und Mühe.",
         "Generalisierung":  "Automatische Korrekturfunktion spart Zeit und Mühe.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -26,7 +26,7 @@
         "Paraphrase":  "ChatGPT reduziert die Tipparbeit erheblich, indem es den Text in Echtzeit basierend auf den Gedanken und Informationen des Studenten erstellt.",
         "Generalisierung":  "Reduzierung der Tipparbeit durch Echtzeiterstellung von Texten basierend auf Gedanken und Informationen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -37,7 +37,7 @@
         "Generalisierung":  "Schnellere Arbeitsweise und mehr Zeit für Recherche und Studium.",
         "Kategorie":  "Unterstützungsbereiche",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "22",
@@ -46,7 +46,7 @@
         "Paraphrase":  "Ein interessanter Aspekt ist, dass ChatGPT kreative Anreize bietet, indem es Vorschläge für Titel oder Themen macht.",
         "Generalisierung":  "ChatGPT bietet kreative Anreize durch Vorschläge für Titel oder Themen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kreativität und Ideenfindung",
         "Visible":  true
     },
     {
@@ -56,7 +56,7 @@
         "Paraphrase":  "Das ist besonders hilfreich, wenn der Student Schwierigkeiten hat, einen Fokus für seine Arbeit zu finden.",
         "Generalisierung":  "Hilfreich bei Schwierigkeiten, einen Fokus für die Arbeit zu finden.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Anwendung im akademischen Kontext",
         "Visible":  true
     },
     {
@@ -66,7 +66,7 @@
         "Paraphrase":  "ChatGPT kann Texte schnell zusammenfassen oder Lernzettel erstellen, was praktisch ist, um komplexe Informationen auf den Punkt zu bringen oder eine Lernübersicht zu erstellen.",
         "Generalisierung":  "Schnelles Zusammenfassen von Texten oder Erstellen von Lernzetteln durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Anwendung im akademischen Kontext",
         "Visible":  true
     },
     {
@@ -76,7 +76,7 @@
         "Paraphrase":  "Ein häufiges Problem ist die Wiederholung von Inhalten. ChatGPT neigt dazu, ähnliche Informationen zu wiederholen, was den Lesefluss beeinträchtigen kann.",
         "Generalisierung":  "Wiederholung von Inhalten beeinträchtigt den Lesefluss.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Sprachliche und stilistische Aspekte",
         "Visible":  true
     },
     {
@@ -86,7 +86,7 @@
         "Paraphrase":  "Ein Nachteil ist, dass ChatGPT nur Informationen bis September 2021 hat. Für aktuelle Informationen muss der Student andere Quellen nutzen.",
         "Generalisierung":  "Beschränkung auf Informationen bis September 2021 erfordert Nutzung anderer Quellen für aktuelle Informationen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Einschränkungen und Begrenzungen",
         "Visible":  true
     },
     {
@@ -96,7 +96,7 @@
         "Paraphrase":  "Ein wichtiger Aspekt ist die Datensicherheit. Eingegebene Informationen könnten in falsche Hände geraten und im Internet veröffentlicht werden.",
         "Generalisierung":  "Datensicherheit ist wichtig, da Informationen in falsche Hände geraten und veröffentlicht werden könnten.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Ethische Bedenken",
         "Visible":  true
     },
     {
@@ -107,7 +107,7 @@
         "Generalisierung":  "Sicherheitsvorkehrungen und verantwortungsvoller Einsatz des Chatbots sind wichtig.",
         "Kategorie":  "Herausforderungen",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "22",
@@ -116,7 +116,7 @@
         "Paraphrase":  "Der Chatbot kann bei der Ideenfindung für Haus-, Projekt- oder Bachelorarbeiten unterstützen.",
         "Generalisierung":  "Unterstützung bei der Ideenfindung für Haus-, Projekt- oder Bachelorarbeiten durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Anwendung im akademischen Kontext",
         "Visible":  true
     },
     {
@@ -126,7 +126,7 @@
         "Paraphrase":  "ChatGPT kann bei der Erstellung von E-Mails oder anderen Texten helfen, indem es Texte generiert oder Formulierungsvorschläge macht.",
         "Generalisierung":  "Hilfe bei der Erstellung von E-Mails oder anderen Texten durch Textgenerierung und Formulierungsvorschläge.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Anwendung in der Praxis",
         "Visible":  true
     },
     {
@@ -136,7 +136,7 @@
         "Paraphrase":  "Ein Beispiel für den Einsatz von ChatGPT in der Praxis ist ein interaktiver Chatbot bei Firma, der Ideen generiert und Gefahrenmeldungen erstellt.",
         "Generalisierung":  "Beispiel für praktischen Einsatz: Interaktiver Chatbot bei Firma zur Ideen- und Gefahrenmeldungserstellung.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Anwendung in der Praxis",
         "Visible":  true
     },
     {
@@ -146,7 +146,7 @@
         "Paraphrase":  "Ein weiteres Beispiel ist die Verwendung von ChatGPT zur Erstellung von Auditberichten, wobei der Chatbot Berichte automatisch generiert.",
         "Generalisierung":  "Verwendung von ChatGPT zur automatischen Erstellung von Auditberichten.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Anwendung in der Praxis",
         "Visible":  true
     },
     {
@@ -157,7 +157,7 @@
         "Generalisierung":  "Schnelles Zusammenfassen und Konvertieren von Informationen spart Zeit und verbessert das Verständnis des Themas.",
         "Kategorie":  "Unterstützungsbereiche",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "22",
@@ -167,7 +167,7 @@
         "Generalisierung":  "Gelegentliche inhaltliche Wiederholungen führen zu Redundanzen.",
         "Kategorie":  "Herausforderungen",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "22",
@@ -176,7 +176,7 @@
         "Paraphrase":  "Es ist ratsam, den Text nach der Generierung zu überprüfen und Anpassungen vorzunehmen.",
         "Generalisierung":  "Überprüfung und Anpassung des generierten Textes ist ratsam.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kritisches Denken und Eigenleistung",
         "Visible":  true
     }
 ]

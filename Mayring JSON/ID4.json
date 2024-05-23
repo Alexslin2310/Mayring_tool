@@ -6,8 +6,8 @@
         "Paraphrase":  "ChatGPT liefert viele konstruktive Antworten, basierend auf Wissen bis 2021.",
         "Generalisierung":  "Konstruktive Antworten von ChatGPT basierend auf umfangreichem Wissen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Subkategorie":  "Wissenszugang und -erweiterung",
+        "Visible":  false
     },
     {
         "ID":  "4",
@@ -15,7 +15,7 @@
         "Textausschnitt":  "Eine bemerkenswerte Eigenschaft besteht darin, dass ChatGPT auch mit wenig detaillierten Eingaben umgehen kann und dennoch relevante Informationen liefert",
         "Paraphrase":  "ChatGPT kann auch mit wenig detaillierten Eingaben relevante Informationen liefern.",
         "Generalisierung":  "Relevante Informationen von ChatGPT trotz wenig detaillierter Eingaben.",
-        "Kategorie":  "Unterstützungsbereiche",
+        "Kategorie":  "Eingabedetaillierung",
         "Subkategorie":  "",
         "Visible":  true
     },
@@ -36,17 +36,17 @@
         "Paraphrase":  "ChatGPT hat mein Wissen erweitert und meinen Denkprozess bereichert, indem ich lernte, richtige Fragen zu stellen.",
         "Generalisierung":  "Erweiterung des Wissens und Bereicherung des Denkprozesses durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Subkategorie":  "Wissenszugang und -erweiterung",
+        "Visible":  false
     },
     {
         "ID":  "4",
         "Nummer":  "5",
-        "Textausschnitt":  "ChatGPT kann daher als sehr nützliches Werkzeug betrachtet werden, dass schnelle Antworten auf Fragen liefert, Inspiration für kreative Schreibprojekte bietet und den Wissensaustausch fördert",
-        "Paraphrase":  "ChatGPT liefert schnelle Antworten, bietet Inspiration und fördert den Wissensaustausch.",
-        "Generalisierung":  "Nützlichkeit von ChatGPT für schnelle Antworten, Inspiration und Wissensaustausch.",
+        "Textausschnitt":  "ChatGPT kann daher als sehr nützliches Werkzeug betrachtet werden, dass schnelle Antworten auf Fragen liefert, Inspiration für kreative Schreibprojekte bietet",
+        "Paraphrase":  "ChatGPT liefert schnelle Antworten, bietet Inspiration.",
+        "Generalisierung":  "Nützlichkeit von ChatGPT für schnelle Antworten, Inspiration.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kreativität und Ideenfindung",
         "Visible":  true
     },
     {
@@ -56,7 +56,7 @@
         "Paraphrase":  "Es ist wichtig, Informationen von ChatGPT kritisch zu hinterfragen und zu verifizieren.",
         "Generalisierung":  "Notwendigkeit der kritischen Hinterfragung und Verifizierung von ChatGPT-Informationen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kritisches Denken und Eigenleistung",
         "Visible":  true
     },
     {
@@ -66,7 +66,7 @@
         "Paraphrase":  "KI-Modelle sollten als Unterstützung und Ergänzung zur menschlichen Auffassung genutzt werden.",
         "Generalisierung":  "Nutzung von KI-Modellen als Unterstützung und Ergänzung zur menschlichen Auffassung.",
         "Kategorie":  "Sonstiges",
-        "Subkategorie":  "",
+        "Subkategorie":  "Zusammenarbeit",
         "Visible":  true
     },
     {
@@ -74,19 +74,19 @@
         "Nummer":  "8",
         "Textausschnitt":  "Es ist daher entscheidend, diese KI-Modelle nicht als alleinige Informationsquelle zu nutzen, sondern als Hilfsmittel, um das eigene Wissen zu erweitern und zu vertiefen.",
         "Paraphrase":  "KI-Modelle sollten nicht die einzige Informationsquelle sein, sondern als Hilfsmittel zur Wissenserweiterung genutzt werden.",
-        "Generalisierung":  "KI-Modelle als ergänzendes Hilfsmittel zur Wissenserweiterung, nicht als alleinige Informationsquelle.",
-        "Kategorie":  "Sonstiges",
-        "Subkategorie":  "",
+        "Generalisierung":  "KI-Modelle als ergänzendes Hilfsmittel zur Wissenserweiterung.",
+        "Kategorie":  "Unterstützungsbereiche",
+        "Subkategorie":  "Wissenszugang und -erweiterung",
         "Visible":  true
     },
     {
         "ID":  "4",
         "Nummer":  "9",
         "Textausschnitt":  "Im Bildungskontext können Dozenten den Einsatz solcher KI-Modelle in Erwägung ziehen, um den Studierenden bei Recherchearbeiten zu unterstützen",
-        "Paraphrase":  "Dozenten können KI-Modelle nutzen, um Studierende bei Recherchearbeiten zu unterstützen.",
-        "Generalisierung":  "Nutzung von KI-Modellen durch Dozenten zur Unterstützung von Studierenden bei Recherchearbeiten.",
+        "Paraphrase":  "Dozenten können KI-Modelle erlauben, um Studierende bei Recherchearbeiten zu unterstützen.",
+        "Generalisierung":  "Erlauben von KI-Modellen durch Dozenten zur Unterstützung von Studierenden bei Recherchearbeiten.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Subkategorie":  "Erlauben",
         "Visible":  true
     },
     {
@@ -96,7 +96,7 @@
         "Paraphrase":  "Dozenten sollten klare Anweisungen geben und sicherstellen, dass Studierende eigenständig arbeiten und ihre Fähigkeiten entwickeln.",
         "Generalisierung":  "Wichtigkeit klarer Anweisungen und Förderung der Eigenständigkeit von Studierenden bei der Nutzung von KI-Modellen.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Subkategorie":  "Empfehlung",
         "Visible":  true
     }
 ]

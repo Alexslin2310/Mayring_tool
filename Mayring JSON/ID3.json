@@ -6,7 +6,7 @@
         "Paraphrase":  "ChatGPT ist ein nützliches und effizientes Werkzeug, um Ideen schnell in Text zu formulieren und den Schreibprozess zu beschleunigen.",
         "Generalisierung":  "Effizienz und Nützlichkeit von ChatGPT bei der Formulierung von Ideen und Beschleunigung des Schreibprozesses.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -16,7 +16,7 @@
         "Paraphrase":  "ChatGPT kann spezifische Punkte detailliert beschreiben und Texte vertiefen, wenn man danach fragt.",
         "Generalisierung":  "Detailreichere Beschreibungen und Vertiefung von Texten durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -26,7 +26,7 @@
         "Paraphrase":  "ChatGPT ist hilfreich für Brainstorming und dient als Partner zum Austausch von Ideen.",
         "Generalisierung":  "ChatGPT unterstützt den Brainstorming-Prozess und den Ideenaustausch.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kreativität und Ideenfindung",
         "Visible":  true
     },
     {
@@ -36,7 +36,7 @@
         "Paraphrase":  "ChatGPT kann eigenständig Tabellen erstellen, was die Darstellung von Daten erleichtert.",
         "Generalisierung":  "Erleichterung der Datendarstellung durch die Fähigkeit von ChatGPT, Tabellen zu erstellen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Sonstiges",
         "Visible":  true
     },
     {
@@ -46,7 +46,7 @@
         "Paraphrase":  "ChatGPT formuliert Texte oft wertend und positiv, auch wenn Neutralität besser wäre.",
         "Generalisierung":  "Tendenz von ChatGPT, wertende und positive Formulierungen zu verwenden.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Sprachliche und stilistische Aspekte",
         "Visible":  true
     },
     {
@@ -56,7 +56,7 @@
         "Paraphrase":  "Man muss vorsichtig sein bei der Interpretation und selbst kritische Standpunkte einbringen.",
         "Generalisierung":  "Notwendigkeit der kritischen Interpretation und Einbringung ausgewogener Standpunkte bei der Nutzung von ChatGPT.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kritisches Denken und Eigenleistung",
         "Visible":  true
     },
     {
@@ -86,7 +86,7 @@
         "Paraphrase":  "Es war manchmal schwierig, ChatGPT dazu zu bringen, die gewünschte Position einzunehmen.",
         "Generalisierung":  "Schwierigkeit, ChatGPT zur gewünschten Position zu bringen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Benutzererfahrung",
         "Visible":  true
     },
     {
@@ -96,7 +96,7 @@
         "Paraphrase":  "ChatGPT schweift oft vom Hauptthema ab und verliert sich in Nebendiskussionen.",
         "Generalisierung":  "Neigung von ChatGPT, vom Hauptthema abzuweichen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Benutzererfahrung",
         "Visible":  true
     },
     {
@@ -106,7 +106,7 @@
         "Paraphrase":  "Man muss den Kontext klar halten und ChatGPT regelmäßig daran erinnern, was das Thema ist.",
         "Generalisierung":  "Notwendigkeit der klaren Kontextwahrung und regelmäßigen Erinnerung an das Thema bei der Nutzung von ChatGPT.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Benutzererfahrung",
         "Visible":  true
     },
     {
@@ -116,7 +116,7 @@
         "Paraphrase":  "Zu Stoßzeiten war ChatGPT oft überlastet und antwortete langsam oder gar nicht.",
         "Generalisierung":  "Überlastung von ChatGPT zu Stoßzeiten führte zu langsamen oder ausbleibenden Antworten.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Technische Probleme und Verfügbarkeit",
         "Visible":  true
     },
     {
@@ -127,7 +127,7 @@
         "Generalisierung":  "Arbeiten außerhalb der Stoßzeiten für reibungslose Nutzung von ChatGPT.",
         "Kategorie":  "Herausforderungen",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "3",
@@ -136,7 +136,7 @@
         "Paraphrase":  "ChatGPT fördert Kreativität und kritisches Denken, indem es hilft, Gedanken und Argumente zu entwickeln.",
         "Generalisierung":  "Förderung von Kreativität und kritischem Denken durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Kreativität und Ideenfindung",
         "Visible":  true
     },
     {
@@ -146,7 +146,7 @@
         "Paraphrase":  "ChatGPT hilft beim Organisieren von Gedanken und Erstellen zusammenhängender Texte.",
         "Generalisierung":  "Nützliche Unterstützung durch ChatGPT beim Textverfassen.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
         "Visible":  true
     },
     {
@@ -156,7 +156,7 @@
         "Paraphrase":  "ChatGPT bietet Zugang zu umfangreichen Informationen, die man allein schwer finden kann.",
         "Generalisierung":  "Zugang zu umfangreichen Informationen durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
-        "Subkategorie":  "",
+        "Subkategorie":  "Wissenszugang und -erweiterung",
         "Visible":  true
     },
     {
@@ -166,7 +166,7 @@
         "Paraphrase":  "Es besteht die Sorge, dass zu starke Abhängigkeit von ChatGPT die eigenen Schreib- und Denkfähigkeiten der Studierenden beeinträchtigt.",
         "Generalisierung":  "Sorge um Beeinträchtigung der eigenen Fähigkeiten durch Abhängigkeit von ChatGPT.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Auswirkungen auf das Lernen und kognitive Prozesse",
         "Visible":  true
     },
     {
@@ -176,7 +176,7 @@
         "Paraphrase":  "Es besteht die Gefahr, dass Studierende generierte Texte als ihre eigenen ausgeben und unehrlich handeln.",
         "Generalisierung":  "Gefahr unehrlichen Verhaltens durch Ausgeben generierter Texte als eigene.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "",
+        "Subkategorie":  "Ethische Bedenken",
         "Visible":  true
     },
     {
@@ -184,9 +184,9 @@
         "Nummer":  "19",
         "Textausschnitt":  "Es liegt in der Verantwortung der Lehrenden und der Lernenden sicherzustellen, dass die Qualität der generierten Antworten angemessen überprüft wird, insbesondere bei komplexen oder spezialisierten Themen.",
         "Paraphrase":  "Lehrende und Lernende müssen sicherstellen, dass die Qualität der Antworten von ChatGPT überprüft wird, besonders bei komplexen Themen.",
-        "Generalisierung":  "Verantwortung der Qualitätssicherung bei der Nutzung von ChatGPT für komplexe Themen.",
+        "Generalisierung":  "Verantwortung der Qualitätssicherung liegt bei Lehrende und Lernende.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Subkategorie":  "Empfehlung",
         "Visible":  true
     },
     {
@@ -196,7 +196,7 @@
         "Paraphrase":  "Die individuelle Betreuung der Studierenden und der persönliche Austausch sind wichtig, um gezielt auf Bedürfnisse und Herausforderungen einzugehen.",
         "Generalisierung":  "Wichtigkeit der individuellen Betreuung und des persönlichen Austauschs in der Lehre.",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Subkategorie":  "Empfehlung",
         "Visible":  true
     },
     {
@@ -204,9 +204,9 @@
         "Nummer":  "21",
         "Textausschnitt":  "Es gilt, die potenziellen Vorteile und Nachteile gegeneinander abzuwägen und den Fokus auf eine ganzheitliche und individuelle Lernerfahrung zu legen. Es ist wichtig, ChatGPT als Ergänzung zu anderen Lehrmethoden zu betrachten ist.",
         "Paraphrase":  "Man muss die Vor- und Nachteile von ChatGPT abwägen und den Fokus auf eine ganzheitliche und individuelle Lernerfahrung legen.",
-        "Generalisierung":  "Abwägung der Vor- und Nachteile von ChatGPT für eine ganzheitliche Lernerfahrung.",
+        "Generalisierung":  "Fokus auf eine individuelle Lernerfahrung durch abwägung der Vor- und Nachteile",
         "Kategorie":  "Einsatz in der Lehre",
-        "Subkategorie":  "",
+        "Subkategorie":  "Empfehlung",
         "Visible":  true
     }
 ]
