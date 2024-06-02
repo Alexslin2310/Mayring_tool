@@ -26,7 +26,7 @@
         "Paraphrase":  "Es erforderte ein gewisses Maß an Finesse, um die gewünschten Ergebnisse zu erzielen. Manchmal musste ich meine Fragen oder Eingaben umformulieren, um klarere und präzisere Antworten zu erhalten.",
         "Generalisierung":  "Erfordert Finesse und Umformulierung von Fragen, um klare und präzise Antworten zu erhalten.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenanpassung",
         "Visible":  true
     },
     {
@@ -36,7 +36,7 @@
         "Paraphrase":  "Die Detailliertheit meiner Eingaben variierte je nach Anforderungen der Aufgaben und Fragestellung. Für grundlegende Informationen konnte ich allgemeine Fragen stellen und erhielt erste Antworten, die ich einordnen musste.",
         "Generalisierung":  "Detailliertheit der Eingaben variierte je nach Anforderungen; allgemeine Fragen liefern erste Antworten.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
         "Visible":  true
     },
     {
@@ -46,8 +46,8 @@
         "Paraphrase":  "Bei komplexeren Themen oder spezifischen Fragen musste ich mehr Details und Kontext bereitstellen, um genaue und relevante Informationen zu erhalten. Es war wichtig, präzise zu formulieren und klar zu kommunizieren, um die besten Ergebnisse zu erzielen.",
         "Generalisierung":  "Mehr Details und Kontext für komplexe Themen erforderlich, präzise Formulierung und klare Kommunikation wichtig.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
+        "Visible":  false
     },
     {
         "ID":  "36",

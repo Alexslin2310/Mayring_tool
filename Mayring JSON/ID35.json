@@ -23,11 +23,11 @@
         "ID":  "35",
         "Nummer":  "3",
         "Textausschnitt":  "Bei einfachen Denkanstößen genügten oft kurze und prägnante Fragen, um brauchbare Antworten zu erhalten. Wenn es jedoch um spezifische Fragen ging, die einen Praxisbezug zu einem bestimmten Unternehmen oder Thema hatten, mussten meine Eingaben sehr detailliert sein, um eine möglichst genaue Antwort zu erhalten.",
-        "Paraphrase":  "Bei einfachen Denkanstößen genügten oft kurze Fragen für brauchbare Antworten. Bei spezifischen Fragen mit Praxisbezug mussten die Eingaben sehr detailliert sein.",
-        "Generalisierung":  "Kurze Fragen genügen für einfache Denkanstöße, detaillierte Eingaben sind für spezifische Fragen mit Praxisbezug notwendig.",
+        "Paraphrase":  "Bei spezifischen Fragen mit Praxisbezug mussten die Eingaben sehr detailliert sein.",
+        "Generalisierung":  "Detaillierte Eingaben sind für spezifische Fragen mit Praxisbezug notwendig.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
+        "Visible":  false
     },
     {
         "ID":  "35",
@@ -36,7 +36,7 @@
         "Paraphrase":  "Ein weiteres Problem war die Schwierigkeit, relevante Informationen so zu formulieren, dass ChatGPT sie verstehen konnte. Je präziser die Informationen, desto genauer die Antworten.",
         "Generalisierung":  "Schwierigkeit, relevante Informationen präzise zu formulieren; je präziser die Informationen, desto genauer die Antworten.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
         "Visible":  true
     },
     {

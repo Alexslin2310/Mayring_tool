@@ -6,7 +6,7 @@
         "Paraphrase":  "Die Nutzung von ChatGPT kann einfach oder komplex sein, abhängig von der Spezifität und Detailliertheit der Fragen und Anforderungen.",
         "Generalisierung":  "Nutzung von ChatGPT variiert je nach Spezifität und Detailliertheit der Fragen.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
         "Visible":  true
     },
     {
@@ -27,7 +27,7 @@
         "Generalisierung":  "Eingaben hängen stark von der Art der Frage und spezifischen Anforderungen ab.",
         "Kategorie":  "Eingabedetaillierung",
         "Subkategorie":  "",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "15",

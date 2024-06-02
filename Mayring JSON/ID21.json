@@ -16,7 +16,7 @@
         "Paraphrase":  "Die Komplexität von ChatGPT hängt von der Frage ab. Für detaillierte Antworten muss die Eingabe genau sein.",
         "Generalisierung":  "Komplexität und Genauigkeit der Eingabe beeinflussen die Antworten von ChatGPT.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
         "Visible":  true
     },
     {
@@ -206,7 +206,7 @@
         "Paraphrase":  "ChatGPT lernt mit und passt sich den Eingaben an, was Google oder Scholar nicht können.",
         "Generalisierung":  "ChatGPT lernt mit und passt sich den Eingaben an.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Adaptivität",
         "Visible":  true
     },
     {

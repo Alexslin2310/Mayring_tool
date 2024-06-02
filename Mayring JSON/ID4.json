@@ -16,7 +16,7 @@
         "Paraphrase":  "ChatGPT kann auch mit wenig detaillierten Eingaben relevante Informationen liefern.",
         "Generalisierung":  "Relevante Informationen von ChatGPT trotz wenig detaillierter Eingaben.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
         "Visible":  true
     },
     {
@@ -26,7 +26,7 @@
         "Paraphrase":  "Man kann den Output von ChatGPT durch detailliertere Eingaben steuern.",
         "Generalisierung":  "Steuerung des Outputs von ChatGPT durch detaillierte Eingaben.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
         "Visible":  true
     },
     {

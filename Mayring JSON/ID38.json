@@ -36,7 +36,7 @@
         "Paraphrase":  "Eine bemerkenswerte Eigenschaft von ChatGPT ist die Fähigkeit, mit weniger detaillierten Eingaben umzugehen und relevante Informationen zu liefern.",
         "Generalisierung":  "Fähigkeit, mit weniger detaillierten Eingaben umzugehen und relevante Informationen zu liefern.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
         "Visible":  true
     },
     {
@@ -56,7 +56,7 @@
         "Paraphrase":  "Durch detailliertere Eingaben konnte der Output bewusst beeinflusst werden. Man kann ChatGPT durch detailreichere Eingaben in eine gewünschte Richtung lenken.",
         "Generalisierung":  "Detailliertere Eingaben können den Output bewusst beeinflussen und in gewünschte Richtung lenken.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
         "Visible":  true
     },
     {

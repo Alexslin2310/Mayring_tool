@@ -16,7 +16,7 @@
         "Paraphrase":  "Neben den Kerninformationen muss man auch relevante Zusatzinformationen angeben und die Fragen geschickt umformulieren, um bessere Antworten zu erhalten. Es erfordert Fingerspitzengefühl und eine kreative Herangehensweise.",
         "Generalisierung":  "Relevante Zusatzinformationen und geschickte Umformulierung der Fragen sind notwendig für bessere Antworten.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenanpassung",
         "Visible":  true
     },
     {
@@ -26,7 +26,7 @@
         "Paraphrase":  "Viele Fragen bauen auf vorherigen Fragen und Antworten auf. Es ist wichtig, diese Informationen in den Dialogen wiederzugeben, um Kontext und Kontinuität zu schaffen.",
         "Generalisierung":  "Wiederholung vorheriger Informationen wichtig für Kontext und Kontinuität.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Adaptivität",
         "Visible":  true
     },
     {

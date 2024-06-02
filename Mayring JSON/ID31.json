@@ -16,7 +16,7 @@
         "Paraphrase":  "Die Eingaben mussten sehr detailliert sein, einschließlich der Aufgabe, des Kontexts, der gewünschten Form der Ausgabe und erwarteter Inhaltsdetails.",
         "Generalisierung":  "Sehr detaillierte Eingaben erforderlich, einschließlich Aufgabe, Kontext, gewünschter Form der Ausgabe und Inhaltsdetails.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
         "Visible":  true
     },
     {

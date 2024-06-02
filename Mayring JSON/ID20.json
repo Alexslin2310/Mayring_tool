@@ -26,7 +26,7 @@
         "Paraphrase":  "Man muss präzise genug eingeben, damit ChatGPT versteht, was gemeint ist, ähnlich wie bei der Kommunikation mit einem Menschen.",
         "Generalisierung":  "Präzise Eingabe erforderlich, damit ChatGPT versteht, was gemeint ist.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
         "Visible":  true
     },
     {
@@ -66,7 +66,7 @@
         "Paraphrase":  "Die Antworten von ChatGPT waren oft allgemein und theoretisch. Erst durch zusätzliche Aufforderung, eine konkrete Person zu benennen, kamen nützliche Antworten.",
         "Generalisierung":  "Nützliche Antworten durch zusätzliche Aufforderung, konkrete Informationen zu benennen.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
         "Visible":  true
     },
     {

@@ -36,7 +36,7 @@
         "Paraphrase":  "Ich definierte klare Rahmenbedingungen wie wissenschaftlichen Schreibstil und angemessenen Sprachgebrauch.",
         "Generalisierung":  "Definition klarer Rahmenbedingungen vor der Nutzung von ChatGPT.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Adaptivität",
         "Visible":  true
     },
     {
@@ -96,8 +96,8 @@
         "Paraphrase":  "Um den Lesefluss zu verbessern, mussten Verbindungswörter eingefügt und Sätze umstrukturiert werden.",
         "Generalisierung":  "Verbesserung des Leseflusses durch Einfügen von Verbindungswörtern und Umstrukturierung von Sätzen.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Subkategorie":  "Adaptivität",
+        "Visible":  false
     },
     {
         "ID":  "12",
@@ -117,7 +117,7 @@
         "Generalisierung":  "Überprüfung der Inhalte wegen veralteter Informationen und fehlender Quellenangaben notwendig.",
         "Kategorie":  "Herausforderungen",
         "Subkategorie":  "Fehlende Quellen und Verlässlichkeit",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "12",

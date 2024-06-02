@@ -26,8 +26,8 @@
         "Paraphrase":  "Für die Erstellung eines Textes für eine wissenschaftliche Arbeit mit ChatGPT muss der Anwender bei komplexen Fragen sehr detaillierte Eingaben machen, da ansonsten die Antworten zu allgemein sind.",
         "Generalisierung":  "Sehr detaillierte Eingaben notwendig für präzise Antworten bei wissenschaftlichen Arbeiten.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
+        "Visible":  false
     },
     {
         "ID":  "23",
@@ -36,8 +36,8 @@
         "Paraphrase":  "Bei längeren Konversationen bezieht sich die KI auf frühere Textelemente und lernt dazu, um präzisere Antworten zu liefern.",
         "Generalisierung":  "KI lernt bei längeren Konversationen dazu und liefert präzisere Antworten.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Subkategorie":  "Adaptivität",
+        "Visible":  false
     },
     {
         "ID":  "23",
@@ -76,7 +76,7 @@
         "Paraphrase":  "ChatGPT kann Fließtext generieren und gleichzeitig Verständnisfragen klären, was der KI hilft, das Thema besser zu verstehen und präzisere Antworten zu geben.",
         "Generalisierung":  "Fließtextgenerierung und gleichzeitige Klärung von Verständnisfragen helfen der KI, das Thema besser zu verstehen und präzisere Antworten zu geben.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Adaptivität",
         "Visible":  true
     },
     {

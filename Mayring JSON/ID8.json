@@ -6,7 +6,7 @@
         "Paraphrase":  "Manchmal musste ich Fragen umformulieren, um gute Ergebnisse zu erzielen, aber es hat gut funktioniert.",
         "Generalisierung":  "Umformulieren von Fragen kann für bessere Ergebnisse von ChatGPT ergeben.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenanpassung",
         "Visible":  true
     },
     {
@@ -117,7 +117,7 @@
         "Generalisierung":  "ChatGPT liefert keine Quellenangaben; eigenes Arbeiten an wissenschaftlichen Arbeiten nötig.",
         "Kategorie":  "Herausforderungen",
         "Subkategorie":  "Fehlende Quellen und Verlässlichkeit",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "8",

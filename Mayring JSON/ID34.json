@@ -26,7 +26,7 @@
         "Paraphrase":  "Die Fragen an den Chatbot müssen nicht besonders detailliert sein. Fehlt etwas in der Antwort, kann man bei der nächsten Eingabe spezifischer werden und Details anfordern.",
         "Generalisierung":  "Fragen müssen nicht detailliert sein, fehlende Details können in der nächsten Eingabe angefordert werden.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
         "Visible":  true
     },
     {

@@ -16,7 +16,7 @@
         "Paraphrase":  "Die Eingaben mussten nicht sehr detailliert sein, ChatGPT verstand den Kontext und lieferte relevante Informationen.",
         "Generalisierung":  "Relevante Informationen von ChatGPT trotz weniger detaillierter Eingaben.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
         "Visible":  true
     },
     {
@@ -46,7 +46,7 @@
         "Paraphrase":  "Es erforderte klare und präzise Formulierung der Fragen, um bessere Ergebnisse zu erzielen.",
         "Generalisierung":  "Notwendigkeit klarer und präziser Fragen für bessere Ergebnisse bei ChatGPT.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
         "Visible":  true
     },
     {

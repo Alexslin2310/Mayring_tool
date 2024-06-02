@@ -66,8 +66,8 @@
         "Paraphrase":  "Die Qualität der Antworten von ChatGPT hängt stark von der Klarheit der Fragen ab.",
         "Generalisierung":  "Qualität der Antworten von ChatGPT hängt von der Qualität der Fragen ab.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
+        "Visible":  false
     },
     {
         "ID":  "3",
@@ -76,7 +76,7 @@
         "Paraphrase":  "Man muss präzise und gut strukturierte Fragen stellen, um gute Ergebnisse zu erhalten.",
         "Generalisierung":  "Bedeutung präziser und strukturierter Fragen für gute Ergebnisse bei ChatGPT.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
         "Visible":  true
     },
     {
@@ -97,7 +97,7 @@
         "Generalisierung":  "Neigung von ChatGPT, vom Hauptthema abzuweichen.",
         "Kategorie":  "Herausforderungen",
         "Subkategorie":  "Benutzererfahrung",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "3",
@@ -147,7 +147,7 @@
         "Generalisierung":  "Nützliche Unterstützung durch ChatGPT beim Textverfassen.",
         "Kategorie":  "Unterstützungsbereiche",
         "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "3",

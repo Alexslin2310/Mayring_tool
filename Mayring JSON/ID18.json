@@ -16,7 +16,7 @@
         "Paraphrase":  "Allgemeine Fragen führten zu allgemeinen und unzureichenden Antworten. Die relevanten Aspekte der Aufgabenstellung wurden nicht ausreichend berücksichtigt.",
         "Generalisierung":  "Allgemeine Fragen führen zu unzureichenden Antworten ohne Berücksichtigung relevanter Aspekte.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
         "Visible":  true
     },
     {
@@ -26,7 +26,7 @@
         "Paraphrase":  "Durch Integration der relevanten Aspekte in die Fragen hat sich die Qualität der Antworten deutlich verbessert.",
         "Generalisierung":  "Integration relevanter Aspekte in Fragen verbessert die Qualität der Antworten.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
         "Visible":  true
     },
     {

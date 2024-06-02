@@ -26,7 +26,7 @@
         "Paraphrase":  "Für allgemeine Fragen reichen oft kurze und prägnante Eingaben aus.",
         "Generalisierung":  "Kurze und prägnante Eingaben reichen für allgemeine Fragen aus.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
         "Visible":  true
     },
     {
@@ -36,7 +36,7 @@
         "Paraphrase":  "Für komplexere Fragen oder spezifische Informationen musste ich manchmal detaillierte Angaben machen, um genaue Antworten zu erhalten.",
         "Generalisierung":  "Detaillierte Angaben notwendig für genaue Antworten bei komplexeren Fragen.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
         "Visible":  true
     },
     {

@@ -36,7 +36,7 @@
         "Paraphrase":  "Die Detailtiefe der Eingaben variierte je nach Frage. Allgemeine Fragen erforderten weniger Details, spezifische Fragen benötigten detailliertere Eingaben für genauere Antworten.",
         "Generalisierung":  "Detailtiefe der Eingaben variierte je nach Frage.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
         "Visible":  true
     },
     {
@@ -46,7 +46,7 @@
         "Paraphrase":  "Es war wichtig, die Fragen klar und präzise zu formulieren, damit ChatGPT den Kontext verstand und relevante Informationen liefern konnte.",
         "Generalisierung":  "Klare und präzise Formulierung der Fragen war wichtig.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
         "Visible":  true
     },
     {

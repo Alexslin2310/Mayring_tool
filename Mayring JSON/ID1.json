@@ -56,7 +56,7 @@
         "Paraphrase":  "ChatGPT hat nicht immer auf meine speziellen Anforderungen reagiert, was zusätzliche Anpassungen erforderte.",
         "Generalisierung":  "Unzureichende Anpassung von ChatGPT an spezifische Anforderungen.",
         "Kategorie":  "Herausforderungen",
-        "Subkategorie":  "Korrektur und Verbesserung",
+        "Subkategorie":  "Nacharbeit und Mehraufwand",
         "Visible":  true
     },
     {
@@ -97,6 +97,6 @@
         "Generalisierung":  "Nutzung von ChatGPT könnte zur Faulheit und oberflächlichem Wissen bei Schülern führen.",
         "Kategorie":  "Herausforderungen",
         "Subkategorie":  "Auswirkungen auf das Lernen und kognitive Prozesse",
-        "Visible":  true
+        "Visible":  false
     }
 ]

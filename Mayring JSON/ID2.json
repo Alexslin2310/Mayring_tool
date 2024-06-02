@@ -86,7 +86,7 @@
         "Paraphrase":  "Fragen für Hausarbeiten müssen angepasst werden, es ist besser, zuerst nach einer Theorie zu fragen.",
         "Generalisierung":  "Anpassung der Fragestellung für bessere Ergebnisse von ChatGPT.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenanpassung",
         "Visible":  true
     },
     {
@@ -127,7 +127,7 @@
         "Generalisierung":  "Beschleunigung des Schreibprozesses und mehr Zeit für Analyse durch KI.",
         "Kategorie":  "Unterstützungsbereiche",
         "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "2",

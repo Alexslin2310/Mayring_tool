@@ -16,8 +16,8 @@
         "Paraphrase":  "Ich musste meine Eingaben genau und detailliert machen, um präzise Antworten zu bekommen.",
         "Generalisierung":  "Notwendigkeit detaillierter Eingaben für präzise Antworten von ChatGPT.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
-        "Visible":  true
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
+        "Visible":  false
     },
     {
         "ID":  "11",
@@ -36,7 +36,7 @@
         "Paraphrase":  "Ich gab dem Chatbot zusätzliche Informationen, um bessere und tiefere Antworten zu erhalten.",
         "Generalisierung":  "Zusätzliche Informationen führen zu besseren und tiefergehenden Antworten von ChatGPT.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenqualität und Detaillierungsgrad",
         "Visible":  true
     },
     {
@@ -46,7 +46,7 @@
         "Paraphrase":  "Wenn die Antworten oberflächlich waren, musste ich mehrfach nachfragen oder die Fragen anpassen.",
         "Generalisierung":  "Oberflächliche Antworten erfordern mehrfaches Nachfragen oder Anpassen der Fragen.",
         "Kategorie":  "Eingabedetaillierung",
-        "Subkategorie":  "",
+        "Subkategorie":  "Fragenanpassung",
         "Visible":  true
     },
     {
@@ -87,7 +87,7 @@
         "Generalisierung":  "Hilfreich bei der Textformulierung durch ChatGPT.",
         "Kategorie":  "Unterstützungsbereiche",
         "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "11",
@@ -147,7 +147,7 @@
         "Generalisierung":  "Arbeitserleichterung durch ChatGPT durch Umwandlung von Informationen in Text.",
         "Kategorie":  "Unterstützungsbereiche",
         "Subkategorie":  "Unterstützung beim Schreiben und Formulieren",
-        "Visible":  true
+        "Visible":  false
     },
     {
         "ID":  "11",
